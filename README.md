@@ -406,6 +406,16 @@ Skills:
 
 ---
 
+## ◈ 3D CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/saaqibmohiddin/saaqibmohiddin/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Night View GitHub Contribution Graph"/>
+
+</div>
+
+---
+
 ## ◈ 10 — DEVELOPER COMMAND CENTER
 
 ```text
@@ -441,15 +451,7 @@ Learn. Build. Innovate. Repeat.
 
 ---
 
-## ◈ 3D CONTRIBUTION GRAPH
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/saaqibmohiddin/saaqibmohiddin/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Night View GitHub Contribution Graph"/>
-
-</div>
-
----
 
 
 ## ◈ 11 — AI DEVELOPER INTELLIGENCE HUB
