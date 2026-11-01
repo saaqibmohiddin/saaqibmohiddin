@@ -1,28 +1,34 @@
-MOHAMMED SAAQIB MOHIDDIN
+<div align="center"><!-- PROJECT AEGIS HEADER --><img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:030712,45:111C45,100:2563EB&text=SAAQIB%20MOHIDDIN&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20GENERATIVE%20AI%20%7C%20PYTHON%20%7C%20FULL-STACK&descSize=13&descAlignY=60&animation=fadeIn" width="100%" alt="Project Aegis Banner"/>MOHAMMED SAAQIB MOHIDDIN
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:030712,35:0B1F46,70:2563EB,100:00E5FF&text=PROJECT%20AEGIS&fontSize=48&fontColor=DCE6F1&fontAlignY=36&desc=MOHAMMED%20SAAQIB%20MOHIDDIN%20%7C%20AI%20%26%20CYBER%20INTELLIGENCE&descSize=13&descAlignY=58&animation=fadeIn" width="100%" alt="PROJECT AEGIS AI Cyber Intelligence Banner"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=750&lines=ARTIFICIAL+INTELLIGENCE+%7C+MACHINE+LEARNING;GENERATIVE+AI+%7C+LLMs+%7C+NLP;PYTHON+%7C+FULL-STACK+DEVELOPMENT;BUILDING+INTELLIGENT+DIGITAL+SOLUTIONS;LEARN.+BUILD.+INNOVATE.+PROTECT." alt="AI and developer focus"/>INTELLIGENCE. INNOVATION. ENGINEERING. DIGITAL DEFENCE.
+PROJECT AEGIS | AI DEVELOPER COMMAND CENTER
 
-Building intelligent solutions. Engineering practical applications. Exploring the future of technology.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=650&lines=Building+Intelligent+Digital+Solutions;Exploring+Artificial+Intelligence;Python+%26+Generative+AI;Machine+Learning+%7C+Deep+Learning;Engineering+Practical+Applications" alt="Typing introduction"/>INTELLIGENCE. INNOVATION. ENGINEERING. DIGITAL DEFENCE.
 
-""GitHub" (https://img.shields.io/badge/GitHub-Profile-030712?style=for-the-badge&logo=github&logoColor=00E5FF)" (https://github.com/saaqibmohiddin)
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/mohammed-saaqib-mohiddin-89b434269/)
-""Email" (https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:msaaqib777@gmail.com)
+Building intelligent solutions.
+Engineering practical applications.
+Exploring the future of technology.
 
-"Profile Views" (https://komarev.com/ghpvc/?username=saaqibmohiddin&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS)
-"Followers" (https://img.shields.io/github/followers/saaqibmohiddin?style=for-the-badge&logo=github&color=00E5FF)
-"Stars" (https://img.shields.io/github/stars/saaqibmohiddin?style=for-the-badge&logo=github&color=8B5CF6)
+<br/><a href="https://github.com/saaqibmohiddin">
+  <img src="https://img.shields.io/badge/GitHub-Profile-030712?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/mohammed-saaqib-mohiddin-89b434269/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:msaaqib777@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a><img src="https://komarev.com/ghpvc/?username=saaqibmohiddin&style=flat-square&color=00E5FF&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/saaqibmohiddin?style=flat-square&color=2563EB&label=FOLLOWERS" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/saaqibmohiddin?style=flat-square&color=8B5CF6&label=TOTAL+STARS" alt="Stars"/></div>---
 
-</div>---
+01 | SYSTEM IDENTITY
 
-◈ 01 — AEGIS IDENTITY PROFILE
+name: Mohammed Saaqib Mohiddin
+username: saaqibmohiddin
+role: Developer
+education: B.Tech - Computer Science and Engineering
+specialization: Artificial Intelligence
 
-identity:
-  name: Mohammed Saaqib Mohiddin
-  username: saaqibmohiddin
-  designation: Developer
-  domain: AI and Software Engineering
-
-primary_focus:
+focus_areas:
   - Artificial Intelligence
   - Generative AI
   - Machine Learning
@@ -31,313 +37,227 @@ primary_focus:
   - Python Development
   - Full-Stack Development
 
-mission:
-  - Build intelligent applications
-  - Engineer practical software solutions
-  - Explore emerging technologies
-  - Continuously improve technical skills
+mindset: Learn | Build | Innovate | Improve
 
-operating_principle: Learn | Build | Innovate | Improve
+02 | ABOUT ME
 
-◈ 02 — ABOUT THE DEVELOPER
+I am a Computer Science and Engineering student specializing in Artificial Intelligence, passionate about building practical software applications and exploring emerging technologies.
 
-I'm a Computer Science and Engineering student specializing in Artificial Intelligence, passionate about building practical software solutions and exploring emerging technologies.
+My interests include Artificial Intelligence, Generative AI, Machine Learning, Python Development and Full-Stack Development.
 
-My interests include Artificial Intelligence, Generative AI, Machine Learning, Python Development, and Full-Stack Engineering.
-
-Core activities
+What I do:
 
 - Develop Python-based applications.
-- Explore Artificial Intelligence and Machine Learning.
-- Build Generative AI concepts and applications.
+- Explore Artificial Intelligence and Machine Learning concepts.
+- Build projects involving Generative AI.
 - Develop frontend and backend applications.
 - Work with databases and REST APIs.
 - Explore practical software engineering solutions.
 
-Current exploration
+Currently exploring:
 
-"Generative AI" · "LLMs" · "Deep Learning" · "NLP" · "AI Applications" · "Modern Software Engineering"
+- Generative AI and Large Language Models.
+- Deep Learning and Neural Networks.
+- Natural Language Processing.
+- AI-powered applications.
+- Modern full-stack development.
 
----
+03 | EDUCATION
 
-◈ 03 — EDUCATION & ACADEMIC PROFILE
+Bachelor of Technology – B.Tech
 
-<div align="center"><img src="https://img.shields.io/badge/ACADEMIC%20PROFILE-AEGIS%20EDUCATION-2563EB?style=for-the-badge" alt="Academic profile"/>BACHELOR OF TECHNOLOGY — B.TECH
+- Branch: Computer Science and Engineering
+- Specialization: Artificial Intelligence
+- College: Audisankara College of Engineering and Technology
+- Location: Gudur, Andhra Pradesh, India
+- University: Jawaharlal Nehru Technological University Anantapur (JNTUA)
+- Academic period: 2023–2027
 
-Computer Science and Engineering
-
-Specialization: Artificial Intelligence
-
-College: Audisankara College of Engineering and Technology
-
-Location: Gudur, Andhra Pradesh, India
-
-University: Jawaharlal Nehru Technological University Anantapur (JNTUA)
-
-Academic Duration: 2023 – 2027
-
-</div>---
-
-◈ 04 — TECHNOLOGY ECOSYSTEM
+04 | TECHNOLOGY ECOSYSTEM
 
 <div align="center">PROGRAMMING LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" alt="Python Java JavaScript"/>FRONTEND DEVELOPMENT
+<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" alt="Programming languages"/>FRONTEND DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap&theme=dark" alt="HTML CSS React Bootstrap"/>BACKEND DEVELOPMENT
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap&theme=dark" alt="Frontend technologies"/>BACKEND DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi&theme=dark" alt="Django Flask FastAPI"/>DATABASE TECHNOLOGIES
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi&theme=dark" alt="Backend technologies"/>DATABASES
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" alt="MySQL PostgreSQL SQLite"/>DEVELOPER TOOLS
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" alt="Databases"/>DATA SCIENCE AND MACHINE LEARNING
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub VS Code"/></div>AI & MACHINE LEARNING
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>TOOLS AND DEVELOPMENT
 
-"Artificial Intelligence" · "Machine Learning" · "Deep Learning" · "Generative AI" · "NLP" · "LLMs"
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Development tools"/></div>Additional Technologies
 
-PYTHON LIBRARIES
+- Python frameworks and interfaces: Streamlit, Tkinter
+- Backend and integration: REST APIs
+- Database languages: SQL
+- AI domains: AI, ML, Deep Learning, GenAI, NLP and LLMs
 
-"NumPy" · "Pandas" · "Matplotlib" · "Scikit-learn"
+05 | TECHNOLOGY SHOWCASE
 
-OTHER TECHNOLOGIES
+<div align="center"><img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-030712?style=for-the-badge&logo=probot&logoColor=00E5FF" alt="Artificial Intelligence"/>
+<img src="https://img.shields.io/badge/GENERATIVE_AI-030712?style=for-the-badge&logo=openai&logoColor=00E5FF" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-030712?style=for-the-badge&logo=scikitlearn&logoColor=2563EB" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/DEEP_LEARNING-030712?style=for-the-badge&logo=pytorch&logoColor=8B5CF6" alt="Deep Learning"/>
+<img src="https://img.shields.io/badge/NLP-030712?style=for-the-badge&logo=googletranslate&logoColor=00E5FF" alt="NLP"/>
+<img src="https://img.shields.io/badge/LLMs-030712?style=for-the-badge&logo=openai&logoColor=DCE6F1" alt="LLMs"/></div>Technology Radar
 
-"Streamlit" · "Tkinter" · "REST APIs" · "SQL"
-
----
-
-◈ 05 — TECHNICAL CAPABILITY MATRIX
-
-<table>
-<tr>
-<td width="50%" valign="top">🧠 Artificial Intelligence
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-
-</td>
-<td width="50%" valign="top">✨ Generative AI
-
-- Generative AI
-- Large Language Models
-- AI-powered applications
-- Intelligent automation
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">🐍 Python Ecosystem
-
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-
-</td>
-<td width="50%" valign="top">🎨 Frontend Engineering
-
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Bootstrap
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">⚙️ Backend Engineering
-
-- Python
-- Flask
-- Django
-- FastAPI
-- REST APIs
-
-</td>
-<td width="50%" valign="top">🗄️ Database Engineering
-
-- MySQL
-- PostgreSQL
-- SQLite
-
-</td>
-</tr>
-</table>---
-
-◈ 06 — PROJECT OPERATIONS CENTER
-
-Selected software and AI-oriented projects.
-
-<table>
-<tr>
-<td width="50%" valign="top">📦 Inventory Management System
-
-Software project focused on inventory management.
-
-"🚀 Live Demo" (https://saaqibmohiddin.github.io/Inventory-Management/)
-
-"📂 Source Code" (https://github.com/saaqibmohiddin/Inventory-Management)
-
-</td>
-<td width="50%" valign="top">🤖 AI Learning Path Generator
-
-AI-oriented project focused on generating learning paths.
-
-"🚀 Live Demo" (https://saaqibmohiddin.github.io/AI-Learning-Path-Generator/)
-
-"📂 Source Code" (https://github.com/saaqibmohiddin/AI-Learning-Path-Generator)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">🏥 Smart Hospital Queue
-
-Software project focused on hospital queue management.
-
-"🚀 Live Demo" (https://saaqibmohiddin.github.io/Smart-Hospital-Queue/)
-
-"📂 Source Code" (https://github.com/saaqibmohiddin/Smart-Hospital-Queue)
-
-</td>
-<td width="50%" valign="top">🌐 AI Language Translator
-
-AI-oriented language translation project.
-
-"🚀 Live Demo" (https://saaqibmohiddin.github.io/AI-Language-Translator/)
-
-"📂 Source Code" (https://github.com/saaqibmohiddin/AI-Language-Translator)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">🏦 Banking Management System
-
-Banking management software project.
-
-"🚀 Live Demo" (https://saaqibmohiddin.github.io/Banking-Management-System/)
-
-"📂 Source Code" (https://github.com/saaqibmohiddin/Banking-Management-System)
-
-</td>
-<td width="50%" valign="top">🎓 Student Management System
-
-Student management software project.
-
-"🚀 Live Demo" (https://saaqibmohiddin.github.io/Student-Management-System/)
-
-"📂 Source Code" (https://github.com/saaqibmohiddin/Student-Management-System)
-
-</td>
-</tr>
-</table><div align="center">💬 Python ChatBot
-
-Python-based chatbot project.
-
-"🚀 Live Demo" (https://saaqibmohiddin.github.io/Python-ChatBot/)
-
-"📂 Source Code" (https://github.com/saaqibmohiddin/Python-ChatBot)
-
-</div>---
-
-◈ 07 — CERTIFICATIONS & PROFESSIONAL LEARNING
-
-<div align="center">🔵 01 — TATA | GenAI Powered Data Analytics Job Simulation
-
-<img src="./GenAI.jpg" width="85%" alt="Tata GenAI Powered Data Analytics Certificate"/>Organization: Tata through Forage
-
-Completion Date: July 25, 2026
-
-Skills: Exploratory Data Analysis, AI Risk Profiling, Delinquency Prediction, Data Storytelling, AI-driven Collections Strategy.
+Domain| Technologies
+AI| Artificial Intelligence, ML, DL
+Generative AI| GenAI, LLMs
+Programming| Python, Java, JavaScript
+Frontend| HTML, CSS, React, Bootstrap
+Backend| Django, Flask, FastAPI
+Database| MySQL, PostgreSQL, SQLite
+Data Science| NumPy, Pandas, Matplotlib, Scikit-learn
+Development Tools| Git, GitHub, VS Code
+Other| Streamlit, Tkinter, REST APIs, SQL
 
 ---
 
-🟢 02 — BCG X | GenAI Job Simulation
+06 | FEATURED PROJECTS
 
-<img src="./Gen%20AI%20Job%20Simulation.jpg" width="85%" alt="BCG X GenAI Job Simulation Certificate"/>Organization: BCG X through Forage
+A collection of projects focused on software development, practical applications and AI-oriented ideas.
 
-Completion Date: September 4, 2026
+01. Inventory Management System
 
-Skills: Data Extraction, Initial Data Analysis, AI-powered Financial Chatbot Development.
+A software application for inventory management.
 
----
+- Live Demo: "Open Application" (https://saaqibmohiddin.github.io/Inventory-Management/)
+- Source Code: "GitHub Repository" (https://github.com/saaqibmohiddin/Inventory-Management)
 
-🔷 03 — IBM SkillsBuild | AI Literacy
+02. AI Learning Path Generator
 
-<img src="./AILiteracy.jpg" width="85%" alt="IBM SkillsBuild AI Literacy Certificate"/>Organization: IBM SkillsBuild
+An AI-oriented application for generating learning paths.
 
-Completion Date: September 4, 2026
+- Live Demo: "Open Application" (https://saaqibmohiddin.github.io/AI-Learning-Path-Generator/)
+- Source Code: "GitHub Repository" (https://github.com/saaqibmohiddin/AI-Learning-Path-Generator)
 
-Skills and Learning Areas:
+03. Smart Hospital Queue
 
-- Artificial Intelligence Fundamentals
-- Understanding AI Concepts and Applications
+A software project focused on hospital queue management.
+
+- Live Demo: "Open Application" (https://saaqibmohiddin.github.io/Smart-Hospital-Queue/)
+- Source Code: "GitHub Repository" (https://github.com/saaqibmohiddin/Smart-Hospital-Queue)
+
+04. AI Language Translator
+
+An AI-oriented language translation application.
+
+- Live Demo: "Open Application" (https://saaqibmohiddin.github.io/AI-Language-Translator/)
+- Source Code: "GitHub Repository" (https://github.com/saaqibmohiddin/AI-Language-Translator)
+
+05. Banking Management System
+
+A software application for banking management.
+
+- Live Demo: "Open Application" (https://saaqibmohiddin.github.io/Banking-Management-System/)
+- Source Code: "GitHub Repository" (https://github.com/saaqibmohiddin/Banking-Management-System)
+
+06. Student Management System
+
+A software application for student management.
+
+- Live Demo: "Open Application" (https://saaqibmohiddin.github.io/Student-Management-System/)
+- Source Code: "GitHub Repository" (https://github.com/saaqibmohiddin/Student-Management-System)
+
+07. Python ChatBot
+
+A chatbot application developed using Python.
+
+- Live Demo: "Open Application" (https://saaqibmohiddin.github.io/Python-ChatBot/)
+- Source Code: "GitHub Repository" (https://github.com/saaqibmohiddin/Python-ChatBot)
+
+<div align="center"><a href="https://github.com/saaqibmohiddin?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE-ALL_PROJECTS-00E5FF?style=for-the-badge&logo=github&logoColor=030712" alt="Explore all projects"/>
+</a></div>---
+
+07 | CERTIFICATIONS
+
+Tata – GenAI Powered Data Analytics Job Simulation
+
+<img src="./GenAI.jpg" width="100%" alt="Tata GenAI Powered Data Analytics Job Simulation Certificate"/>Provider: Tata through Forage
+Completed: July 25, 2026
+
+Skills and topics:
+
+- Exploratory Data Analysis
+- AI Risk Profiling
+- Delinquency Prediction
+- Data Storytelling
+- AI-driven Collections Strategy
+
+BCG X – GenAI Job Simulation
+
+<img src="./Gen%20AI%20Job%20Simulation.jpg" width="100%" alt="BCG X GenAI Job Simulation Certificate"/>Provider: BCG X through Forage
+Completed: September 4, 2026
+
+Skills and topics:
+
+- Data Extraction
+- Initial Analysis
+- AI-powered Financial Chatbot Development
+
+IBM SkillsBuild – AI Literacy
+
+<img src="./AILiteracy.jpg" width="100%" alt="IBM SkillsBuild AI Literacy Certificate"/>Provider: IBM SkillsBuild
+Completed: September 4, 2026
+
+Skills and topics:
+
+- AI Fundamentals
+- AI Concepts and Applications
 - Machine Learning Fundamentals
 - Generative AI Awareness
 - Responsible and Ethical AI
-- AI in Real-World Applications
+- Real-world AI Applications
 
-</div>---
+---
 
-◈ 08 — GITHUB ANALYTICS COMMAND CENTER
+08 | GITHUB ANALYTICS COMMAND CENTER
 
-<div align="center">PROFILE STATISTICS
+<div align="center">GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saaqibmohiddin&show_icons=true&hide_border=true&bg_color=030712&title_color=00E5FF&icon_color=8B5CF6&text_color=DCE6F1&rank_icon=github" alt="GitHub profile statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaqibmohiddin&layout=compact&hide_border=true&bg_color=030712&title_color=00E5FF&text_color=DCE6F1" alt="Most used programming languages"/>CONTRIBUTION STREAK
+<img src="https://github-readme-stats.vercel.app/api?username=saaqibmohiddin&show_icons=true&hide_border=true&bg_color=030712&title_color=00E5FF&text_color=DCE6F1&icon_color=8B5CF6&rank_icon=github" width="100%" alt="GitHub statistics"/>Most Used Languages
 
-<img width="80%" src="https://streak-stats.demolab.com/?user=saaqibmohiddin&hide_border=true&background=030712&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=DCE6F1&currStreakNum=DCE6F1&sideNums=DCE6F1&dates=94A3B8" alt="GitHub contribution streak"/>GITHUB ACTIVITY
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaqibmohiddin&layout=compact&hide_border=true&bg_color=030712&title_color=00E5FF&text_color=DCE6F1" width="100%" alt="Most used programming languages"/>Contribution Streak
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saaqibmohiddin&bg_color=030712&color=00E5FF&line=2563EB&point=8B5CF6&area=true&hide_border=true" alt="GitHub activity graph"/>ACHIEVEMENT WALL
+<img src="https://streak-stats.demolab.com?user=saaqibmohiddin&theme=transparent&hide_border=true&background=030712&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=DCE6F1&dates=94A3B8" width="100%" alt="GitHub contribution streak"/>GitHub Trophies
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=saaqibmohiddin&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub achievement trophies"/></div>---
+<img src="https://github-profile-trophy.vercel.app/?username=saaqibmohiddin&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=2" width="100%" alt="GitHub trophies"/>Contribution Activity
 
-◈ 09 — CONTRIBUTION ACTIVITY SYSTEM
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saaqibmohiddin&bg_color=030712&color=DCE6F1&line=00E5FF&point=8B5CF6&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/></div>09 | CONTRIBUTION ANIMATIONS
 
-<div align="center">🐍 GITHUB SNAKE ANIMATION
+Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saaqibmohiddin/saaqibmohiddin/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saaqibmohiddin/saaqibmohiddin/output/snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/saaqibmohiddin/saaqibmohiddin/output/snake.svg" width="100%">
-</picture>---
+<div align="center"><img src="https://raw.githubusercontent.com/saaqibmohiddin/saaqibmohiddin/output/snake-dark.svg" width="100%" alt="GitHub contribution snake"/></div>Pac-Man Contribution Graph
 
-👾 PAC-MAN CONTRIBUTION ANIMATION
+<div align="center"><img src="https://raw.githubusercontent.com/saaqibmohiddin/saaqibmohiddin/pacman-output/pacman-contribution-graph-dark.svg" width="100%" alt="Pac-Man contribution graph"/></div>10 | 3D CONTRIBUTION VISUALIZATION
 
-WATCH PAC-MAN EAT YOUR GITHUB CONTRIBUTIONS
+<div align="center"><img src="https://raw.githubusercontent.com/saaqibmohiddin/saaqibmohiddin/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub contribution graph"/></div>---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saaqibmohiddin/saaqibmohiddin/pacman-output/pacman-contribution-graph-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saaqibmohiddin/saaqibmohiddin/pacman-output/pacman-contribution-graph.svg"/>
-  <img src="https://raw.githubusercontent.com/saaqibmohiddin/saaqibmohiddin/pacman-output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man GitHub contribution animation"/>
-</picture>GAME ON! EAT THE CONTRIBUTIONS. CHASE THE FUTURE.
+11 | DEVELOPER COMMAND CENTER
 
-</div>---
-
-◈ 10 — DEVELOPER COMMAND CENTER
-
-┌──────────────────────────────────────────────────┐
-│          PROJECT AEGIS // DEVELOPER TERMINAL     │
-└──────────────────────────────────────────────────┘
++------------------------------------------+
+|       SAAQIB MOHIDDIN // TERMINAL        |
++------------------------------------------+
 
 $ whoami
 Mohammed Saaqib Mohiddin
-
-$ designation
-Computer Science & Engineering | AI Specialization
 
 $ skills
 Python | Java | JavaScript | SQL
 React | Flask | Django | FastAPI
 
-$ intelligence_domains
-AI | ML | Deep Learning | GenAI | NLP | LLMs
+$ interests
+AI | ML | Deep Learning | GenAI | NLP
 
 $ projects
-7 Featured Software and AI Projects
-
-$ education
-B.Tech CSE (Artificial Intelligence)
-2023 - 2027
+Explore my seven featured projects.
 
 $ github
 github.com/saaqibmohiddin
@@ -345,132 +265,88 @@ github.com/saaqibmohiddin
 $ contact
 msaaqib777@gmail.com
 
-$ mission
-Learn. Build. Innovate. Improve.
+$ about
+Learn. Build. Innovate. Repeat.
 
-<sub>Static terminal-inspired presentation. Commands are illustrative and do not execute inside GitHub README.</sub>
+An illustrative developer terminal display. Commands are for presentation, not executable.
 
----
+12 | AI DEVELOPER INTELLIGENCE HUB
 
-◈ 11 — 3D CONTRIBUTION VISUALIZATION
+Areas of exploration
 
-<div align="center"><img src="https://raw.githubusercontent.com/saaqibmohiddin/saaqibmohiddin/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub contribution graph"/></div>---
+- Artificial Intelligence
+- Generative AI
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Large Language Models
 
-◈ 12 — AI DEVELOPER INTELLIGENCE HUB
+Repository Spotlight
 
-<div align="center">"AI" (https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-030712?style=for-the-badge&logo=probot&logoColor=00E5FF)
-"GenAI" (https://img.shields.io/badge/GENERATIVE_AI-030712?style=for-the-badge&logo=openai&logoColor=00E5FF)
-"ML" (https://img.shields.io/badge/MACHINE_LEARNING-030712?style=for-the-badge&logo=scikitlearn&logoColor=2563EB)
-"DL" (https://img.shields.io/badge/DEEP_LEARNING-030712?style=for-the-badge&logo=pytorch&logoColor=8B5CF6)
-"NLP" (https://img.shields.io/badge/NLP-030712?style=for-the-badge&logo=googletranslate&logoColor=00E5FF)
-"LLMs" (https://img.shields.io/badge/LLMs-030712?style=for-the-badge&logo=openai&logoColor=DCE6F1)
+Project| Repository
+Inventory Management| "View" (https://github.com/saaqibmohiddin/Inventory-Management)
+AI Learning Path Generator| "View" (https://github.com/saaqibmohiddin/AI-Learning-Path-Generator)
+Smart Hospital Queue| "View" (https://github.com/saaqibmohiddin/Smart-Hospital-Queue)
+AI Language Translator| "View" (https://github.com/saaqibmohiddin/AI-Language-Translator)
 
-</div>TECHNOLOGY RADAR
+AI Project Assistant
 
-Domain| Technologies
-Artificial Intelligence| AI, ML, Deep Learning, NLP
-Generative AI| GenAI, LLMs
-Python Development| Python, NumPy, Pandas, Matplotlib
-Frontend| HTML, CSS, JavaScript, React
-Backend| Flask, Django, FastAPI
-Databases| MySQL, PostgreSQL, SQLite
-Developer Tools| Git, GitHub, VS Code
+Explore| Access
+Project Portfolio| "Featured Projects" (https://github.com/saaqibmohiddin?tab=repositories)
+AI Repositories| "AI Projects" (https://github.com/saaqibmohiddin?tab=repositories&q=AI)
+Python Repositories| "Python Projects" (https://github.com/saaqibmohiddin?tab=repositories&q=Python)
+Documentation| "All Repositories" (https://github.com/saaqibmohiddin?tab=repositories)
 
----
+13 | CURRENT FOCUS & LEARNING ROADMAP
 
-◈ 13 — REPOSITORY SPOTLIGHT
+Learning focus
 
-<div align="center"><a href="https://github.com/saaqibmohiddin/Inventory-Management">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=saaqibmohiddin&repo=Inventory-Management&bg_color=030712&title_color=00E5FF&text_color=DCE6F1&icon_color=8B5CF6&hide_border=true" alt="Inventory Management repository"/>
-</a>
-<a href="https://github.com/saaqibmohiddin/AI-Learning-Path-Generator">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=saaqibmohiddin&repo=AI-Learning-Path-Generator&bg_color=030712&title_color=00E5FF&text_color=DCE6F1&icon_color=8B5CF6&hide_border=true" alt="AI Learning Path Generator repository"/>
-</a>
-<a href="https://github.com/saaqibmohiddin/Smart-Hospital-Queue">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=saaqibmohiddin&repo=Smart-Hospital-Queue&bg_color=030712&title_color=00E5FF&text_color=DCE6F1&icon_color=8B5CF6&hide_border=true" alt="Smart Hospital Queue repository"/>
-</a>
-<a href="https://github.com/saaqibmohiddin/AI-Language-Translator">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=saaqibmohiddin&repo=AI-Language-Translator&bg_color=030712&title_color=00E5FF&text_color=DCE6F1&icon_color=8B5CF6&hide_border=true" alt="AI Language Translator repository"/>
-</a>"EXPLORE ALL PUBLIC REPOSITORIES →" (https://github.com/saaqibmohiddin?tab=repositories)
+- Advanced Python
+- Artificial Intelligence Applications
+- Machine Learning Models
+- Generative AI, LLMs and RAG
+- Deep Learning and Neural Networks
+- Full-Stack Development with React and FastAPI
 
-</div>---
+Development goals
 
-◈ 14 — DEVELOPER JOURNEY
+- Build practical real-world AI applications.
+- Explore advanced Generative AI concepts.
+- Improve problem-solving and programming skills.
+- Contribute to open-source projects.
+- Keep learning emerging technologies.
 
-Explore my development work and progress through these GitHub resources:
+14 | DEVELOPER JOURNEY
+
+Explore my development journey through:
 
 - "Public Repositories" (https://github.com/saaqibmohiddin?tab=repositories)
-- "Project Releases" (https://github.com/saaqibmohiddin?tab=repositories)
+- "Project Releases" (https://github.com/saaqibmohiddin?tab=releases)
 - "Contribution Activity" (https://github.com/saaqibmohiddin)
-- "Project Demonstrations" (#-06--project-operations-center)
-- "AI Repositories" (https://github.com/saaqibmohiddin?tab=repositories&q=AI)
-- "Python Repositories" (https://github.com/saaqibmohiddin?tab=repositories&q=Python)
+- "Live Project Demonstrations" (https://saaqibmohiddin.github.io/)
 
----
+15 | CONNECT WITH ME
 
-◈ 15 — PROJECT RESOURCE DIRECTORY
-
-Resource| Destination
-Project Portfolio| "Featured Projects" (#-06--project-operations-center)
-AI Projects| "AI Repositories" (https://github.com/saaqibmohiddin?tab=repositories&q=AI)
-Python Projects| "Python Repositories" (https://github.com/saaqibmohiddin?tab=repositories&q=Python)
-All Source Code| "GitHub Repositories" (https://github.com/saaqibmohiddin?tab=repositories)
-Professional Profile| "LinkedIn" (https://www.linkedin.com/in/mohammed-saaqib-mohiddin-89b434269/)
-Contact| "Email" (mailto:msaaqib777@gmail.com)
-
----
-
-◈ 16 — CURRENT FOCUS & LEARNING ROADMAP
-
-<div align="center">🚀 CURRENT LEARNING PRIORITIES
-
-Technology| Focus Area
-Python| Advanced Python Development
-Artificial Intelligence| Practical AI Applications
-Machine Learning| ML Models
-Generative AI| LLMs and RAG
-Deep Learning| Neural Networks
-Full-Stack Development| React and FastAPI
-
-🎯 NEXT DEVELOPMENT GOALS
-
-- Build real-world AI applications.
-- Develop advanced Generative AI projects.
-- Improve problem-solving skills.
-- Contribute to open-source projects.
-- Explore emerging AI technologies.
-- Strengthen software development skills.
-
-LEARN. BUILD. GROW.
-
-</div>---
-
-◈ 17 — CONNECT WITH THE DEVELOPER
-
-<div align="center"><img src="https://img.shields.io/badge/AEGIS%20COMMUNICATION%20CHANNEL-ONLINE-22C55E?style=for-the-badge" alt="Communication channel"/>LET'S BUILD SOMETHING INNOVATIVE!
-
-I'm interested in technology, software development, Artificial Intelligence, and innovative ideas.
+<div align="center">Let's connect and explore technology together.
 
 <a href="https://github.com/saaqibmohiddin">
-<img src="https://img.shields.io/badge/GitHub-Follow-030712?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
-</a><a href="https://www.linkedin.com/in/mohammed-saaqib-mohiddin-89b434269/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a><a href="mailto:msaaqib777@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>GitHub: "@saaqibmohiddin" (https://github.com/saaqibmohiddin)
-
-LinkedIn: "Connect with me" (https://www.linkedin.com/in/mohammed-saaqib-mohiddin-89b434269/)
-
-Email: "msaaqib777@gmail.com" (mailto:msaaqib777@gmail.com)
+  <img src="https://img.shields.io/badge/GitHub-030712?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/mohammed-saaqib-mohiddin-89b434269/">
+  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:msaaqib777@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>Email: msaaqib777@gmail.com
 
 </div>---
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:00E5FF,35:2563EB,70:0B1F46,100:030712" width="100%" alt="PROJECT AEGIS footer"/>PROJECT AEGIS — INTELLIGENCE THROUGH INNOVATION
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:2563EB,50:111C45,100:030712&section=footer" width="100%" alt="Project Aegis footer"/>PROJECT AEGIS
 
-THINK. BUILD. INNOVATE. PROTECT.
+THINK. BUILD. INNOVATE. REPEAT.
 
-<sub>Designed with a vision for Artificial Intelligence, software engineering, and the future of technology.</sub>
+Engineering intelligent solutions for tomorrow.
 
-"⬆ BACK TO TOP" (#-mohammed-saaqib-mohiddin)
-
-</div>
+<a href="#mohammed-saaqib-mohiddin">
+  <img src="https://img.shields.io/badge/BACK_TO_TOP-00E5FF?style=for-the-badge&logo=github&logoColor=030712" alt="Back to top"/>
+</a></div>
