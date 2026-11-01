@@ -64,7 +64,7 @@ My interests span Artificial Intelligence, Generative AI, Machine Learning, Pyth
 
 ---
 
-◈ 03 — EDUCATION & ACADEMIC PROFILE
+## ◈ 03 — EDUCATION & ACADEMIC PROFILE
 
 <div align="center">🎓 BACHELOR OF TECHNOLOGY (B.TECH)
 
@@ -499,7 +499,7 @@ Blog automation will populate this section when an RSS feed is configured.
 ---
 ---
 
-◈ 16 — GITHUB STATISTICS DASHBOARD
+## ◈ 16 — GITHUB STATISTICS DASHBOARD
 
 <div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=saaqibmohiddin&show_icons=true&theme=tokyonight&hide_border=true" /><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaqibmohiddin&layout=compact&theme=tokyonight&hide_border=true" /><img width="70%" src="https://streak-stats.demolab.com?user=saaqibmohiddin&theme=tokyonight&hide_border=true" /></div>---
 
