@@ -64,7 +64,7 @@ My interests span Artificial Intelligence, Generative AI, Machine Learning, Pyth
 
 ---
 
-◈ 02 — EDUCATION & ACADEMIC PROFILE
+◈ 03 — EDUCATION & ACADEMIC PROFILE
 
 <div align="center">🎓 BACHELOR OF TECHNOLOGY (B.TECH)
 
