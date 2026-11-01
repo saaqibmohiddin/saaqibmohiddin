@@ -347,7 +347,7 @@ Skills:
 
 ### GitHub Trophies
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=saaqibmohiddin&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=4" />
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=saaqibmohiddin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
 
 </div>
 
@@ -440,11 +440,17 @@ Learn. Build. Innovate. Repeat.
 <sub>Static terminal-inspired presentation. Commands are illustrative and do not execute inside GitHub README.</sub>
 
 ---
+
 ## ◈ 3D CONTRIBUTION GRAPH
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/saaqibmohiddin/saaqibmohiddin/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub Contribution Graph"/>
+
+<img src="https://raw.githubusercontent.com/saaqibmohiddin/saaqibmohiddin/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Night View GitHub Contribution Graph"/>
+
 </div>
+
+---
+
 
 ## ◈ 11 — AI DEVELOPER INTELLIGENCE HUB
 
@@ -478,20 +484,16 @@ Learn. Build. Innovate. Repeat.
 <div align="center">
 
 <a href="https://github.com/saaqibmohiddin/Inventory-Management">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=saaqibmohiddin&repo=Inventory-Management&theme=tokyonight&hide_border=true" />
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=saaqibmohiddin&repo=Inventory-Management&bg_color=030712&title_color=00E5FF&icon_color=2563EB&text_color=DCE6F1&hide_border=true" />
 
 <a href="https://github.com/saaqibmohiddin/AI-Learning-Path-Generator">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=saaqibmohiddin&repo=AI-Learning-Path-Generator&theme=tokyonight&hide_border=true" />
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=saaqibmohiddin&repo=AI-Learning-Path-Generator&bg_color=030712&title_color=00E5FF&icon_color=2563EB&text_color=DCE6F1&hide_border=true" />
 
 <a href="https://github.com/saaqibmohiddin/Smart-Hospital-Queue">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=saaqibmohiddin&repo=Smart-Hospital-Queue&theme=tokyonight&hide_border=true" />
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=saaqibmohiddin&repo=Smart-Hospital-Queue&bg_color=030712&title_color=00E5FF&icon_color=2563EB&text_color=DCE6F1&hide_border=true" />
 
 <a href="https://github.com/saaqibmohiddin/AI-Language-Translator">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=saaqibmohiddin&repo=AI-Language-Translator&theme=tokyonight&hide_border=true" />
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=saaqibmohiddin&repo=AI-Language-Translator&bg_color=030712&title_color=00E5FF&icon_color=2563EB&text_color=DCE6F1&hide_border=true" />
 
 [Explore All Public Repositories →](https://github.com/saaqibmohiddin?tab=repositories)
 
