@@ -41,24 +41,47 @@ focus:
 mindset: Learn | Build | Innovate | Improve
 ```
 
-## ◈ 02 — ABOUT ME
+◈ 02 — ABOUT ME
 
-I'm a developer passionate about building practical software solutions and exploring emerging technologies.
+<div align="center">BUILDING INTELLIGENT SOLUTIONS. CREATING IMPACT.
 
-My interests span Artificial Intelligence, Generative AI, Machine Learning, Python Development, and Full-Stack Engineering.
+AI Developer | Python Developer | Full-Stack Enthusiast
 
-### What I Do
+</div>I'm a Computer Science and Engineering student specializing in Artificial Intelligence, passionate about developing practical software solutions and exploring emerging technologies.
 
-- Develop Python-based applications.
-- Explore Artificial Intelligence and Machine Learning.
-- Build Generative AI concepts and applications.
-- Develop frontend and backend applications.
-- Work with databases and REST APIs.
-- Explore practical software engineering solutions.
+I enjoy transforming ideas into functional applications through programming, problem-solving, and continuous learning.
 
-### Currently Exploring
+<table width="100%">
+<tr>
+<td width="50%" align="center">🧠 AI & INTELLIGENCE
 
-`Generative AI` · `LLMs` · `Deep Learning` · `NLP` · `AI Applications` · `Modern Software Engineering`
+Artificial Intelligence, Machine Learning, Deep Learning, NLP and Generative AI.
+
+</td>
+<td width="50%" align="center">⚙️ SOFTWARE ENGINEERING
+
+Python development, frontend engineering, backend development and database integration.
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">✨ WHAT I BUILD
+
+Practical applications, intelligent solutions and technology-driven projects.
+
+</td>
+<td width="50%" align="center">🚀 MY APPROACH
+
+Learn continuously, build projects, solve problems and improve every day.
+
+</td>
+</tr>
+</table><div align="center">CURRENT INTERESTS
+
+<img src="https://img.shields.io/badge/GENERATIVE_AI-00E5FF?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-2563EB?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/PYTHON-8B5CF6?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/FULL_STACK-00E5FF?style=for-the-badge&labelColor=030712"/></div>---
 
 ---
 
