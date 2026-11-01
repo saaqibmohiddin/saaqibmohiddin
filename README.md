@@ -286,10 +286,10 @@ Student management software project.
 
 ---
 
-## ◈ 07 -  CERTIFICATION VAULT
+## ◈ 07 - CERTIFICATION VAULT
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PROJECT_AEGIS-VERIFIED_LEARNING-00E5FF?style=for-the-badge&labelColor=030712" />
+  <img src="https://img.shields.io/badge/PROJECT_AEGIS-VERIFIED_LEARNING-00E5FF?style=for-the-badge&labelColor=030712" alt="Project Aegis Verified Learning"/>
 </p>
 
 <table>
@@ -303,8 +303,8 @@ Student management software project.
       <br/>
       <sub>Job Simulation · Forage</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/STATUS-COMPLETED-00E5FF?style=flat-square&labelColor=030712"/>
-      <br/>
+      <img src="https://img.shields.io/badge/STATUS-COMPLETED-00E5FF?style=flat-square&labelColor=030712" alt="Completed"/>
+      <br/><br/>
       <sub>25 July 2026</sub>
     </td>
 
@@ -317,8 +317,8 @@ Student management software project.
       <br/>
       <sub>Forage</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/STATUS-COMPLETED-00E5FF?style=flat-square&labelColor=030712"/>
-      <br/>
+      <img src="https://img.shields.io/badge/STATUS-COMPLETED-00E5FF?style=flat-square&labelColor=030712" alt="Completed"/>
+      <br/><br/>
       <sub>04 September 2026</sub>
     </td>
 
@@ -331,8 +331,8 @@ Student management software project.
       <br/>
       <sub>IBM SkillsBuild</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/STATUS-COMPLETED-00E5FF?style=flat-square&labelColor=030712"/>
-      <br/>
+      <img src="https://img.shields.io/badge/STATUS-COMPLETED-00E5FF?style=flat-square&labelColor=030712" alt="Completed"/>
+      <br/><br/>
       <sub>04 September 2026</sub>
     </td>
   </tr>
@@ -344,13 +344,6 @@ Student management software project.
 
 ---
 
-
-
- 
-
-
-
-</div>
 
 ## ◈ 08 — GITHUB ANALYTICS COMMAND CENTER
 
