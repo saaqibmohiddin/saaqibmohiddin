@@ -450,36 +450,42 @@ Skills:
 
 ## ◈ 10 — DEVELOPER COMMAND CENTER
 
-<div align="center"><img src="https://img.shields.io/badge/DEVELOPER_TERMINAL-00E5FF?style=flat-square&labelColor=030712"/>
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-2563EB?style=flat-square&labelColor=030712"/>SAAQIB MOHIDDIN
+<div align="center">💻 DEVELOPER PROFILE
 
-DEVELOPER INTERFACE
+MOHAMMED SAAQIB MOHIDDIN
 
-</div>$ whoami
-Mohammed Saaqib Mohiddin
+<sub>AI • PYTHON</sub>
 
-$ skills
-Python • Java • JavaScript • SQL
-React • Flask • Django • FastAPI
+</div>PROFILE:
+  name: Mohammed Saaqib Mohiddin
+  status: Active
 
-$ interests
-AI • ML • Deep Learning • GenAI • NLP
+TECHNICAL_SKILLS:
+  languages: Python, Java, JavaScript, SQL
+  frameworks: React, Flask, Django, FastAPI
 
-$ projects
-Seven featured GitHub projects
+AREAS_OF_INTEREST:
+  - Artificial Intelligence
+  - Machine Learning
+  - Deep Learning
+  - Generative AI
+  - Natural Language Processing
 
-$ github
-github.com/saaqibmohiddin
+PROJECTS:
+  featured: 7 GitHub projects
 
-$ contact
-msaaqib777@gmail.com
+GITHUB:
+  profile: github.com/saaqibmohiddin
 
-$ motto
-Learn. Build. Innovate. Repeat.
+CONTACT:
+  email: msaaqib777@gmail.com
 
-<div align="center">⚡ THINK • CODE • CREATE ⚡
+MOTTO:
+  Learn. Build. Innovate. Repeat.
 
-</div><sub>Terminal-inspired profile display. Commands are illustrative.</sub>
+<div align="center"><img src="https://img.shields.io/badge/BUILDING_DIGITAL_SOLUTIONS-00E5FF?style=flat-square&labelColor=030712"/>⚡ THINK • CODE • CREATE ⚡
+
+</div>
 
 ---
 
