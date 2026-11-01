@@ -609,13 +609,7 @@ I'm interested in technology, software development, Artificial Intelligence, and
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0B1B3A,100:030712&height=140&section=footer" width="100%" alt="Project Aegis Cyber Intelligence Footer"/>
-
-### THANK YOU FOR VISITING MY DIGITAL SPACE!
-
-**THINK. BUILD. INNOVATE. REPEAT.**
-
-<sub>Designed with passion for technology and innovation.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0B1B3A,100:030712&height=200&section=footer&text=THANK%20YOU%20FOR%20VISITING%20MY%20DIGITAL%20SPACE!&fontSize=22&fontColor=DCE6F1&fontAlignY=38&desc=THINK.%20BUILD.%20INNOVATE.%20REPEAT.&descSize=14&descAlignY=60" width="100%" alt="Thank You Footer"/>
 
 <a href="#-mohammed-saaqib-mohiddin">⬆ BACK TO TOP</a>
 
