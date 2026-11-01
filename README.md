@@ -476,14 +476,6 @@ PROJECTS:
 
    7 GitHub projects
 
-GITHUB:
-
-   https://github.com/saaqibmohiddin
-
-EMAIL:
-
-  msaaqib777@gmail.com
-
 MOTTO:
 
 
