@@ -43,37 +43,34 @@ mindset: Learn | Build | Innovate | Improve
 
 
 
-
 ## ◈ 02 — ABOUT ME
 
-<div align="center">ENGINEERING IDEAS INTO INTELLIGENT SOLUTIONS
+<div align="center">BUILDING INTELLIGENT SOLUTIONS THROUGH TECHNOLOGY
 
-AI Developer · Python Developer · Full-Stack Enthusiast
+Computer Science & Engineering | Artificial Intelligence
 
-</div>I'm a Computer Science and Engineering student specializing in Artificial Intelligence, passionate about building practical applications and exploring emerging technologies.
+</div>I'm a Computer Science and Engineering student specializing in Artificial Intelligence, passionate about software development and emerging AI technologies.
 
-I enjoy combining programming, problem-solving and continuous learning to transform ideas into useful software solutions.
+I focus on building practical applications, strengthening my programming skills, and applying technical knowledge to real-world problems.
 
----
+◈ CORE INTERESTS
 
-◈ AREAS OF INTEREST
+<div align="center"><img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-00E5FF?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-2563EB?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/GENERATIVE_AI-8B5CF6?style=for-the-badge&labelColor=030712"/><img src="https://img.shields.io/badge/PYTHON-00E5FF?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/WEB_DEVELOPMENT-2563EB?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/NATURAL_LANGUAGE_PROCESSING-8B5CF6?style=for-the-badge&labelColor=030712"/></div>◈ WHAT I DO
 
-<div align="center"><img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-00E5FF?style=for-the-badge&labelColor=030712" />
-<img src="https://img.shields.io/badge/GENERATIVE_AI-2563EB?style=for-the-badge&labelColor=030712" />
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-8B5CF6?style=for-the-badge&labelColor=030712" /><br/><img src="https://img.shields.io/badge/PYTHON-00E5FF?style=for-the-badge&labelColor=030712" />
-<img src="https://img.shields.io/badge/FULL_STACK_DEVELOPMENT-2563EB?style=for-the-badge&labelColor=030712" /></div>---
-
-◈ TECHNICAL FOCUS
-
-AREA| WHAT I EXPLORE
-🧠 AI & Machine Learning| Intelligent systems and ML concepts
-✨ Generative AI| LLMs and AI-powered applications
-⚙️ Software Development| Python and web application development
-💡 Problem Solving| Practical projects and technical improvement
+- Application Development — Build practical Python and web applications.
+- AI Exploration — Learn and experiment with AI, ML and Generative AI.
+- Problem Solving — Develop logical thinking through hands-on coding.
+- Continuous Learning — Explore modern tools, frameworks and technologies.
 
 ---
 
-<div align="center">LEARN. BUILD. INNOVATE. EVOLVE.
+<div align="center">THINK • DEVELOP • INNOVATE
+
+Turning knowledge into practical solutions.
 
 </div>---
 
