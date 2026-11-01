@@ -46,46 +46,36 @@ mindset: Learn | Build | Innovate | Improve
 
 ## ◈ 02 — ABOUT ME
 
-<div align="center">
+<div align="center">ENGINEERING IDEAS INTO INTELLIGENT SOLUTIONS
 
-### BUILDING INTELLIGENT SOLUTIONS
+AI Developer · Python Developer · Full-Stack Enthusiast
 
-**AI Developer | Python Developer | Full-Stack Enthusiast**
+</div>I'm a Computer Science and Engineering student specializing in Artificial Intelligence, passionate about building practical applications and exploring emerging technologies.
 
-</div>
-
-I'm a Computer Science and Engineering student specializing in Artificial Intelligence. I'm passionate about developing practical applications, solving problems, and exploring modern technologies.
-
-My goal is to turn ideas into useful software through continuous learning, experimentation, and hands-on development.
+I enjoy combining programming, problem-solving and continuous learning to transform ideas into useful software solutions.
 
 ---
 
-### ◈ AREAS OF INTEREST
+◈ AREAS OF INTEREST
 
-<div align="center">
+<div align="center"><img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-00E5FF?style=for-the-badge&labelColor=030712" />
+<img src="https://img.shields.io/badge/GENERATIVE_AI-2563EB?style=for-the-badge&labelColor=030712" />
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-8B5CF6?style=for-the-badge&labelColor=030712" /><br/><img src="https://img.shields.io/badge/PYTHON-00E5FF?style=for-the-badge&labelColor=030712" />
+<img src="https://img.shields.io/badge/FULL_STACK_DEVELOPMENT-2563EB?style=for-the-badge&labelColor=030712" /></div>---
 
-<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-00E5FF?style=for-the-badge&labelColor=030712"/>
-<img src="https://img.shields.io/badge/GENERATIVE_AI-2563EB?style=for-the-badge&labelColor=030712"/>
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-8B5CF6?style=for-the-badge&labelColor=030712"/>
-<img src="https://img.shields.io/badge/PYTHON-00E5FF?style=for-the-badge&labelColor=030712"/>
-<img src="https://img.shields.io/badge/FULL_STACK_DEVELOPMENT-2563EB?style=for-the-badge&labelColor=030712"/>
+◈ TECHNICAL FOCUS
 
-</div>
-
-### ◈ WHAT I WORK ON
-
-- **AI & Machine Learning** — Exploring intelligent applications and ML concepts.
-- **Generative AI** — Learning about LLMs and AI-powered solutions.
-- **Software Development** — Building Python and web-based applications.
-- **Problem Solving** — Improving technical knowledge through practical projects.
+AREA| WHAT I EXPLORE
+🧠 AI & Machine Learning| Intelligent systems and ML concepts
+✨ Generative AI| LLMs and AI-powered applications
+⚙️ Software Development| Python and web application development
+💡 Problem Solving| Practical projects and technical improvement
 
 ---
 
-<div align="center">
+<div align="center">LEARN. BUILD. INNOVATE. EVOLVE.
 
-**LEARN • BUILD • INNOVATE • EVOLVE**
-
-</div>
+</div>---
 
 
 ---
