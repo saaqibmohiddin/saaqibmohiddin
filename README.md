@@ -286,42 +286,69 @@ Student management software project.
 
 ---
 
-## ◈ 07 - 🏆 CERTIFICATIONS & PROFESSIONAL LEARNING
+## ◈ 07 -  CERTIFICATION VAULT
 
-<div align="center">🔵 1. Tata – GenAI Powered Data Analytics Job Simulation
+<p align="center">
+  <img src="https://img.shields.io/badge/PROJECT_AEGIS-VERIFIED_LEARNING-00E5FF?style=for-the-badge&labelColor=030712" />
+</p>
 
-<img src="GenAI.jpg" width="85%" alt="Tata GenAI Certificate"/>Organization: Tata through Forage
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="./GenAI.jpg" width="100%" alt="Tata GenAI Certificate"/>
+      <br/><br/>
+      <strong>TATA</strong>
+      <br/>
+      <sub>GenAI Powered Data Analytics</sub>
+      <br/>
+      <sub>Job Simulation · Forage</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/STATUS-COMPLETED-00E5FF?style=flat-square&labelColor=030712"/>
+      <br/>
+      <sub>25 July 2026</sub>
+    </td>
 
-Completion Date: July 25, 2026
+    <td align="center" width="33%">
+      <img src="./Gen AI Job Simulation.jpg" width="100%" alt="BCG X GenAI Certificate"/>
+      <br/><br/>
+      <strong>BCG X</strong>
+      <br/>
+      <sub>GenAI Job Simulation</sub>
+      <br/>
+      <sub>Forage</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/STATUS-COMPLETED-00E5FF?style=flat-square&labelColor=030712"/>
+      <br/>
+      <sub>04 September 2026</sub>
+    </td>
 
-Skills: Exploratory Data Analysis, AI Risk Profiling, Data Storytelling, AI-driven Collections Strategy.
+    <td align="center" width="33%">
+      <img src="./AILiteracy.jpg" width="100%" alt="IBM AI Literacy Certificate"/>
+      <br/><br/>
+      <strong>IBM SKILLSBUILD</strong>
+      <br/>
+      <sub>AI Literacy</sub>
+      <br/>
+      <sub>IBM SkillsBuild</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/STATUS-COMPLETED-00E5FF?style=flat-square&labelColor=030712"/>
+      <br/>
+      <sub>04 September 2026</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>CONTINUOUS LEARNING · PRACTICAL SKILLS · AI INNOVATION</sub>
+</p>
 
 ---
 
-🟢 2. BCG X – GenAI Job Simulation
 
-<img src="Gen AI Job Simulation.jpg" width="85%" alt="BCG X GenAI Certificate"/>Organization: BCG X through Forage
 
-Completion Date: September 4, 2026
+ 
 
-Skills: Data Extraction, Data Analysis, AI-powered Financial Chatbot Development.
 
----
-
-🔷 3. IBM SkillsBuild – AI Literacy
-
-<img src="AILiteracy.jpg" width="85%" alt="IBM AI Literacy Certificate"/>Organization: IBM SkillsBuild
-
-Completion Date: September 4, 2026
-
-Skills:
-
-- Artificial Intelligence Fundamentals
-- Understanding AI Concepts and Applications
-- Machine Learning Fundamentals
-- Generative AI Awareness
-- Responsible and Ethical AI
-- AI in Real-World Applications
 
 </div>
 
