@@ -81,14 +81,14 @@ My interests span Artificial Intelligence, Generative AI, Machine Learning, Pyth
 <tr>
 <td width="50%" valign="top">
 
-**◈ INSTITUTION**
+**🏛 INSTITUTION**
 
 Audisankara College of Engineering and Technology
 
 </td>
 <td width="50%" valign="top">
 
-**◈ UNIVERSITY**
+**🎓 UNIVERSITY**
 
 JNTU Anantapur
 
@@ -97,14 +97,14 @@ JNTU Anantapur
 <tr>
 <td width="50%" valign="top">
 
-**◈ LOCATION**
+**📍LOCATION**
 
 Gudur, Andhra Pradesh, India
 
 </td>
 <td width="50%" valign="top">
 
-**◈ ACADEMIC DURATION**
+**📅 ACADEMIC DURATION**
 
 2023 – 2027
 
