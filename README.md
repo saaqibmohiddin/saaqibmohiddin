@@ -487,7 +487,7 @@ EMAIL:
 MOTTO:
 
 
-<div align="center"><img src="https://img.shields.io/badge/ ⚡️ LEARN. BUILD. INNOVATE ⚡️. REPEAT -00E5FF?style=flat-square&labelColor=030712"/>
+<div align="center"><img src="https://img.shields.io/badge/ ⚡️ LEARN. BUILD. INNOVATE . REPEAT ⚡️ -00E5FF?style=flat-square&labelColor=030712"/>
 
 </div>
 
