@@ -513,54 +513,14 @@ Learn. Build. Innovate. Repeat.
 
 ---
 
-## ◈ 13 — LATEST BLOG POSTS
 
-<!-- BLOG-POST-LIST:START -->
-Blog automation will populate this section when an RSS feed is configured.
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## ◈ 14 — DEVELOPER JOURNEY
-
-- [Public Repositories](https://github.com/saaqibmohiddin?tab=repositories)
-- [Project Releases](https://github.com/saaqibmohiddin?tab=repositories)
-- [Contribution Activity](https://github.com/saaqibmohiddin)
-- [Project Demonstrations](#-05--featured-projects)
-
----
-
-## ◈ 15 — ACHIEVEMENT WALL
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saaqibmohiddin&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=4" width="90%" alt="GitHub achievement trophies"/>
-
-</div>
-
-<sub>Achievement cards are populated by the GitHub trophy service.</sub>
-
----
-
-## ◈ 16 — AI PROJECT ASSISTANT
-
-| Resource | Destination |
-|---|---|
-| Project Portfolio | [Featured Projects](#-05--featured-projects) |
-| AI Projects | [AI Repositories](https://github.com/saaqibmohiddin?tab=repositories&q=AI) |
-| Python Projects | [Python Repositories](https://github.com/saaqibmohiddin?tab=repositories&q=Python) |
-| Documentation | [GitHub Repositories](https://github.com/saaqibmohiddin?tab=repositories) |
-
----
----
-
-## ◈ 17 — GITHUB STATISTICS DASHBOARD
+## ◈ 13 — GITHUB STATISTICS DASHBOARD
 
 <div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=saaqibmohiddin&show_icons=true&theme=tokyonight&hide_border=true" /><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaqibmohiddin&layout=compact&theme=tokyonight&hide_border=true" /><img width="70%" src="https://streak-stats.demolab.com?user=saaqibmohiddin&theme=tokyonight&hide_border=true" /></div>---
 
 ---
 
-## ◈ 18 – CURRENT FOCUS & LEARNING ROADMAP
+## ◈ 14 – CURRENT FOCUS & LEARNING ROADMAP
 
 <div align="center">
 
@@ -587,7 +547,7 @@ Blog automation will populate this section when an RSS feed is configured.
 
 </div>
 
-## ◈ 19 — CONNECT WITH ME
+## ◈ 15 — CONNECT WITH ME
 
 <div align="center">
 
