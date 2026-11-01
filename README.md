@@ -66,8 +66,6 @@ My interests span Artificial Intelligence, Generative AI, Machine Learning, Pyth
 
 ## ◈ 03 — EDUCATION & ACADEMIC PROFILE
 
- -->
-
 <h2 align="center">
   <img src="https://img.shields.io/badge/03-EDUCATION_%26_ACADEMIC_PROFILE-00E5FF?style=for-the-badge&labelColor=080817" />
 </h2>
