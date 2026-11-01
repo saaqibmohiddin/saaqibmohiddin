@@ -74,7 +74,6 @@ My focus is on programming, building projects, solving problems and continuously
 ---
 
 
-
 ## ◈ 03 — EDUCATION & ACADEMIC PROFILE
 
 <div align="center">
