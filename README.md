@@ -4,13 +4,31 @@ MOHAMMED SAAQIB MOHIDDIN
 
 Artificial Intelligence • Generative AI • Machine Learning • Full-Stack Development
 
-""GitHub" (https://img.shields.io/badge/GitHub-030712?style=for-the-badge&logo=github&logoColor=00E5FF)" (https://github.com/saaqibmohiddin)
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (YOUR_LINKEDIN_URL)
-""Email" (https://img.shields.io/badge/Email-030712?style=for-the-badge&logo=gmail&logoColor=EA4335)" (mailto:msaaqib777@gmail.com)
 
-"Profile Views" (https://komarev.com/ghpvc/?username=saaqibmohiddin&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS)
+<div align="center">
 
-</div>---
+<h2>CONNECT WITH ME</h2>
+
+<a href="https://github.com/saaqibmohiddin">
+<img src="https://img.shields.io/badge/GitHub-030712?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-030712?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="mailto:msaaqib777@gmail.com">
+<img src="https://img.shields.io/badge/Email-030712?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=saaqibmohiddin&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS"/>
+
+</div>
+
+---
+
 
 ◈ 01 — DEVELOPER IDENTITY
 
