@@ -366,6 +366,7 @@ AI | ML | Deep Learning | GenAI | NLP
 $ projects
 Explore my seven featured projects.
 
+
 $ github
 github.com/saaqibmohiddin
 
@@ -379,6 +380,11 @@ Learn. Build. Innovate. Repeat.
 <sub>Static terminal-inspired presentation. Commands are illustrative and do not execute inside GitHub README.</sub>
 
 ---
+## ◈ 3D CONTRIBUTION GRAPH
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/saaqibmohiddin/saaqibmohiddin/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub Contribution Graph"/>
+</div>
 
 ## ◈ 09 — AI DEVELOPER INTELLIGENCE HUB
 
