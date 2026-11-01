@@ -547,32 +547,45 @@ MOTTO:
 
 ## ◈ 14 — CURRENT FOCUS & LEARNING ROADMAP
 
-<div align="center"><img src="https://img.shields.io/badge/DEVELOPMENT_ROADMAP-00E5FF?style=for-the-badge&labelColor=030712"/>🚀 LEARNING TODAY. BUILDING TOMORROW.
+<div align="center"><img src="https://img.shields.io/badge/LEARNING TODAY. BUILDING TOMORROW-00E5FF?style=for-the-badge&labelColor=030712"/>
+
 
 Focused on Artificial Intelligence, intelligent applications and modern software development.
 
 </div>🧠 CURRENTLY EXPLORING
 
 AREA| LEARNING FOCUS
+
 🤖 Artificial Intelligence| AI-powered applications
+
 ⚡ Generative AI| LLMs, RAG and AI solutions
+
 🧠 Machine Learning| Algorithms and model development
+
 🔬 Deep Learning| Neural networks and NLP
+
 🐍 Python| Advanced Python development
 
 💻 CURRENT DEVELOPMENT INTERESTS
 
-- 🌐 Building modern full-stack applications.
-- 🤖 Exploring practical AI integrations.
-- ⚙️ Developing Python-based solutions.
-- 🧩 Improving software design and problem-solving.
+
+🌐 Building modern full-stack applications.
+
+🤖 Exploring practical AI integrations.
+
+⚙️ Developing Python-based solutions.
+
+🧩 Improving software design and problem-solving.
 
 🎯 FUTURE GOALS
 
-- 🚀 Build impactful real-world AI applications.
-- 🧠 Develop advanced Generative AI projects.
-- 🌍 Contribute to meaningful open-source projects.
-- 📚 Continuously explore emerging technologies.
+🚀 Build impactful real-world AI applications.
+
+🧠 Develop advanced Generative AI projects.
+
+-🌍 Contribute to meaningful open-source projects.
+
+📚 Continuously explore emerging technologies.
 
 <div align="center"><img src="https://img.shields.io/badge/FOCUS-INNOVATION_&_CONTINUOUS_GROWTH-00E5FF?style=flat-square&labelColor=030712"/></div>
 
