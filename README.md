@@ -68,7 +68,6 @@ My interests span Artificial Intelligence, Generative AI, Machine Learning, Pyth
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ACADEMIC_PROFILE-00E5FF?style=for-the-badge&labelColor=030712"/>
 
 ### BACHELOR OF TECHNOLOGY
 
@@ -115,8 +114,6 @@ Gudur, Andhra Pradesh, India
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CORE_DOMAIN-ARTIFICIAL_INTELLIGENCE-8B5CF6?style=flat-square&labelColor=030712"/>
-<img src="https://img.shields.io/badge/DEGREE-B.TECH-00E5FF?style=flat-square&labelColor=030712"/>
 
 **LEARN • EXPLORE • INNOVATE**
 
