@@ -475,7 +475,7 @@ PROJECTS:
   featured: 7 GitHub projects
 
 GITHUB:
-  profile: github.com/saaqibmohiddin
+  profile: https://github.com/saaqibmohiddin
 
 CONTACT:
   email: msaaqib777@gmail.com
