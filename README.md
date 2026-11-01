@@ -545,49 +545,29 @@ MOTTO:
 
 ---
 
-## ◈ 14 — CURRENT FOCUS & LEARNING ROADMAP
+## ◈ 14 — CURRENT FOCUS & FUTURE GOALS
 
-<div align="center"><img src="https://img.shields.io/badge/LEARNING TODAY. BUILDING TOMORROW-00E5FF?style=for-the-badge&labelColor=030712"/>
+🚀 WHAT I'M LEARNING
 
+- 🤖 Artificial Intelligence — Building AI-powered applications.
+- ⚡ Generative AI — Exploring LLMs and RAG.
+- 🧠 Machine Learning — Learning algorithms and model development.
+- 🔬 Deep Learning — Understanding neural networks and NLP.
+- 🐍 Python — Improving programming skills.
 
-Focused on Artificial Intelligence, intelligent applications and modern software development.
+💻 WHAT I'M BUILDING
 
-</div>🧠 CURRENTLY EXPLORING
+- 🌐 Modern web applications.
+- 🤖 Practical AI-based projects.
+- ⚙️ Python applications and solutions.
 
-AREA| LEARNING FOCUS
+🎯 MY FUTURE GOALS
 
-🤖 Artificial Intelligence| AI-powered applications
-
-⚡ Generative AI| LLMs, RAG and AI solutions
-
-🧠 Machine Learning| Algorithms and model development
-
-🔬 Deep Learning| Neural networks and NLP
-
-🐍 Python| Advanced Python development
-
-💻 CURRENT DEVELOPMENT INTERESTS
-
-
-🌐 Building modern full-stack applications.
-
-🤖 Exploring practical AI integrations.
-
-⚙️ Developing Python-based solutions.
-
-🧩 Improving software design and problem-solving.
-
-🎯 FUTURE GOALS
-
-🚀 Build impactful real-world AI applications.
-
-🧠 Develop advanced Generative AI projects.
-
--🌍 Contribute to meaningful open-source projects.
-
-📚 Continuously explore emerging technologies.
-
-<div align="center"><img src="https://img.shields.io/badge/FOCUS-INNOVATION_&_CONTINUOUS_GROWTH-00E5FF?style=flat-square&labelColor=030712"/></div>
+- Build useful real-world AI projects.
+- Develop advanced Generative AI applications.
+- Contribute to open-source projects.
+- Improve my technical and problem-solving skills.
+- Keep learning new technologies.
 
 
 ## ◈ 15 — CONNECT WITH ME
