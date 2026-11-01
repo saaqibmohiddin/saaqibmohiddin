@@ -47,7 +47,7 @@ mindset: Learn | Build | Innovate | Improve
 
 <div align="center">BUILDING INTELLIGENCE. CREATING IMPACT.
 
-AI Engineer | Python Developer | Full-Stack Developer
+AI Engineer | Python Developer |
 
 </div>I'm passionate about Artificial Intelligence, software development and emerging technologies. I enjoy building practical applications, exploring intelligent solutions and transforming ideas into functional projects.
 
@@ -64,18 +64,17 @@ My interests include programming, developing AI-powered applications, solving te
 <img src="https://img.shields.io/badge/NLP-8B5CF6?style=flat-square&labelColor=030712"/></div>◈ DEVELOPMENT FOCUS
 
 DOMAIN| FOCUS
-Artificial Intelligence| Intelligent applications
-Generative AI| LLMs and AI-powered solutions
-Python Development| Application development
-Web Development| Frontend and backend technologies
-Problem Solving| Practical programming projects
+|Artificial Intelligence| Intelligent applications|
+|Generative AI| LLMs and AI-powered solutions|
+|Python Development| Application development|
+|Web Development| Frontend and backend technologies|
+|Problem Solving| Practical programming projects|
 
 <div align="center">LEARN • BUILD • INNOVATE
 
 </div>---
 
 
----
 
 
 ## ◈ 03 — EDUCATION & ACADEMIC PROFILE
