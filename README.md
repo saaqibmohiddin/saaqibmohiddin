@@ -262,6 +262,7 @@ Selected applications and development work.
 
 </div>📦 INVENTORY MANAGEMENT SYSTEM
 
+
 Inventory management application.
 
 🚀 LIVE DEMO (https://saaqibmohiddin.github.io/Inventory-Management/)
