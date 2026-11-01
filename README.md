@@ -450,21 +450,19 @@ Skills:
 
 ## ◈ 10 — DEVELOPER COMMAND CENTER
 
-<div align="center">💻 DEVELOPER PROFILE
-
+<div align="center">
 MOHAMMED SAAQIB MOHIDDIN
 
 <sub>AI • PYTHON</sub>
 
-</div>PROFILE:
-  name: Mohammed Saaqib Mohiddin
-  status: Active
+</div>NAME: Mohammed Saaqib Mohiddin
+  STATUS: Active
 
-TECHNICAL_SKILLS:
+TECHNICAL SKILLS:
   languages: Python, Java, JavaScript, SQL
   frameworks: React, Flask, Django, FastAPI
 
-AREAS_OF_INTEREST:
+AREAS OF INTEREST:
   - Artificial Intelligence
   - Machine Learning
   - Deep Learning
@@ -472,13 +470,13 @@ AREAS_OF_INTEREST:
   - Natural Language Processing
 
 PROJECTS:
-  featured: 7 GitHub projects
+   7 GitHub projects
 
 GITHUB:
-  profile: https://github.com/saaqibmohiddin
+   https://github.com/saaqibmohiddin
 
-CONTACT:
-  email: msaaqib777@gmail.com
+EMAIL:
+  msaaqib777@gmail.com
 
 MOTTO:
   Learn. Build. Innovate. Repeat.
