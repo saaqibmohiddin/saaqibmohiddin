@@ -66,21 +66,63 @@ My interests span Artificial Intelligence, Generative AI, Machine Learning, Pyth
 
 ## ◈ 03 — EDUCATION & ACADEMIC PROFILE
 
-<div align="center">🎓 BACHELOR OF TECHNOLOGY (B.TECH)
+<div align="center">
 
-Computer Science and Engineering
+<img src="https://img.shields.io/badge/ACADEMIC_PROFILE-00E5FF?style=for-the-badge&labelColor=030712"/>
 
-Specialization: Artificial Intelligence
+### BACHELOR OF TECHNOLOGY
 
-🏛️ College: Audisankara College of Engineering and Technology
+**Computer Science and Engineering**
 
-📍 Location: Gudur, Andhra Pradesh, India
+<img src="https://img.shields.io/badge/SPECIALIZATION-ARTIFICIAL_INTELLIGENCE-2563EB?style=flat-square&labelColor=030712"/>
 
-🎓 University: Jawaharlal Nehru Technological University Anantapur (JNTUA)
+</div>
 
-📅 Academic Duration: 2023 – 2027
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-</div>---
+**◈ INSTITUTION**
+
+Audisankara College of Engineering and Technology
+
+</td>
+<td width="50%" valign="top">
+
+**◈ UNIVERSITY**
+
+JNTU Anantapur
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**◈ LOCATION**
+
+Gudur, Andhra Pradesh, India
+
+</td>
+<td width="50%" valign="top">
+
+**◈ ACADEMIC DURATION**
+
+2023 – 2027
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CORE_DOMAIN-ARTIFICIAL_INTELLIGENCE-8B5CF6?style=flat-square&labelColor=030712"/>
+<img src="https://img.shields.io/badge/DEGREE-B.TECH-00E5FF?style=flat-square&labelColor=030712"/>
+
+**LEARN • EXPLORE • INNOVATE**
+
+</div>
+
+---
 
 ## ◈ 04 — TECHNOLOGY ECOSYSTEM
 
