@@ -258,10 +258,8 @@ Gudur, Andhra Pradesh, India
 
 <div align="center"><img src="https://img.shields.io/badge/⚡ ENGINEERING IDEAS INTO REALITY-00E5FF?style=for-the-badge&labelColor=030712"/>
 
-Selected applications and development work.
 
 </div>📦 INVENTORY MANAGEMENT SYSTEM
-
 
 Inventory management application.
 
