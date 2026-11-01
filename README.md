@@ -1,4 +1,4 @@
-# 👨‍💻 MOHAMMED SAAQIB MOHIDDIN
+#  MOHAMMED SAAQIB MOHIDDIN
 
 <div align="center">
 
