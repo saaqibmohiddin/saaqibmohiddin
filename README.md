@@ -1,33 +1,23 @@
-#  MOHAMMED SAAQIB MOHIDDIN
+MOHAMMED SAAQIB MOHIDDIN
 
-<div align="center">
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:030712,35:082F49,70:1D4ED8,100:7C3AED&text=SAAQIB%20MOHIDDIN&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>BUILDING INTELLIGENT SOLUTIONS. ENGINEERING DIGITAL EXPERIENCES.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,40:111C45,100:712CF9&text=SAAQIB%20MOHIDDIN&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20GENERATIVE%20AI%20%7C%20PYTHON%20%7C%20FULL-STACK%20DEVELOPER&descSize=14&descAlignY=58&animation=fadeIn" width="100%" alt="Futuristic developer banner"/>
+Artificial Intelligence • Generative AI • Machine Learning • Full-Stack Development
 
-<a href="https://github.com/saaqibmohiddin">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Developer;Python+Developer;Generative+AI+Enthusiast;Full-Stack+Developer;Software+Developer" width="100%" alt="Developer introduction"/>
-</a>
+""GitHub" (https://img.shields.io/badge/GitHub-030712?style=for-the-badge&logo=github&logoColor=00E5FF)" (https://github.com/saaqibmohiddin)
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (YOUR_LINKEDIN_URL)
+""Email" (https://img.shields.io/badge/Email-030712?style=for-the-badge&logo=gmail&logoColor=EA4335)" (mailto:msaaqib777@gmail.com)
 
-**Building intelligent solutions. Engineering digital experiences. Exploring the future of technology.**
+"Profile Views" (https://komarev.com/ghpvc/?username=saaqibmohiddin&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github)](https://github.com/saaqibmohiddin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammed-saaqib-mohiddin-89b434269/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:msaaqib777@gmail.com)
+</div>---
 
-![Profile Views](https://komarev.com/ghpvc/?username=saaqibmohiddin&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/saaqibmohiddin?style=for-the-badge&logo=github&color=0891B2)
-![Stars](https://img.shields.io/github/stars/saaqibmohiddin?style=for-the-badge&logo=github&color=7C3AED)
+◈ 01 — DEVELOPER IDENTITY
 
-</div>
-
----
-
-## ◈ 01 — DEVELOPER IDENTITY
-
-```yaml
 name: Mohammed Saaqib Mohiddin
 username: saaqibmohiddin
 role: Developer
+education: B.Tech CSE (Artificial Intelligence)
 
 focus:
   - Artificial Intelligence
@@ -39,15 +29,14 @@ focus:
   - Full-Stack Development
 
 mindset: Learn | Build | Innovate | Improve
-```
 
-## ◈ 02 — ABOUT ME
+◈ 02 — ABOUT ME
 
-I'm a developer passionate about building practical software solutions and exploring emerging technologies.
+Hello! I'm Mohammed Saaqib Mohiddin, a Computer Science and Engineering student specializing in Artificial Intelligence.
 
-My interests span Artificial Intelligence, Generative AI, Machine Learning, Python Development, and Full-Stack Engineering.
+I'm passionate about building practical software solutions, exploring emerging technologies and developing intelligent applications.
 
-### What I Do
+WHAT I DO
 
 - Develop Python-based applications.
 - Explore Artificial Intelligence and Machine Learning.
@@ -56,374 +45,193 @@ My interests span Artificial Intelligence, Generative AI, Machine Learning, Pyth
 - Work with databases and REST APIs.
 - Explore practical software engineering solutions.
 
-### Currently Exploring
+CURRENTLY EXPLORING
 
-`Generative AI` · `LLMs` · `Deep Learning` · `NLP` · `AI Applications` · `Modern Software Engineering`
+"Generative AI" · "LLMs" · "Deep Learning" · "NLP" · "RAG" · "AI Applications"
 
----
+◈ 03 — EDUCATION & ACADEMIC PROFILE
 
----
+🎓 BACHELOR OF TECHNOLOGY (B.TECH)
 
-## ◈ 03 — EDUCATION & ACADEMIC PROFILE
+Academic Information| Details
+Degree| B.Tech
+Branch| Computer Science and Engineering
+Specialization| Artificial Intelligence
+College| Audisankara College of Engineering and Technology
+Location| Gudur, Andhra Pradesh, India
+University| Jawaharlal Nehru Technological University Anantapur
+Academic Duration| 2023 – 2027
 
-<div align="center">🎓 BACHELOR OF TECHNOLOGY (B.TECH)
+◈ 04 — TECHNOLOGY ECOSYSTEM
 
-Computer Science and Engineering
+PROGRAMMING LANGUAGES
 
-Specialization: Artificial Intelligence
+"Python" (https://img.shields.io/badge/Python-030712?style=for-the-badge&logo=python&logoColor=3776AB)
+"Java" (https://img.shields.io/badge/Java-030712?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+"JavaScript" (https://img.shields.io/badge/JavaScript-030712?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+"SQL" (https://img.shields.io/badge/SQL-030712?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
-🏛️ College: Audisankara College of Engineering and Technology
+FRONTEND DEVELOPMENT
 
-📍 Location: Gudur, Andhra Pradesh, India
+"HTML5" (https://img.shields.io/badge/HTML5-030712?style=for-the-badge&logo=html5&logoColor=E34F26)
+"CSS3" (https://img.shields.io/badge/CSS3-030712?style=for-the-badge&logo=css3&logoColor=1572B6)
+"JavaScript" (https://img.shields.io/badge/JavaScript-030712?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+"React" (https://img.shields.io/badge/React-030712?style=for-the-badge&logo=react&logoColor=61DAFB)
+"Bootstrap" (https://img.shields.io/badge/Bootstrap-030712?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 
-🎓 University: Jawaharlal Nehru Technological University Anantapur (JNTUA)
+BACKEND DEVELOPMENT
 
-📅 Academic Duration: 2023 – 2027
+"Python" (https://img.shields.io/badge/Python-030712?style=for-the-badge&logo=python&logoColor=3776AB)
+"Flask" (https://img.shields.io/badge/Flask-030712?style=for-the-badge&logo=flask&logoColor=FFFFFF)
+"Django" (https://img.shields.io/badge/Django-030712?style=for-the-badge&logo=django&logoColor=092E20)
+"FastAPI" (https://img.shields.io/badge/FastAPI-030712?style=for-the-badge&logo=fastapi&logoColor=009688)
+"REST API" (https://img.shields.io/badge/REST_API-030712?style=for-the-badge&logo=fastapi&logoColor=00E5FF)
 
-</div>---
+DATABASE TECHNOLOGIES
 
-## ◈ 04 — TECHNOLOGY ECOSYSTEM
+"MySQL" (https://img.shields.io/badge/MySQL-030712?style=for-the-badge&logo=mysql&logoColor=4479A1)
+"PostgreSQL" (https://img.shields.io/badge/PostgreSQL-030712?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+"SQLite" (https://img.shields.io/badge/SQLite-030712?style=for-the-badge&logo=sqlite&logoColor=003B57)
 
-<div align="center">
+DEVELOPER TOOLS
 
-### PROGRAMMING LANGUAGES
+"Git" (https://img.shields.io/badge/Git-030712?style=for-the-badge&logo=git&logoColor=F05032)
+"GitHub" (https://img.shields.io/badge/GitHub-030712?style=for-the-badge&logo=github&logoColor=FFFFFF)
+"VS Code" (https://img.shields.io/badge/VS_Code-030712?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
-<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" />
+◈ 05 — TECHNOLOGY SHOWCASE
 
-### FRONTEND DEVELOPMENT
+Domain| Technologies
+Artificial Intelligence| AI, Machine Learning, Deep Learning
+Generative AI| GenAI, LLMs, AI Applications
+Natural Language Processing| NLP
+Python Ecosystem| Python, NumPy, Pandas
+Data Visualization| Matplotlib
+Machine Learning| Scikit-learn
+Frontend| HTML, CSS, JavaScript, React
+Backend| Flask, Django, FastAPI
+Database| MySQL, PostgreSQL, SQLite
+Python GUI| Tkinter, Streamlit
+API Development| REST APIs
+Tools| Git, GitHub, VS Code
 
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap&theme=dark" />
+◈ 06 — FEATURED PROJECTS
 
-### BACKEND DEVELOPMENT
+My development portfolio includes applications across software engineering, Python development and Artificial Intelligence.
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi&theme=dark" />
+📦 01. Inventory Management System
 
-### DATABASE TECHNOLOGIES
+Software application focused on inventory management and organizing product information.
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" />
+Focus: Inventory Management · Database · Application Development
 
-### DEVELOPER TOOLS
+🤖 02. AI Learning Path Generator
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+AI-oriented application designed to generate structured learning paths.
 
-</div>
+Focus: Artificial Intelligence · Personalized Learning · Python
 
-**AI & MACHINE LEARNING**
+🏥 03. Smart Hospital Queue
 
-`Artificial Intelligence` · `Machine Learning` · `Deep Learning` · `Generative AI` · `NLP` · `LLMs`
+Software application focused on hospital queue management and improving patient flow.
 
-**PYTHON LIBRARIES**
+Focus: Queue Management · Healthcare Technology · Software Development
 
-`NumPy` · `Pandas` · `Matplotlib` · `Scikit-learn`
+🌐 04. AI Language Translator
 
-**OTHER TECHNOLOGIES**
+AI-oriented language translation application.
 
-`Streamlit` · `Tkinter` · `REST APIs` · `SQL`
+Focus: NLP · Language Translation · Artificial Intelligence
 
----
+🏦 05. Banking Management System
 
-## ◈ 05 — TECHNOLOGY SHOWCASE
+Banking management software focused on organizing banking operations.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Focus: Python · Database Management · Application Development
 
-### 🧠 Artificial Intelligence
+🎓 06. Student Management System
 
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
+Application designed to manage student-related information and academic records.
 
-</td>
-<td width="50%" valign="top">
+Focus: Python · SQL · Database Management
 
-### ✨ Generative AI
+💬 07. Python ChatBot
 
-- Generative AI
-- Large Language Models
-- AI-powered applications
-- Intelligent automation
+Python-based chatbot project exploring conversational application development.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+Focus: Python · Chatbots · Natural Language Processing
 
-### 🐍 Python Ecosystem
+Explore my repositories:
 
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
+""Explore GitHub" (https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-030712?style=for-the-badge&logo=github&logoColor=00E5FF)" (https://github.com/saaqibmohiddin?tab=repositories)
 
-</td>
-<td width="50%" valign="top">
+Add the individual repository and live demo URLs to each project when available.
 
-### 🎨 Frontend Engineering
+◈ 07 — CERTIFICATIONS & PROFESSIONAL LEARNING
 
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Bootstrap
+🔵 01. Tata — GenAI Powered Data Analytics Job Simulation
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+- Organization: Tata through Forage
+- Completion: July 25, 2026
+- Skills:
+  - Exploratory Data Analysis
+  - AI Risk Profiling
+  - Data Storytelling
+  - AI-driven Collections Strategy
 
-### ⚙️ Backend Engineering
+🟢 02. BCG X — GenAI Job Simulation
 
-- Python
-- Flask
-- Django
-- FastAPI
-- REST APIs
+- Organization: BCG X through Forage
+- Completion: September 4, 2026
+- Skills:
+  - Data Extraction
+  - Data Analysis
+  - AI-powered Financial Chatbot Development
 
-</td>
-<td width="50%" valign="top">
+🔷 03. IBM SkillsBuild — AI Literacy
 
-### 🗄️ Database Engineering
+- Organization: IBM SkillsBuild
+- Completion: September 4, 2026
+- Skills:
+  - Artificial Intelligence Fundamentals
+  - Machine Learning Fundamentals
+  - Generative AI Awareness
+  - Responsible and Ethical AI
+  - Real-world AI Applications
 
-- MySQL
-- PostgreSQL
-- SQLite
+◈ 08 — GITHUB ANALYTICS COMMAND CENTER
 
-</td>
-</tr>
-</table>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=saaqibmohiddin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030712&title_color=00E5FF&icon_color=8B5CF6&text_color=DCE6F1" width="49%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaqibmohiddin&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712&title_color=00E5FF&text_color=DCE6F1" width="49%"/></div>◈ 09 — CONTRIBUTION ACTIVITY
 
----
+🐍 GITHUB CONTRIBUTION SNAKE
 
-## ◈ 06 — FEATURED PROJECTS
+<img src="https://raw.githubusercontent.com/saaqibmohiddin/saaqibmohiddin/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>Requires a GitHub Actions workflow to generate the animation.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+👾 PAC-MAN CONTRIBUTION ANIMATION
 
-### 📦 Inventory Management System
+<div align="center"><img src="https://github.com/saaqibmohiddin/saaqibmohiddin/raw/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man contribution animation"/>GAME ON! EAT THE CONTRIBUTIONS. CHASE THE FUTURE.
 
-Software project focused on inventory management.
+</div>◈ 10 — DEVELOPER COMMAND CENTER
 
-[🚀 Live Demo](https://saaqibmohiddin.github.io/Inventory-Management/)
-
-[📂 Source Code](https://github.com/saaqibmohiddin/Inventory-Management)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI Learning Path Generator
-
-AI-oriented project focused on generating learning paths.
-
-[🚀 Live Demo](https://saaqibmohiddin.github.io/AI-Learning-Path-Generator/)
-
-[📂 Source Code](https://github.com/saaqibmohiddin/AI-Learning-Path-Generator)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 Smart Hospital Queue
-
-Software project focused on hospital queue management.
-
-[🚀 Live Demo](https://saaqibmohiddin.github.io/Smart-Hospital-Queue/)
-
-[📂 Source Code](https://github.com/saaqibmohiddin/Smart-Hospital-Queue)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 AI Language Translator
-
-AI-oriented language translation project.
-
-[🚀 Live Demo](https://saaqibmohiddin.github.io/AI-Language-Translator/)
-
-[📂 Source Code](https://github.com/saaqibmohiddin/AI-Language-Translator)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏦 Banking Management System
-
-Banking management software project.
-
-[🚀 Live Demo](https://saaqibmohiddin.github.io/Banking-Management-System/)
-
-[📂 Source Code](https://github.com/saaqibmohiddin/Banking-Management-System)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 Student Management System
-
-Student management software project.
-
-[🚀 Live Demo](https://saaqibmohiddin.github.io/Student-Management-System/)
-
-[📂 Source Code](https://github.com/saaqibmohiddin/Student-Management-System)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 💬 Python ChatBot
-
-[🚀 Live Demo](https://saaqibmohiddin.github.io/Python-ChatBot/)
-
-[📂 Source Code](https://github.com/saaqibmohiddin/Python-ChatBot)
-
-</div>
-
----
-
-## ◈ 07 - 🏆 CERTIFICATIONS & PROFESSIONAL LEARNING
-
-<div align="center">🔵 1. Tata – GenAI Powered Data Analytics Job Simulation
-
-<img src="GenAI.jpg" width="85%" alt="Tata GenAI Certificate"/>Organization: Tata through Forage
-
-Completion Date: July 25, 2026
-
-Skills: Exploratory Data Analysis, AI Risk Profiling, Data Storytelling, AI-driven Collections Strategy.
-
----
-
-🟢 2. BCG X – GenAI Job Simulation
-
-<img src="Gen AI Job Simulation.jpg" width="85%" alt="BCG X GenAI Certificate"/>Organization: BCG X through Forage
-
-Completion Date: September 4, 2026
-
-Skills: Data Extraction, Data Analysis, AI-powered Financial Chatbot Development.
-
----
-
-🔷 3. IBM SkillsBuild – AI Literacy
-
-<img src="AILiteracy.jpg" width="85%" alt="IBM AI Literacy Certificate"/>Organization: IBM SkillsBuild
-
-Completion Date: September 4, 2026
-
-Skills:
-
-- Artificial Intelligence Fundamentals
-- Understanding AI Concepts and Applications
-- Machine Learning Fundamentals
-- Generative AI Awareness
-- Responsible and Ethical AI
-- AI in Real-World Applications
-
-</div>
-
-## ◈ 08 — GITHUB ANALYTICS COMMAND CENTER
-
-<div align="center">
-
-### Profile Statistics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saaqibmohiddin&show_icons=true&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=8B5CF6&text_color=FFFFFF&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaqibmohiddin&layout=compact&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=FFFFFF" />
-
-### Contribution Streak
-
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=saaqibmohiddin&theme=tokyonight&hide_border=true&background=050816&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF" />
-
-### GitHub Activity
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saaqibmohiddin&bg_color=050816&color=00E5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" />
-
-### GitHub Trophies
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=saaqibmohiddin&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=4" />
-
-</div>
-
----
-
-## ◈ 09 — CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-### 🐍 GITHUB SNAKE ANIMATION
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saaqibmohiddin/saaqibmohiddin/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saaqibmohiddin/saaqibmohiddin/output/snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/saaqibmohiddin/saaqibmohiddin/output/snake.svg" width="100%">
-</picture>
-
----
-
-
-<!-- PAC-MAN CONTRIBUTION ANIMATION -->
-
-<div align="center">
-
-  <h3>👾 PAC-MAN CONTRIBUTION ANIMATION</h3>
-
-  <p>
-    <b>⚡ WATCH PAC-MAN EAT YOUR GITHUB CONTRIBUTIONS ⚡</b>
-  </p>
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/saaqibmohiddin/saaqibmohiddin/pacman-output/pacman-contribution-graph-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/saaqibmohiddin/saaqibmohiddin/pacman-output/pacman-contribution-graph.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/saaqibmohiddin/saaqibmohiddin/pacman-output/pacman-contribution-graph.svg"
-      width="100%"
-      alt="Pac-Man GitHub Contribution Animation"
-    />
-  </picture>
-
-  <br/>
-
-  <p>
-    <b>🎮 GAME ON! EAT THE CONTRIBUTIONS. CHASE THE FUTURE.</b>
-  </p>
-
-</div>
-
-<!-- END PAC-MAN CONTRIBUTION ANIMATION -->
-
----
-
-## ◈ 10 — DEVELOPER COMMAND CENTER
-
-```text
-┌──────────────────────────────────────────┐
-│       SAAQIB MOHIDDIN // TERMINAL        │
-└──────────────────────────────────────────┘
+┌────────────────────────────────────────────┐
+│        SAAQIB MOHIDDIN // TERMINAL         │
+└────────────────────────────────────────────┘
 
 $ whoami
 Mohammed Saaqib Mohiddin
+
+$ role
+Developer | AI Enthusiast
 
 $ skills
 Python | Java | JavaScript | SQL
 React | Flask | Django | FastAPI
 
 $ interests
-AI | ML | Deep Learning | GenAI | NLP
+AI | ML | Deep Learning | GenAI | NLP | LLMs
 
 $ projects
 Explore my seven featured projects.
-
 
 $ github
 github.com/saaqibmohiddin
@@ -433,184 +241,105 @@ msaaqib777@gmail.com
 
 $ about
 Learn. Build. Innovate. Repeat.
-```
 
-<sub>Static terminal-inspired presentation. Commands are illustrative and do not execute inside GitHub README.</sub>
+[ SYSTEM STATUS: CONTINUOUSLY LEARNING ]
 
----
-## ◈ 3D CONTRIBUTION GRAPH
+◈ 11 — AI DEVELOPER INTELLIGENCE HUB
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/saaqibmohiddin/saaqibmohiddin/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub Contribution Graph"/>
-</div>
+TECHNOLOGY RADAR
 
-## ◈ 11 — AI DEVELOPER INTELLIGENCE HUB
+Intelligence Domain| Technologies
+Artificial Intelligence| AI, ML, Deep Learning, NLP
+Generative AI| GenAI, LLMs
+Python Development| Python, NumPy, Pandas
+Frontend Engineering| HTML, CSS, JavaScript, React
+Backend Engineering| Flask, Django, FastAPI
+Database Engineering| MySQL, PostgreSQL, SQLite
+Developer Tools| Git, GitHub, VS Code
 
-<div align="center">
+◈ 12 — REPOSITORY SPOTLIGHT
 
-![AI](https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-0A192F?style=for-the-badge&logo=probot&logoColor=00E5FF)
-![GenAI](https://img.shields.io/badge/GENERATIVE_AI-17132F?style=for-the-badge&logo=openai&logoColor=white)
-![ML](https://img.shields.io/badge/MACHINE_LEARNING-102A43?style=for-the-badge&logo=scikitlearn&logoColor=orange)
-![DL](https://img.shields.io/badge/DEEP_LEARNING-25143A?style=for-the-badge&logo=pytorch&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-102B36?style=for-the-badge&logo=googletranslate&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-202030?style=for-the-badge&logo=openai&logoColor=white)
+<div align="center"><a href="https://github.com/saaqibmohiddin?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_PUBLIC_REPOSITORIES-030712?style=for-the-badge&logo=github&logoColor=00E5FF" />
+</a></div>Explore my public repositories, source code, software experiments and development projects.
 
-</div>
+◈ 13 — LATEST BLOG POSTS
 
-### Technology Radar
+Technology learning and development updates.
 
-| Domain | Technologies |
-|---|---|
-| Artificial Intelligence | AI, ML, Deep Learning, NLP |
-| Generative AI | GenAI, LLMs |
-| Python Development | Python, NumPy, Pandas |
-| Frontend | HTML, CSS, JavaScript, React |
-| Backend | Flask, Django, FastAPI |
-| Databases | MySQL, PostgreSQL, SQLite |
-| Developer Tools | Git, GitHub, VS Code |
+This section can be automated later by connecting a public RSS feed.
 
----
+◈ 14 — DEVELOPER JOURNEY
 
-## ◈ 12 — REPOSITORY SPOTLIGHT
+2023 ── Started B.Tech CSE journey
+  │
+  ▼
+2024 ── Explored programming and software development
+  │
+  ▼
+2025 ── Developed projects and explored AI technologies
+  │
+  ▼
+2026 ── Focused on GenAI, Python and practical applications
+  │
+  ▼
+2027 ── Target: Graduate and grow as a technology professional
 
-<div align="center">
+◈ 15 — ACHIEVEMENT WALL
 
-<a href="https://github.com/saaqibmohiddin/Inventory-Management">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=saaqibmohiddin&repo=Inventory-Management&theme=tokyonight&hide_border=true" />
-</a>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=saaqibmohiddin&theme=algolia&no-frame=true&no-bg=true&margin-w=10" width="100%"/></div>◈ 16 — AI PROJECT ASSISTANT
 
-<a href="https://github.com/saaqibmohiddin/AI-Learning-Path-Generator">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=saaqibmohiddin&repo=AI-Learning-Path-Generator&theme=tokyonight&hide_border=true" />
-</a>
+Resource| Destination
+Project Portfolio| "Featured Projects" (https://github.com/saaqibmohiddin?tab=repositories)
+AI Projects| "AI Repositories" (https://github.com/saaqibmohiddin?tab=repositories&q=AI)
+Python Projects| "Python Repositories" (https://github.com/saaqibmohiddin?tab=repositories&q=Python)
+Documentation| "GitHub Repositories" (https://github.com/saaqibmohiddin)
 
-<a href="https://github.com/saaqibmohiddin/Smart-Hospital-Queue">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=saaqibmohiddin&repo=Smart-Hospital-Queue&theme=tokyonight&hide_border=true" />
-</a>
+◈ 17 — GITHUB STATISTICS DASHBOARD
 
-<a href="https://github.com/saaqibmohiddin/AI-Language-Translator">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=saaqibmohiddin&repo=AI-Language-Translator&theme=tokyonight&hide_border=true" />
-</a>
+<div align="center"><img src="https://streak-stats.demolab.com?user=saaqibmohiddin&theme=tokyonight&hide_border=true&background=030712&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF" width="100%"/></div>◈ 18 — CURRENT FOCUS & LEARNING ROADMAP
 
-[Explore All Public Repositories →](https://github.com/saaqibmohiddin?tab=repositories)
+🚀 WHAT I'M FOCUSING ON
 
-</div>
+Technology| Learning Focus
+Python| Advanced Python
+Artificial Intelligence| Practical AI Applications
+Machine Learning| ML Models
+Generative AI| LLMs & RAG
+Deep Learning| Neural Networks
+Full-Stack Development| React & FastAPI
 
----
-
-## ◈ 13 — LATEST BLOG POSTS
-
-<!-- BLOG-POST-LIST:START -->
-Blog automation will populate this section when an RSS feed is configured.
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## ◈ 14 — DEVELOPER JOURNEY
-
-- [Public Repositories](https://github.com/saaqibmohiddin?tab=repositories)
-- [Project Releases](https://github.com/saaqibmohiddin?tab=repositories)
-- [Contribution Activity](https://github.com/saaqibmohiddin)
-- [Project Demonstrations](#-05--featured-projects)
-
----
-
-## ◈ 15 — ACHIEVEMENT WALL
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saaqibmohiddin&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=4" width="90%" alt="GitHub achievement trophies"/>
-
-</div>
-
-<sub>Achievement cards are populated by the GitHub trophy service.</sub>
-
----
-
-## ◈ 16 — AI PROJECT ASSISTANT
-
-| Resource | Destination |
-|---|---|
-| Project Portfolio | [Featured Projects](#-05--featured-projects) |
-| AI Projects | [AI Repositories](https://github.com/saaqibmohiddin?tab=repositories&q=AI) |
-| Python Projects | [Python Repositories](https://github.com/saaqibmohiddin?tab=repositories&q=Python) |
-| Documentation | [GitHub Repositories](https://github.com/saaqibmohiddin?tab=repositories) |
-
----
----
-
-## ◈ 17 — GITHUB STATISTICS DASHBOARD
-
-<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=saaqibmohiddin&show_icons=true&theme=tokyonight&hide_border=true" /><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaqibmohiddin&layout=compact&theme=tokyonight&hide_border=true" /><img width="70%" src="https://streak-stats.demolab.com?user=saaqibmohiddin&theme=tokyonight&hide_border=true" /></div>---
-
----
-
-## ◈ 18 – CURRENT FOCUS & LEARNING ROADMAP
-
-<div align="center">
-
-### 🚀 WHAT I'M FOCUSING ON
-
-| Technology | Focus |
-|:---|:---|
-| Python | Advanced Python |
-| Artificial Intelligence | AI Applications |
-| Machine Learning | ML Models |
-| Generative AI | LLMs & RAG |
-| Deep Learning | Neural Networks |
-| Full Stack Development | React & FastAPI |
-
-### 🎯 MY NEXT GOALS
+🎯 MY NEXT GOALS
 
 - Build real-world AI applications.
-- Develop advanced GenAI projects.
+- Develop advanced Generative AI projects.
 - Improve problem-solving skills.
 - Contribute to open-source projects.
-- Explore new AI technologies.
+- Explore emerging AI technologies.
+- Strengthen software engineering fundamentals.
 
-### 💡 LEARN. BUILD. GROW.
+<div align="center">LEARN. BUILD. GROW.
 
-</div>
+</div>◈ 19 — CONNECT WITH ME
 
-## ◈ 19 — CONNECT WITH ME
+<div align="center">LET'S BUILD SOMETHING INNOVATIVE!
 
-<div align="center">
+I'm interested in technology, software development, Artificial Intelligence and innovative ideas.
 
-### LET'S BUILD SOMETHING INNOVATIVE!
+""GitHub" (https://img.shields.io/badge/GitHub-saaqibmohiddin-030712?style=for-the-badge&logo=github&logoColor=00E5FF)" (https://github.com/saaqibmohiddin)
 
-I'm interested in technology, software development, Artificial Intelligence, and innovative ideas.
+""Email" (https://img.shields.io/badge/Email-msaaqib777%40gmail.com-030712?style=for-the-badge&logo=gmail&logoColor=EA4335)" (mailto:msaaqib777@gmail.com)
 
-<a href="https://github.com/saaqibmohiddin">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mohammed-saaqib-mohiddin-89b434269/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:msaaqib777@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-**GitHub:** [@saaqibmohiddin](https://github.com/saaqibmohiddin)
-
-**LinkedIn:** [Connect with me](https://www.linkedin.com/in/mohammed-saaqib-mohiddin-89b434269/)
-
-**Email:** [msaaqib777@gmail.com](mailto:msaaqib777@gmail.com)
-
-</div>
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (YOUR_LINKEDIN_URL)
 
 ---
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:7C3AED,40:1D4ED8,75:082F49,100:030712&section=footer" width="100%"/>THANK YOU FOR VISITING MY DIGITAL SPACE!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:712CF9,50:111C45,100:050816&height=120&section=footer" width="100%" alt="Futuristic footer"/>
+THINK. BUILD. INNOVATE. REPEAT.
 
-### THANK YOU FOR VISITING MY DIGITAL SPACE!
+Designed with passion for technology and innovation.
 
-**THINK. BUILD. INNOVATE. REPEAT.**
-
-<sub>Designed with passion for technology and innovation.</sub>
-
-<a href="#-mohammed-saaqib-mohiddin">⬆ BACK TO TOP</a>
+"⬆ BACK TO TOP" (#mohammed-saaqib-mohiddin)
 
 </div>
