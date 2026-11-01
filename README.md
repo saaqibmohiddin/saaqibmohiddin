@@ -43,30 +43,38 @@ mindset: Learn | Build | Innovate | Improve
 
 
 
-◈ 02 — ABOUT ME
+## ◈ 02 — ABOUT ME
 
-<div align="center">AI • SOFTWARE • INNOVATION
+<div align="center">ENGINEERING THE FUTURE WITH AI
 
 Computer Science & Engineering | Artificial Intelligence
 
-</div>I'm a Computer Science and Engineering student specializing in Artificial Intelligence. I'm interested in developing practical software applications and exploring modern AI technologies.
+</div>I'm a Computer Science and Engineering student specializing in Artificial Intelligence, interested in developing practical software applications and exploring emerging technologies.
 
-My focus is on programming, building projects, solving problems and continuously improving my technical skills.
+I enjoy programming, building projects, solving technical problems and continuously improving my skills.
 
-◈ CORE INTERESTS
+---
 
-<div align="center"><img src="https://img.shields.io/badge/AI-00E5FF?style=flat-square&labelColor=030712"/>
-<img src="https://img.shields.io/badge/GENERATIVE_AI-2563EB?style=flat-square&labelColor=030712"/>
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-8B5CF6?style=flat-square&labelColor=030712"/><img src="https://img.shields.io/badge/PYTHON-00E5FF?style=flat-square&labelColor=030712"/>
+◈ AREAS OF INTEREST
+
+<div align="center"><img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-00E5FF?style=flat-square&labelColor=030712"/>
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-2563EB?style=flat-square&labelColor=030712"/>
+<img src="https://img.shields.io/badge/GENERATIVE_AI-8B5CF6?style=flat-square&labelColor=030712"/><img src="https://img.shields.io/badge/PYTHON-00E5FF?style=flat-square&labelColor=030712"/>
 <img src="https://img.shields.io/badge/WEB_DEVELOPMENT-2563EB?style=flat-square&labelColor=030712"/>
-<img src="https://img.shields.io/badge/NLP-8B5CF6?style=flat-square&labelColor=030712"/></div>◈ WHAT I DO
+<img src="https://img.shields.io/badge/NLP-8B5CF6?style=flat-square&labelColor=030712"/></div>
+### ◈ DEVELOPMENT FOCUS
 
-- Application Development — Build Python and web applications.
-- AI Development — Explore AI, ML and Generative AI.
-- Problem Solving — Apply programming to practical challenges.
-- Continuous Learning — Learn modern tools and technologies.
+| DOMAIN | FOCUS |
+|:---|:---|
+| Artificial Intelligence | Intelligent applications |
+| Generative AI | LLMs and AI-powered solutions |
+| Python Development | Application development |
+| Web Development | Frontend and backend technologies |
+| Problem Solving | Practical programming projects |
 
-<div align="center">THINK • BUILD • INNOVATE
+<div align="center">
+
+**LEARN • BUILD • INNOVATE**
 
 </div>
 
