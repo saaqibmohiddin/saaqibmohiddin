@@ -118,10 +118,6 @@ DOMAIN| FOCUS
 </tr>
 </table>
 
-<p align="center">
-<img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL_INTELLIGENCE-00E5FF?style=flat-square&labelColor=030712" />
-<img src="https://img.shields.io/badge/DOMAIN-COMPUTER_SCIENCE-2563EB?style=flat-square&labelColor=030712" />
-</p>
 
 </div>
 
