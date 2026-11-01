@@ -41,49 +41,52 @@ focus:
 mindset: Learn | Build | Innovate | Improve
 ```
 
-◈ 02 — ABOUT ME
 
-<div align="center">BUILDING INTELLIGENT SOLUTIONS. CREATING IMPACT.
 
-AI Developer | Python Developer | Full-Stack Enthusiast
 
-</div>I'm a Computer Science and Engineering student specializing in Artificial Intelligence, passionate about developing practical software solutions and exploring emerging technologies.
+## ◈ 02 — ABOUT ME
 
-I enjoy transforming ideas into functional applications through programming, problem-solving, and continuous learning.
+<div align="center">
 
-<table width="100%">
-<tr>
-<td width="50%" align="center">🧠 AI & INTELLIGENCE
+### BUILDING INTELLIGENT SOLUTIONS
 
-Artificial Intelligence, Machine Learning, Deep Learning, NLP and Generative AI.
+**AI Developer | Python Developer | Full-Stack Enthusiast**
 
-</td>
-<td width="50%" align="center">⚙️ SOFTWARE ENGINEERING
+</div>
 
-Python development, frontend engineering, backend development and database integration.
+I'm a Computer Science and Engineering student specializing in Artificial Intelligence. I'm passionate about developing practical applications, solving problems, and exploring modern technologies.
 
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">✨ WHAT I BUILD
-
-Practical applications, intelligent solutions and technology-driven projects.
-
-</td>
-<td width="50%" align="center">🚀 MY APPROACH
-
-Learn continuously, build projects, solve problems and improve every day.
-
-</td>
-</tr>
-</table><div align="center">CURRENT INTERESTS
-
-<img src="https://img.shields.io/badge/GENERATIVE_AI-00E5FF?style=for-the-badge&labelColor=030712"/>
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-2563EB?style=for-the-badge&labelColor=030712"/>
-<img src="https://img.shields.io/badge/PYTHON-8B5CF6?style=for-the-badge&labelColor=030712"/>
-<img src="https://img.shields.io/badge/FULL_STACK-00E5FF?style=for-the-badge&labelColor=030712"/></div>---
+My goal is to turn ideas into useful software through continuous learning, experimentation, and hands-on development.
 
 ---
+
+### ◈ AREAS OF INTEREST
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-00E5FF?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/GENERATIVE_AI-2563EB?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-8B5CF6?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/PYTHON-00E5FF?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/FULL_STACK_DEVELOPMENT-2563EB?style=for-the-badge&labelColor=030712"/>
+
+</div>
+
+### ◈ WHAT I WORK ON
+
+- **AI & Machine Learning** — Exploring intelligent applications and ML concepts.
+- **Generative AI** — Learning about LLMs and AI-powered solutions.
+- **Software Development** — Building Python and web-based applications.
+- **Problem Solving** — Improving technical knowledge through practical projects.
+
+---
+
+<div align="center">
+
+**LEARN • BUILD • INNOVATE • EVOLVE**
+
+</div>
+
 
 ---
 
