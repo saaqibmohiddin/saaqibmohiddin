@@ -451,15 +451,11 @@ Skills:
 ## ◈ 10 — DEVELOPER COMMAND CENTER
 
 <div align="center"><img src="https://img.shields.io/badge/DEVELOPER_TERMINAL-00E5FF?style=flat-square&labelColor=030712"/>
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-2563EB?style=flat-square&labelColor=030712"/>SAAQIB MOHIDDIN 
-// DEVELOPER INTERFACE
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-2563EB?style=flat-square&labelColor=030712"/>SAAQIB MOHIDDIN
 
-</div>┌─ 
-SAAQIBN@DEVELOPER ─────────────────┐
-│ STATUS : ACTIVE                    │
-└────────────────────────────────────┘
+DEVELOPER INTERFACE
 
-$ whoami
+</div>$ whoami
 Mohammed Saaqib Mohiddin
 
 $ skills
