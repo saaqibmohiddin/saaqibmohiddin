@@ -357,6 +357,16 @@ Skills:
 
 <div align="center">
 
+
+### 📅 GITHUB CONTRIBUTION CALENDAR
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/00E5FF/saaqibmohiddin" alt="GitHub Contribution Calendar" width="100%"/>
+
+</div>
+
+
 ### 🐍 GITHUB SNAKE ANIMATION
 
 <picture>
