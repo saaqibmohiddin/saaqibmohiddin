@@ -484,11 +484,8 @@ EMAIL:
 
   msaaqib777@gmail.com
 
-MOTTO:
 
-  Learn. Build. Innovate. Repeat.
-
-<div align="center"><img src="https://img.shields.io/badge/BUILDING_DIGITAL_SOLUTIONS-00E5FF?style=flat-square&labelColor=030712"/>⚡ THINK • CODE • CREATE ⚡
+<div align="center"><img src="https://img.shields.io/badge/LEARN. BUILD. INNOVATE. REPEAT -00E5FF?style=flat-square&labelColor=030712"/>
 
 </div>
 
