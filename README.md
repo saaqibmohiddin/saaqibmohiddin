@@ -289,7 +289,7 @@ Student management software project.
 ## ◈ 07 — CERTIFICATION VAULT
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PROJECT_AEGIS-VERIFIED_LEARNING-00E5FF?style=for-the-badge&labelColor=030712"/>
+  <img src="https://img.shields.io/badge/AI_DEVELOPER-CERTIFICATIONS-00E5FF?style=for-the-badge&labelColor=030712"/>
 </p>
 
 ### 01 / TATA
