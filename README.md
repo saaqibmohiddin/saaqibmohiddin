@@ -256,7 +256,7 @@ Gudur, Andhra Pradesh, India
 
 ## ◈ 06 — FEATURED PROJECTS
 
-<div align="center"><img src="https://img.shields.io/badge/FEATURED_PROJECTS-00E5FF?style=for-the-badge&labelColor=030712"/>⚡ ENGINEERING IDEAS INTO REALITY
+<div align="center"><img src="https://img.shields.io/badge/⚡ ENGINEERING IDEAS INTO REALITY-00E5FF?style=for-the-badge&labelColor=030712"/>
 
 Selected applications and development work.
 
@@ -264,57 +264,57 @@ Selected applications and development work.
 
 Inventory management application.
 
-"🚀 LIVE DEMO" (https://saaqibmohiddin.github.io/Inventory-Management/)
+🚀 LIVE DEMO (https://saaqibmohiddin.github.io/Inventory-Management/)
 
-"💻 SOURCE CODE" (https://github.com/saaqibmohiddin/Inventory-Management)
+💻 SOURCE CODE (https://github.com/saaqibmohiddin/Inventory-Management)
 
 🤖 AI LEARNING PATH GENERATOR
 
 AI-oriented learning path application.
 
-"🚀 LIVE DEMO" (https://saaqibmohiddin.github.io/AI-Learning-Path-Generator/)
+🚀 LIVE DEMO (https://saaqibmohiddin.github.io/AI-Learning-Path-Generator/)
 
-"💻 SOURCE CODE" (https://github.com/saaqibmohiddin/AI-Learning-Path-Generator)
+💻 SOURCE CODE (https://github.com/saaqibmohiddin/AI-Learning-Path-Generator)
 
 🏥 SMART HOSPITAL QUEUE
 
 Hospital queue management application.
 
-"🚀 LIVE DEMO" (https://saaqibmohiddin.github.io/Smart-Hospital-Queue/)
+🚀 LIVE DEMO (https://saaqibmohiddin.github.io/Smart-Hospital-Queue/)
 
-"💻 SOURCE CODE" (https://github.com/saaqibmohiddin/Smart-Hospital-Queue)
+💻 SOURCE CODE (https://github.com/saaqibmohiddin/Smart-Hospital-Queue)
 
 🌐 AI LANGUAGE TRANSLATOR
 
 AI-oriented language translation application.
 
-"🚀 LIVE DEMO" (https://saaqibmohiddin.github.io/AI-Language-Translator/)
+🚀 LIVE DEMO (https://saaqibmohiddin.github.io/AI-Language-Translator/)
 
-"💻 SOURCE CODE" (https://github.com/saaqibmohiddin/AI-Language-Translator)
+💻 SOURCE CODE (https://github.com/saaqibmohiddin/AI-Language-Translator)
 
 🏦 BANKING MANAGEMENT SYSTEM
 
 Banking management application.
 
-"🚀 LIVE DEMO" (https://saaqibmohiddin.github.io/Banking-Management-System/)
+🚀 LIVE DEMO (https://saaqibmohiddin.github.io/Banking-Management-System/)
 
-"💻 SOURCE CODE" (https://github.com/saaqibmohiddin/Banking-Management-System)
+💻 SOURCE CODE (https://github.com/saaqibmohiddin/Banking-Management-System)
 
 🎓 STUDENT MANAGEMENT SYSTEM
 
 Student management application.
 
-"🚀 LIVE DEMO" (https://saaqibmohiddin.github.io/Student-Management-System/)
+🚀 LIVE DEMO (https://saaqibmohiddin.github.io/Student-Management-System/)
 
-"💻 SOURCE CODE" (https://github.com/saaqibmohiddin/Student-Management-System)
+💻 SOURCE CODE (https://github.com/saaqibmohiddin/Student-Management-System)
 
 💬 PYTHON CHATBOT
 
 Python-based chatbot project.
 
-"🚀 LIVE DEMO" (https://saaqibmohiddin.github.io/Python-ChatBot/)
+🚀 LIVE DEMO (https://saaqibmohiddin.github.io/Python-ChatBot/)
 
-"💻 SOURCE CODE" (https://github.com/saaqibmohiddin/Python-ChatBot)
+💻 SOURCE CODE (https://github.com/saaqibmohiddin/Python-ChatBot)
 
 <div align="center">⚡ DESIGN • DEVELOP • DEPLOY ⚡
 
