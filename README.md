@@ -41,92 +41,46 @@ focus:
 mindset: Learn | Build | Innovate | Improve
 ```
 
-
-
 ## ◈ 02 — ABOUT ME
 
-<div align="center">BUILDING INTELLIGENCE. CREATING IMPACT.
+I'm a developer passionate about building practical software solutions and exploring emerging technologies.
 
-AI Engineer | Python Developer |
+My interests span Artificial Intelligence, Generative AI, Machine Learning, Python Development, and Full-Stack Engineering.
 
-</div>I'm passionate about Artificial Intelligence, software development and emerging technologies. I enjoy building practical applications, exploring intelligent solutions and transforming ideas into functional projects.
+### What I Do
 
-My interests include programming, developing AI-powered applications, solving technical challenges and continuously expanding my knowledge of modern technologies.
+- Develop Python-based applications.
+- Explore Artificial Intelligence and Machine Learning.
+- Build Generative AI concepts and applications.
+- Develop frontend and backend applications.
+- Work with databases and REST APIs.
+- Explore practical software engineering solutions.
+
+### Currently Exploring
+
+`Generative AI` · `LLMs` · `Deep Learning` · `NLP` · `AI Applications` · `Modern Software Engineering`
 
 ---
 
-◈ AREAS OF INTEREST
-
-<div align="center"><img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-00E5FF?style=flat-square&labelColor=030712"/>
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-2563EB?style=flat-square&labelColor=030712"/>
-<img src="https://img.shields.io/badge/GENERATIVE_AI-8B5CF6?style=flat-square&labelColor=030712"/><img src="https://img.shields.io/badge/PYTHON-00E5FF?style=flat-square&labelColor=030712"/>
-<img src="https://img.shields.io/badge/WEB_DEVELOPMENT-2563EB?style=flat-square&labelColor=030712"/>
-<img src="https://img.shields.io/badge/NLP-8B5CF6?style=flat-square&labelColor=030712"/></div>◈ DEVELOPMENT FOCUS
-
-DOMAIN| FOCUS
-|Artificial Intelligence| Intelligent applications|
-|Generative AI| LLMs and AI-powered solutions|
-|Python Development| Application development|
-|Web Development| Frontend and backend technologies|
-|Problem Solving| Practical programming projects|
-
-<div align="center">LEARN • BUILD • INNOVATE
-
-</div>---
-
-
-
+---
 
 ## ◈ 03 — EDUCATION & ACADEMIC PROFILE
 
-<div align="center">
+<div align="center">🎓 BACHELOR OF TECHNOLOGY (B.TECH)
 
-<table width="100%">
-<tr>
-<td align="center">
+Computer Science and Engineering
 
-<h2>🎓 BACHELOR OF TECHNOLOGY</h2>
+Specialization: Artificial Intelligence
 
-<h3>COMPUTER SCIENCE AND ENGINEERING</h3>
+🏛️ College: Audisankara College of Engineering and Technology
 
-<img src="https://img.shields.io/badge/SPECIALIZATION-ARTIFICIAL_INTELLIGENCE-00E5FF?style=for-the-badge&labelColor=030712" />
+📍 Location: Gudur, Andhra Pradesh, India
 
-</td>
-</tr>
-</table>
+🎓 University: Jawaharlal Nehru Technological University Anantapur (JNTUA)
 
-<table width="100%">
-<tr>
-<td width="60%" align="center">
-<h3>◈ COLLEGE</h3>
-<strong>Audisankara College of Engineering and Technology</strong>
-</td>
-<td width="40%" align="center">
-<h3>◈ UNIVERSITY</h3>
-<strong>JNTU Anantapur</strong>
-</td>
-</tr>
-<tr>
-<td width="60%" align="center">
-<h3>◈ LOCATION</h3>
-<strong>Gudur, Andhra Pradesh, India</strong>
-</td>
-<td width="40%" align="center">
-<h3>◈ DURATION</h3>
-<strong>2023 – 2027</strong>
-</td>
-</tr>
-</table>
+📅 Academic Duration: 2023 – 2027
 
-
-</div>
-
----
-
-
----
-
-
+</div>---
 
 ## ◈ 04 — TECHNOLOGY ECOSYSTEM
 
@@ -332,55 +286,44 @@ Student management software project.
 
 ---
 
-## ◈ 07 — CERTIFICATION VAULT
+## ◈ 07 - 🏆 CERTIFICATIONS & PROFESSIONAL LEARNING
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI_DEVELOPER-CERTIFICATIONS-00E5FF?style=for-the-badge&labelColor=030712"/>
-</p>
+<div align="center">🔵 1. Tata – GenAI Powered Data Analytics Job Simulation
 
-### 01 / TATA
+<img src="GenAI.jpg" width="85%" alt="Tata GenAI Certificate"/>Organization: Tata through Forage
 
-<p align="center">
-  <img src="./GenAI.jpg" width="90%" alt="Tata GenAI Certificate"/>
-</p>
+Completion Date: July 25, 2026
 
-**GenAI Powered Data Analytics Job Simulation**
-
-<sub>Forage · 25 July 2026</sub>
+Skills: Exploratory Data Analysis, AI Risk Profiling, Data Storytelling, AI-driven Collections Strategy.
 
 ---
 
-### 02 / BCG X
+🟢 2. BCG X – GenAI Job Simulation
 
-<p align="center">
-  <img src="./Gen AI Job Simulation.jpg" width="90%" alt="BCG X GenAI Certificate"/>
-</p>
+<img src="Gen AI Job Simulation.jpg" width="85%" alt="BCG X GenAI Certificate"/>Organization: BCG X through Forage
 
-**GenAI Job Simulation**
+Completion Date: September 4, 2026
 
-<sub>Forage · 04 September 2026</sub>
+Skills: Data Extraction, Data Analysis, AI-powered Financial Chatbot Development.
 
 ---
 
-### 03 / IBM SKILLSBUILD
+🔷 3. IBM SkillsBuild – AI Literacy
 
-<p align="center">
-  <img src="./AILiteracy.jpg" width="90%" alt="IBM AI Literacy Certificate"/>
-</p>
+<img src="AILiteracy.jpg" width="85%" alt="IBM AI Literacy Certificate"/>Organization: IBM SkillsBuild
 
-**AI Literacy**
+Completion Date: September 4, 2026
 
-<sub>IBM SkillsBuild · 04 September 2026</sub>
+Skills:
 
----
+- Artificial Intelligence Fundamentals
+- Understanding AI Concepts and Applications
+- Machine Learning Fundamentals
+- Generative AI Awareness
+- Responsible and Ethical AI
+- AI in Real-World Applications
 
-<p align="center">
-  <sub>LEARN · BUILD · INNOVATE · GROW</sub>
-</p>
-
----
-
-
+</div>
 
 ## ◈ 08 — GITHUB ANALYTICS COMMAND CENTER
 
