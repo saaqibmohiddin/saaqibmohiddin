@@ -286,6 +286,38 @@ Student management software project.
 
 ---
 
+## ◈ 07 - 🏆 CERTIFICATIONS & PROFESSIONAL LEARNING
+
+<div align="center">🔵 1. Tata – GenAI Powered Data Analytics Job Simulation
+
+<img src="GenAI.jpg" width="85%" alt="Tata GenAI Certificate"/>Organization: Tata through Forage
+
+Completion Date: July 25, 2026
+
+Skills: Exploratory Data Analysis, AI Risk Profiling, Data Storytelling, AI-driven Collections Strategy.
+
+---
+
+🟢 2. BCG X – GenAI Job Simulation
+
+<img src="Gen AI Job Simulation.jpg" width="85%" alt="BCG X GenAI Certificate"/>Organization: BCG X through Forage
+
+Completion Date: September 4, 2026
+
+Skills: Data Extraction, Data Analysis, AI-powered Financial Chatbot Development.
+
+---
+
+🔷 3. IBM SkillsBuild – AI Literacy
+
+<img src="AILiteracy.jpg" width="85%" alt="IBM AI Literacy Certificate"/>Organization: IBM SkillsBuild
+
+Completion Date: September 4, 2026
+
+Verification: "View IBM Certificate" (https://www.credly.com/go/89VY6esa)
+
+</div>
+
 ## ◈ 07 — GITHUB ANALYTICS COMMAND CENTER
 
 <div align="center">
