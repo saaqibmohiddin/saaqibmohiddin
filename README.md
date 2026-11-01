@@ -450,36 +450,48 @@ Skills:
 
 ## ◈ 10 — DEVELOPER COMMAND CENTER
 
-```text
-┌──────────────────────────────────────────┐
-│       SAAQIB MOHIDDIN // TERMINAL        │
-└──────────────────────────────────────────┘
+<div align="center"><img src="https://img.shields.io/badge/DEVELOPER_TERMINAL-00E5FF?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/SYSTEM_ONLINE-2563EB?style=for-the-badge&labelColor=030712"/>SAAQIB MOHIDDIN // DEVELOPER INTERFACE
+
+</div>┌─────────────────────────────────────────────┐
+│  SAAQIB@DEVELOPER: ~                         │
+│  STATUS: ACTIVE                              │
+└─────────────────────────────────────────────┘
 
 $ whoami
 Mohammed Saaqib Mohiddin
 
-$ skills
+$ skills --core
 Python | Java | JavaScript | SQL
 React | Flask | Django | FastAPI
 
-$ interests
-AI | ML | Deep Learning | GenAI | NLP
+$ explore --interests
+Artificial Intelligence
+Machine Learning
+Deep Learning
+Generative AI
+Natural Language Processing
 
-$ projects
-Explore my seven featured projects.
+$ projects --list
+Explore my featured GitHub projects.
 
-
-$ github
+$ github --profile
 github.com/saaqibmohiddin
 
-$ contact
+$ contact --email
 msaaqib777@gmail.com
 
-$ about
+$ motto
 Learn. Build. Innovate. Repeat.
-```
 
-<sub>Static terminal-inspired presentation. Commands are illustrative and do not execute inside GitHub README.</sub>
+┌─────────────────────────────────────────────┐
+│  PROCESS: CONTINUOUS DEVELOPMENT             │
+│  OUTPUT: BUILDING DIGITAL SOLUTIONS          │
+└─────────────────────────────────────────────┘
+
+<div align="center"><img src="https://img.shields.io/badge/BUILD_MODE-ACTIVE-00E5FF?style=flat-square&labelColor=030712"/>⚡ THINK • CODE • CREATE ⚡
+
+</div><sub>Static terminal-inspired design. Displayed commands are illustrative and do not execute.</sub>
 
 ---
 
