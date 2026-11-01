@@ -62,7 +62,27 @@ My interests span Artificial Intelligence, Generative AI, Machine Learning, Pyth
 
 ---
 
-## ◈ 03 — TECHNOLOGY ECOSYSTEM
+---
+
+◈ 02 — EDUCATION & ACADEMIC PROFILE
+
+<div align="center">🎓 BACHELOR OF TECHNOLOGY (B.TECH)
+
+Computer Science and Engineering
+
+Specialization: Artificial Intelligence
+
+🏛️ College: Audisankara College of Engineering and Technology
+
+📍 Location: Gudur, Andhra Pradesh, India
+
+🎓 University: Jawaharlal Nehru Technological University Anantapur (JNTUA)
+
+📅 Academic Duration: 2023 – 2027
+
+</div>---
+
+## ◈ 04 — TECHNOLOGY ECOSYSTEM
 
 <div align="center">
 
@@ -102,7 +122,7 @@ My interests span Artificial Intelligence, Generative AI, Machine Learning, Pyth
 
 ---
 
-## ◈ 04 — TECHNOLOGY SHOWCASE
+## ◈ 05 — TECHNOLOGY SHOWCASE
 
 <table>
 <tr>
@@ -177,7 +197,7 @@ My interests span Artificial Intelligence, Generative AI, Machine Learning, Pyth
 
 ---
 
-## ◈ 05 — FEATURED PROJECTS
+## ◈ 06 — FEATURED PROJECTS
 
 <table>
 <tr>
@@ -266,7 +286,7 @@ Student management software project.
 
 ---
 
-## ◈ 06 — GITHUB ANALYTICS COMMAND CENTER
+## ◈ 07 — GITHUB ANALYTICS COMMAND CENTER
 
 <div align="center">
 
@@ -292,7 +312,7 @@ Student management software project.
 
 ---
 
-## ◈ 07 — CONTRIBUTION ACTIVITY
+## ◈ 08 — CONTRIBUTION ACTIVITY
 
 <div align="center">
 
@@ -345,7 +365,7 @@ Student management software project.
 
 ---
 
-## ◈ 08 — DEVELOPER COMMAND CENTER
+## ◈ 09 — DEVELOPER COMMAND CENTER
 
 ```text
 ┌──────────────────────────────────────────┐
@@ -385,7 +405,7 @@ Learn. Build. Innovate. Repeat.
 <img src="https://raw.githubusercontent.com/saaqibmohiddin/saaqibmohiddin/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub Contribution Graph"/>
 </div>
 
-## ◈ 09 — AI DEVELOPER INTELLIGENCE HUB
+## ◈ 10 — AI DEVELOPER INTELLIGENCE HUB
 
 <div align="center">
 
@@ -412,7 +432,7 @@ Learn. Build. Innovate. Repeat.
 
 ---
 
-## ◈ 10 — REPOSITORY SPOTLIGHT
+## ◈ 11 — REPOSITORY SPOTLIGHT
 
 <div align="center">
 
@@ -438,7 +458,7 @@ Learn. Build. Innovate. Repeat.
 
 ---
 
-## ◈ 11 — LATEST BLOG POSTS
+## ◈ 12 — LATEST BLOG POSTS
 
 <!-- BLOG-POST-LIST:START -->
 Blog automation will populate this section when an RSS feed is configured.
@@ -446,7 +466,7 @@ Blog automation will populate this section when an RSS feed is configured.
 
 ---
 
-## ◈ 12 — DEVELOPER JOURNEY
+## ◈ 13 — DEVELOPER JOURNEY
 
 - [Public Repositories](https://github.com/saaqibmohiddin?tab=repositories)
 - [Project Releases](https://github.com/saaqibmohiddin?tab=repositories)
@@ -455,7 +475,7 @@ Blog automation will populate this section when an RSS feed is configured.
 
 ---
 
-## ◈ 13 — ACHIEVEMENT WALL
+## ◈ 14 — ACHIEVEMENT WALL
 
 <div align="center">
 
@@ -467,7 +487,7 @@ Blog automation will populate this section when an RSS feed is configured.
 
 ---
 
-## ◈ 14 — AI PROJECT ASSISTANT
+## ◈ 15 — AI PROJECT ASSISTANT
 
 | Resource | Destination |
 |---|---|
@@ -479,13 +499,13 @@ Blog automation will populate this section when an RSS feed is configured.
 ---
 ---
 
-◈ 15 — GITHUB STATISTICS DASHBOARD
+◈ 16 — GITHUB STATISTICS DASHBOARD
 
 <div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=saaqibmohiddin&show_icons=true&theme=tokyonight&hide_border=true" /><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaqibmohiddin&layout=compact&theme=tokyonight&hide_border=true" /><img width="70%" src="https://streak-stats.demolab.com?user=saaqibmohiddin&theme=tokyonight&hide_border=true" /></div>---
 
 ---
 
-## ◈ 16 – CURRENT FOCUS & LEARNING ROADMAP
+## ◈ 17 – CURRENT FOCUS & LEARNING ROADMAP
 
 <div align="center">
 
@@ -511,7 +531,8 @@ Blog automation will populate this section when an RSS feed is configured.
 ### 💡 LEARN. BUILD. GROW.
 
 </div>
-## ◈ 17 — CONNECT WITH ME
+
+## ◈ 18 — CONNECT WITH ME
 
 <div align="center">
 
