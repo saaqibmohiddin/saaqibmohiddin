@@ -286,63 +286,54 @@ Student management software project.
 
 ---
 
-## ◈ 07 - CERTIFICATION VAULT
+## ◈ 07 — CERTIFICATION VAULT
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PROJECT_AEGIS-VERIFIED_LEARNING-00E5FF?style=for-the-badge&labelColor=030712" alt="Project Aegis Verified Learning"/>
+  <img src="https://img.shields.io/badge/PROJECT_AEGIS-VERIFIED_LEARNING-00E5FF?style=for-the-badge&labelColor=030712"/>
 </p>
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="./GenAI.jpg" width="100%" alt="Tata GenAI Certificate"/>
-      <br/><br/>
-      <strong>TATA</strong>
-      <br/>
-      <sub>GenAI Powered Data Analytics</sub>
-      <br/>
-      <sub>Job Simulation · Forage</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/STATUS-COMPLETED-00E5FF?style=flat-square&labelColor=030712" alt="Completed"/>
-      <br/><br/>
-      <sub>25 July 2026</sub>
-    </td>
-
-    <td align="center" width="33%">
-      <img src="./Gen AI Job Simulation.jpg" width="100%" alt="BCG X GenAI Certificate"/>
-      <br/><br/>
-      <strong>BCG X</strong>
-      <br/>
-      <sub>GenAI Job Simulation</sub>
-      <br/>
-      <sub>Forage</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/STATUS-COMPLETED-00E5FF?style=flat-square&labelColor=030712" alt="Completed"/>
-      <br/><br/>
-      <sub>04 September 2026</sub>
-    </td>
-
-    <td align="center" width="33%">
-      <img src="./AILiteracy.jpg" width="100%" alt="IBM AI Literacy Certificate"/>
-      <br/><br/>
-      <strong>IBM SKILLSBUILD</strong>
-      <br/>
-      <sub>AI Literacy</sub>
-      <br/>
-      <sub>IBM SkillsBuild</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/STATUS-COMPLETED-00E5FF?style=flat-square&labelColor=030712" alt="Completed"/>
-      <br/><br/>
-      <sub>04 September 2026</sub>
-    </td>
-  </tr>
-</table>
+### 01 / TATA
 
 <p align="center">
-  <sub>CONTINUOUS LEARNING · PRACTICAL SKILLS · AI INNOVATION</sub>
+  <img src="./GenAI.jpg" width="90%" alt="Tata GenAI Certificate"/>
+</p>
+
+**GenAI Powered Data Analytics Job Simulation**
+
+<sub>Forage · 25 July 2026</sub>
+
+---
+
+### 02 / BCG X
+
+<p align="center">
+  <img src="./Gen AI Job Simulation.jpg" width="90%" alt="BCG X GenAI Certificate"/>
+</p>
+
+**GenAI Job Simulation**
+
+<sub>Forage · 04 September 2026</sub>
+
+---
+
+### 03 / IBM SKILLSBUILD
+
+<p align="center">
+  <img src="./AILiteracy.jpg" width="90%" alt="IBM AI Literacy Certificate"/>
+</p>
+
+**AI Literacy**
+
+<sub>IBM SkillsBuild · 04 September 2026</sub>
+
+---
+
+<p align="center">
+  <sub>LEARN · BUILD · INNOVATE · GROW</sub>
 </p>
 
 ---
+
 
 
 ## ◈ 08 — GITHUB ANALYTICS COMMAND CENTER
