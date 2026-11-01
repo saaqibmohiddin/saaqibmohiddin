@@ -450,48 +450,38 @@ Skills:
 
 ## ◈ 10 — DEVELOPER COMMAND CENTER
 
-<div align="center"><img src="https://img.shields.io/badge/DEVELOPER_TERMINAL-00E5FF?style=for-the-badge&labelColor=030712"/>
-<img src="https://img.shields.io/badge/SYSTEM_ONLINE-2563EB?style=for-the-badge&labelColor=030712"/>SAAQIB MOHIDDIN // DEVELOPER INTERFACE
+<div align="center"><img src="https://img.shields.io/badge/DEVELOPER_TERMINAL-00E5FF?style=flat-square&labelColor=030712"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-2563EB?style=flat-square&labelColor=030712"/>SAAQIB MOHIDDIN // DEVELOPER INTERFACE
 
-</div>┌─────────────────────────────────────────────┐
-│  SAAQIB@DEVELOPER: ~                         │
-│  STATUS: ACTIVE                              │
-└─────────────────────────────────────────────┘
+</div>┌─ SAAQIBMOHIDDIN@DEVELOPER ─────────────────┐
+│ STATUS : ACTIVE                    │
+└────────────────────────────────────┘
 
 $ whoami
 Mohammed Saaqib Mohiddin
 
-$ skills --core
-Python | Java | JavaScript | SQL
-React | Flask | Django | FastAPI
+$ skills
+Python • Java • JavaScript • SQL
+React • Flask • Django • FastAPI
 
-$ explore --interests
-Artificial Intelligence
-Machine Learning
-Deep Learning
-Generative AI
-Natural Language Processing
+$ interests
+AI • ML • Deep Learning • GenAI • NLP
 
-$ projects --list
-Explore my featured GitHub projects.
+$ projects
+Seven featured GitHub projects
 
-$ github --profile
+$ github
 github.com/saaqibmohiddin
 
-$ contact --email
+$ contact
 msaaqib777@gmail.com
 
 $ motto
 Learn. Build. Innovate. Repeat.
 
-┌─────────────────────────────────────────────┐
-│  PROCESS: CONTINUOUS DEVELOPMENT             │
-│  OUTPUT: BUILDING DIGITAL SOLUTIONS          │
-└─────────────────────────────────────────────┘
+<div align="center">⚡ THINK • CODE • CREATE ⚡
 
-<div align="center"><img src="https://img.shields.io/badge/BUILD_MODE-ACTIVE-00E5FF?style=flat-square&labelColor=030712"/>⚡ THINK • CODE • CREATE ⚡
-
-</div><sub>Static terminal-inspired design. Displayed commands are illustrative and do not execute.</sub>
+</div><sub>Terminal-inspired profile display. Commands are illustrative.</sub>
 
 ---
 
