@@ -454,7 +454,7 @@ Skills:
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-2563EB?style=flat-square&labelColor=030712"/>SAAQIB MOHIDDIN // DEVELOPER INTERFACE
 
 </div>┌─ 
-SAAQIBMOHIDDIN@DEVELOPER ─────────────────┐
+SAAQIBN@DEVELOPER ─────────────────┐
 │ STATUS : ACTIVE                    │
 └────────────────────────────────────┘
 
