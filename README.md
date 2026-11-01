@@ -256,90 +256,120 @@ Gudur, Andhra Pradesh, India
 
 ## ◈ 06 — FEATURED PROJECTS
 
-<table>
+<div align="center"><img src="https://img.shields.io/badge/PROJECTS-00E5FF?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/SHOWCASE-2563EB?style=for-the-badge&labelColor=030712"/>⚡ ENGINEERING IDEAS INTO REALITY
+
+Selected applications, experiments and development work.
+
+</div><table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-### 📦 Inventory Management System
-
-Software project focused on inventory management.
-
-[🚀 Live Demo](https://saaqibmohiddin.github.io/Inventory-Management/)
-
-[📂 Source Code](https://github.com/saaqibmohiddin/Inventory-Management)
+<td width="12%" align="center" valign="middle"><img src="https://img.shields.io/badge/01-00E5FF?style=for-the-badge&labelColor=030712"/>📦
 
 </td>
-<td width="50%" valign="top">
+<td width="58%" valign="middle">INVENTORY MANAGEMENT SYSTEM
 
-### 🤖 AI Learning Path Generator
+<sub>Inventory management application</sub>
 
-AI-oriented project focused on generating learning paths.
+</td>
+<td width="30%" align="center" valign="middle">"🚀 DEMO" (https://saaqibmohiddin.github.io/Inventory-Management/)
 
-[🚀 Live Demo](https://saaqibmohiddin.github.io/AI-Learning-Path-Generator/)
-
-[📂 Source Code](https://github.com/saaqibmohiddin/AI-Learning-Path-Generator)
+"⌘ CODE" (https://github.com/saaqibmohiddin/Inventory-Management)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🏥 Smart Hospital Queue
-
-Software project focused on hospital queue management.
-
-[🚀 Live Demo](https://saaqibmohiddin.github.io/Smart-Hospital-Queue/)
-
-[📂 Source Code](https://github.com/saaqibmohiddin/Smart-Hospital-Queue)
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/02-8B5CF6?style=for-the-badge&labelColor=030712"/>🤖
 
 </td>
-<td width="50%" valign="top">
+<td valign="middle">AI LEARNING PATH GENERATOR
 
-### 🌐 AI Language Translator
+<sub>AI-oriented learning path application</sub>
 
-AI-oriented language translation project.
+</td>
+<td align="center" valign="middle">"🚀 DEMO" (https://saaqibmohiddin.github.io/AI-Learning-Path-Generator/)
 
-[🚀 Live Demo](https://saaqibmohiddin.github.io/AI-Language-Translator/)
-
-[📂 Source Code](https://github.com/saaqibmohiddin/AI-Language-Translator)
+"⌘ CODE" (https://github.com/saaqibmohiddin/AI-Learning-Path-Generator)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🏦 Banking Management System
-
-Banking management software project.
-
-[🚀 Live Demo](https://saaqibmohiddin.github.io/Banking-Management-System/)
-
-[📂 Source Code](https://github.com/saaqibmohiddin/Banking-Management-System)
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/03-2563EB?style=for-the-badge&labelColor=030712"/>🏥
 
 </td>
-<td width="50%" valign="top">
+<td valign="middle">SMART HOSPITAL QUEUE
 
-### 🎓 Student Management System
+<sub>Hospital queue management application</sub>
 
-Student management software project.
+</td>
+<td align="center" valign="middle">"🚀 DEMO" (https://saaqibmohiddin.github.io/Smart-Hospital-Queue/)
 
-[🚀 Live Demo](https://saaqibmohiddin.github.io/Student-Management-System/)
-
-[📂 Source Code](https://github.com/saaqibmohiddin/Student-Management-System)
+"⌘ CODE" (https://github.com/saaqibmohiddin/Smart-Hospital-Queue)
 
 </td>
 </tr>
-</table>
+<tr>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/04-00E5FF?style=for-the-badge&labelColor=030712"/>🌐
 
-<div align="center">
+</td>
+<td valign="middle">AI LANGUAGE TRANSLATOR
 
-### 💬 Python ChatBot
+<sub>AI-oriented language translation application</sub>
 
-[🚀 Live Demo](https://saaqibmohiddin.github.io/Python-ChatBot/)
+</td>
+<td align="center" valign="middle">"🚀 DEMO" (https://saaqibmohiddin.github.io/AI-Language-Translator/)
 
-[📂 Source Code](https://github.com/saaqibmohiddin/Python-ChatBot)
+"⌘ CODE" (https://github.com/saaqibmohiddin/AI-Language-Translator)
 
-</div>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/05-8B5CF6?style=for-the-badge&labelColor=030712"/>🏦
+
+</td>
+<td valign="middle">BANKING MANAGEMENT SYSTEM
+
+<sub>Banking management application</sub>
+
+</td>
+<td align="center" valign="middle">"🚀 DEMO" (https://saaqibmohiddin.github.io/Banking-Management-System/)
+
+"⌘ CODE" (https://github.com/saaqibmohiddin/Banking-Management-System)
+
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/06-2563EB?style=for-the-badge&labelColor=030712"/>🎓
+
+</td>
+<td valign="middle">STUDENT MANAGEMENT SYSTEM
+
+<sub>Student management application</sub>
+
+</td>
+<td align="center" valign="middle">"🚀 DEMO" (https://saaqibmohiddin.github.io/Student-Management-System/)
+
+"⌘ CODE" (https://github.com/saaqibmohiddin/Student-Management-System)
+
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/07-00E5FF?style=for-the-badge&labelColor=030712"/>💬
+
+</td>
+<td valign="middle">PYTHON CHATBOT
+
+<sub>Python-based chatbot project</sub>
+
+</td>
+<td align="center" valign="middle">"🚀 DEMO" (https://saaqibmohiddin.github.io/Python-ChatBot/)
+
+"⌘ CODE" (https://github.com/saaqibmohiddin/Python-ChatBot)
+
+</td>
+</tr>
+</table><div align="center"><img src="https://img.shields.io/badge/STATUS-CONTINUOUSLY_BUILDING-00E5FF?style=flat-square&labelColor=030712"/>⚡ DESIGN • DEVELOP • DEPLOY ⚡
+
+</div>---
 
 ---
 
