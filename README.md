@@ -66,87 +66,65 @@ My interests span Artificial Intelligence, Generative AI, Machine Learning, Pyth
 
 ## ◈ 03 — EDUCATION & ACADEMIC PROFILE
 
-
+ -->
 
 <h2 align="center">
-  <img src="https://img.shields.io/badge/03-EDUCATION_%26_ACADEMIC_PROFILE-00E5FF?style=for-the-badge&labelColor=090014" />
+  <img src="https://img.shields.io/badge/03-EDUCATION_%26_ACADEMIC_PROFILE-00E5FF?style=for-the-badge&labelColor=080817" />
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI_DEVELOPER-00E5FF?style=flat-square&labelColor=090014" />
-  <img src="https://img.shields.io/badge/CYBER_SECURITY-FF35D3?style=flat-square&labelColor=090014" />
-  <img src="https://img.shields.io/badge/ACADEMIC_PROFILE-8B5CF6?style=flat-square&labelColor=090014" />
+  <img src="https://img.shields.io/badge/AI_DEVELOPER-00E5FF?style=flat-square&labelColor=080817" />
+  <img src="https://img.shields.io/badge/CYBER_TECH-FF35D3?style=flat-square&labelColor=080817" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/DEGREE-BACHELOR_OF_TECHNOLOGY-00E5FF?style=for-the-badge&labelColor=090014" />
-</p>
+<div align="center">
 
-<h3 align="center">COMPUTER SCIENCE AND ENGINEERING</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SPECIALIZATION-ARTIFICIAL_INTELLIGENCE-FF35D3?style=for-the-badge&labelColor=090014" />
-</p>
-
----
-
-### ◈ 01 — INSTITUTIONAL DETAILS
-
-<table>
-  <tr>
-    <td width="35%" align="center">
-      <strong>COLLEGE</strong>
-    </td>
-    <td>
-      Audisankara College of Engineering and Technology
-    </td>
-  </tr>
+<table width="100%">
   <tr>
     <td align="center">
-      <strong>UNIVERSITY</strong>
-    </td>
-    <td>
-      Jawaharlal Nehru Technological University Anantapur (JNTUA)
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>LOCATION</strong>
-    </td>
-    <td>
-      Gudur, Andhra Pradesh, India
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>ACADEMIC DURATION</strong>
-    </td>
-    <td>
-      2023 – 2027
+
+      <h2>🎓 BACHELOR OF TECHNOLOGY</h2>
+
+      <h3>COMPUTER SCIENCE AND ENGINEERING</h3>
+
+      <img src="https://img.shields.io/badge/SPECIALIZATION-ARTIFICIAL_INTELLIGENCE-FF35D3?style=for-the-badge&labelColor=080817" />
+
     </td>
   </tr>
 </table>
 
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h3>◈ COLLEGE</h3>
+      <strong>Audisankara College of Engineering and Technology</strong>
+    </td>
+    <td width="50%" align="center">
+      <h3>◈ UNIVERSITY</h3>
+      <strong>JNTU Anantapur</strong>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>◈ LOCATION</h3>
+      <strong>Gudur, Andhra Pradesh, India</strong>
+    </td>
+    <td width="50%" align="center">
+      <h3>◈ DURATION</h3>
+      <strong>2023 – 2027</strong>
+    </td>
+  </tr>
+</table>
+
+<p>
+  <img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL_INTELLIGENCE-00E5FF?style=flat-square&labelColor=080817" />
+  <img src="https://img.shields.io/badge/DOMAIN-COMPUTER_SCIENCE-FF35D3?style=flat-square&labelColor=080817" />
+</p>
+
+</div>
+
 ---
 
-### ◈ 02 — ACADEMIC TIMELINE
-
-<p align="center">
-  <img src="https://img.shields.io/badge/2023-YEAR_01-00E5FF?style=for-the-badge&labelColor=090014" />
-  <img src="https://img.shields.io/badge/2024-YEAR_02-00E5FF?style=for-the-badge&labelColor=090014" />
-  <img src="https://img.shields.io/badge/2025-YEAR_03-8B5CF6?style=for-the-badge&labelColor=090014" />
-  <img src="https://img.shields.io/badge/2026--2027-FINAL_YEAR-FF35D3?style=for-the-badge&labelColor=090014" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-AI_AND_TECHNOLOGY_LEARNING-00E5FF?style=for-the-badge&labelColor=090014" />
-</p>
-
-<p align="center">
-  <sub>◈ LEARN · DEVELOP · INNOVATE · ADVANCE ◈</sub>
-</p>
-
----
 
 
 ## ◈ 04 — TECHNOLOGY ECOSYSTEM
