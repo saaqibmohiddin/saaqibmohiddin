@@ -256,66 +256,67 @@ Gudur, Andhra Pradesh, India
 
 ## ◈ 06 — FEATURED PROJECTS
 
-<div align="center"><img src="https://img.shields.io/badge/⚡ ENGINEERING IDEAS INTO REALITY-00E5FF?style=for-the-badge&labelColor=030712"/>
+<div align="center"><img src="https://img.shields.io/badge/PROJECT_DIRECTORY-00E5FF?style=for-the-badge&labelColor=030712"/>⚡ IDEAS INTO APPLICATIONS
 
+Exploring • Building • Developing
 
-</div>📦 INVENTORY MANAGEMENT SYSTEM
+</div><details>
+<summary><b>📦 INVENTORY MANAGEMENT SYSTEM</b></summary>Inventory management application.
 
-Inventory management application.
+🔗 PROJECT LINKS
 
-🚀 LIVE DEMO (https://saaqibmohiddin.github.io/Inventory-Management/)
+- 🚀 "Live Demo" (https://saaqibmohiddin.github.io/Inventory-Management/)
+- 💻 "Source Code" (https://github.com/saaqibmohiddin/Inventory-Management)
 
-💻 SOURCE CODE (https://github.com/saaqibmohiddin/Inventory-Management)
+</details><details>
+<summary><b>🤖 AI LEARNING PATH GENERATOR</b></summary>AI-oriented learning path application.
 
-🤖 AI LEARNING PATH GENERATOR
+🔗 PROJECT LINKS
 
-AI-oriented learning path application.
+- 🚀 "Live Demo" (https://saaqibmohiddin.github.io/AI-Learning-Path-Generator/)
+- 💻 "Source Code" (https://github.com/saaqibmohiddin/AI-Learning-Path-Generator)
 
-🚀 LIVE DEMO (https://saaqibmohiddin.github.io/AI-Learning-Path-Generator/)
+</details><details>
+<summary><b>🏥 SMART HOSPITAL QUEUE</b></summary>Hospital queue management application.
 
-💻 SOURCE CODE (https://github.com/saaqibmohiddin/AI-Learning-Path-Generator)
+🔗 PROJECT LINKS
 
-🏥 SMART HOSPITAL QUEUE
+- 🚀 "Live Demo" (https://saaqibmohiddin.github.io/Smart-Hospital-Queue/)
+- 💻 "Source Code" (https://github.com/saaqibmohiddin/Smart-Hospital-Queue)
 
-Hospital queue management application.
+</details><details>
+<summary><b>🌐 AI LANGUAGE TRANSLATOR</b></summary>AI-oriented language translation application.
 
-🚀 LIVE DEMO (https://saaqibmohiddin.github.io/Smart-Hospital-Queue/)
+🔗 PROJECT LINKS
 
-💻 SOURCE CODE (https://github.com/saaqibmohiddin/Smart-Hospital-Queue)
+- 🚀 "Live Demo" (https://saaqibmohiddin.github.io/AI-Language-Translator/)
+- 💻 "Source Code" (https://github.com/saaqibmohiddin/AI-Language-Translator)
 
-🌐 AI LANGUAGE TRANSLATOR
+</details><details>
+<summary><b>🏦 BANKING MANAGEMENT SYSTEM</b></summary>Banking management application.
 
-AI-oriented language translation application.
+🔗 PROJECT LINKS
 
-🚀 LIVE DEMO (https://saaqibmohiddin.github.io/AI-Language-Translator/)
+- 🚀 "Live Demo" (https://saaqibmohiddin.github.io/Banking-Management-System/)
+- 💻 "Source Code" (https://github.com/saaqibmohiddin/Banking-Management-System)
 
-💻 SOURCE CODE (https://github.com/saaqibmohiddin/AI-Language-Translator)
+</details><details>
+<summary><b>🎓 STUDENT MANAGEMENT SYSTEM</b></summary>Student management application.
 
-🏦 BANKING MANAGEMENT SYSTEM
+🔗 PROJECT LINKS
 
-Banking management application.
+- 🚀 "Live Demo" (https://saaqibmohiddin.github.io/Student-Management-System/)
+- 💻 "Source Code" (https://github.com/saaqibmohiddin/Student-Management-System)
 
-🚀 LIVE DEMO (https://saaqibmohiddin.github.io/Banking-Management-System/)
+</details><details>
+<summary><b>💬 PYTHON CHATBOT</b></summary>Python-based chatbot project.
 
-💻 SOURCE CODE (https://github.com/saaqibmohiddin/Banking-Management-System)
+🔗 PROJECT LINKS
 
-🎓 STUDENT MANAGEMENT SYSTEM
+- 🚀 "Live Demo" (https://saaqibmohiddin.github.io/Python-ChatBot/)
+- 💻 "Source Code" (https://github.com/saaqibmohiddin/Python-ChatBot)
 
-Student management application.
-
-🚀 LIVE DEMO (https://saaqibmohiddin.github.io/Student-Management-System/)
-
-💻 SOURCE CODE (https://github.com/saaqibmohiddin/Student-Management-System)
-
-💬 PYTHON CHATBOT
-
-Python-based chatbot project.
-
-🚀 LIVE DEMO (https://saaqibmohiddin.github.io/Python-ChatBot/)
-
-💻 SOURCE CODE (https://github.com/saaqibmohiddin/Python-ChatBot)
-
-<div align="center">⚡ DESIGN • DEVELOP • DEPLOY ⚡
+</details><div align="center">⚡ CREATE • BUILD • INNOVATE ⚡
 
 </div>
 
