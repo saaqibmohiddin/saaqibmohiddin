@@ -329,11 +329,6 @@ Skills:
 
 <div align="center">
 
-### Profile Statistics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saaqibmohiddin&show_icons=true&hide_border=true&bg_color=030712&title_color=00E5FF&icon_color=2563EB&text_color=DCE6F1&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaqibmohiddin&layout=compact&hide_border=true&bg_color=030712&title_color=00E5FF&text_color=DCE6F1" />
 
 ### Contribution Streak
 
@@ -341,15 +336,6 @@ Skills:
 
 </div>
 
-### GitHub Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saaqibmohiddin&bg_color=030712&color=DCE6F1&line=00E5FF&point=2563EB&area=true&hide_border=true"/>
-
-### GitHub Trophies
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=saaqibmohiddin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
-
-</div>
 
 ---
 
