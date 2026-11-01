@@ -457,7 +457,8 @@ MOHAMMED SAAQIB MOHIDDIN
 
 </div>NAME: Mohammed Saaqib Mohiddin
 
-  STATUS: Active
+
+STATUS: Active
 
 TECHNICAL SKILLS:
 
