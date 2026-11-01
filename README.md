@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,40:111C45,100:712CF9&text=SAAQIB%20MOHIDDIN&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20GENERATIVE%20AI%20%7C%20PYTHON%20%7C%20FULL-STACK%20DEVELOPER&descSize=14&descAlignY=58&animation=fadeIn" width="100%" alt="Futuristic developer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:030712,45:0B1B3A,100:2563EB&text=SAAQIB%20MOHIDDIN&fontSize=48&fontColor=DCE6F1&fontAlignY=38&desc=AI%20%7C%20GENERATIVE%20AI%20%7C%20CYBER%20INTELLIGENCE%20%7C%20PYTHON&descSize=14&descAlignY=58&animation=fadeIn" width="100%" alt="Project Aegis AI Developer Banner"/>
 
 <a href="https://github.com/saaqibmohiddin">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Developer;Python+Developer;Generative+AI+Enthusiast;Full-Stack+Developer;Software+Developer" width="100%" alt="Developer introduction"/>
@@ -331,17 +331,19 @@ Skills:
 
 ### Profile Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saaqibmohiddin&show_icons=true&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=8B5CF6&text_color=FFFFFF&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saaqibmohiddin&show_icons=true&hide_border=true&bg_color=030712&title_color=00E5FF&icon_color=2563EB&text_color=DCE6F1&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaqibmohiddin&layout=compact&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaqibmohiddin&layout=compact&hide_border=true&bg_color=030712&title_color=00E5FF&text_color=DCE6F1" />
 
 ### Contribution Streak
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=saaqibmohiddin&theme=tokyonight&hide_border=true&background=050816&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF" />
+<img width="80%" src="https://streak-stats.demolab.com?user=saaqibmohiddin&hide_border=true&background=030712&ring=00E5FF&fire=2563EB&currStreakLabel=00E5FF&sideLabels=DCE6F1&dates=94A3B8" />
+
+</div>
 
 ### GitHub Activity
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saaqibmohiddin&bg_color=050816&color=00E5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saaqibmohiddin&bg_color=030712&color=DCE6F1&line=00E5FF&point=2563EB&area=true&hide_border=true"/>
 
 ### GitHub Trophies
 
