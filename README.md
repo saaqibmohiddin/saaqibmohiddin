@@ -76,20 +76,16 @@ My interests span Artificial Intelligence, Generative AI, Machine Learning, Pyth
 </p>
 
 <div align="center">
-
 <table width="100%">
-  <tr>
-    <td align="center">
-
-      <h2>🎓 BACHELOR OF TECHNOLOGY</h2>
-
-      <h3>COMPUTER SCIENCE AND ENGINEERING</h3>
-
-      <img src="https://img.shields.io/badge/SPECIALIZATION-ARTIFICIAL_INTELLIGENCE-FF35D3?style=for-the-badge&labelColor=080817" />
-
-    </td>
-  </tr>
+<tr>
+<td align="center">
+<h2>🎓 BACHELOR OF TECHNOLOGY</h2>
+<h3>COMPUTER SCIENCE AND ENGINEERING</h3>
+<img src="https://img.shields.io/badge/SPECIALIZATION-ARTIFICIAL_INTELLIGENCE-FF35D3?style=for-the-badge&labelColor=080817" />
+</td>
+</tr>
 </table>
+</div>
 
 <table width="100%">
   <tr>
