@@ -86,21 +86,21 @@ My interests span Artificial Intelligence, Generative AI, Machine Learning, Pyth
 
 <table width="100%">
 <tr>
-<td width="50%" align="center">
+<td width="60%" align="center">
 <h3>◈ COLLEGE</h3>
 <strong>Audisankara College of Engineering and Technology</strong>
 </td>
-<td width="50%" align="center">
+<td width="40%" align="center">
 <h3>◈ UNIVERSITY</h3>
 <strong>JNTU Anantapur</strong>
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="60%" align="center">
 <h3>◈ LOCATION</h3>
 <strong>Gudur, Andhra Pradesh, India</strong>
 </td>
-<td width="50%" align="center">
+<td width="40%" align="center">
 <h3>◈ DURATION</h3>
 <strong>2023 – 2027</strong>
 </td>
