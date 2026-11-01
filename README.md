@@ -478,8 +478,13 @@ Blog automation will populate this section when an RSS feed is configured.
 | Documentation | [GitHub Repositories](https://github.com/saaqibmohiddin?tab=repositories) |
 
 ---
+---
 
-## ◈ 15 — CONNECT WITH ME
+◈ 15 — GITHUB STATISTICS DASHBOARD
+
+<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=saaqibmohiddin&show_icons=true&theme=tokyonight&hide_border=true" /><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaqibmohiddin&layout=compact&theme=tokyonight&hide_border=true" /><img width="70%" src="https://streak-stats.demolab.com?user=saaqibmohiddin&theme=tokyonight&hide_border=true" /></div>---
+
+## ◈ 16 — CONNECT WITH ME
 
 <div align="center">
 
