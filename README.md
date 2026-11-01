@@ -43,22 +43,40 @@ mindset: Learn | Build | Innovate | Improve
 
 ## ◈ 02 — ABOUT ME
 
-I'm a developer passionate about building practical software solutions and exploring emerging technologies.
+<div align="center">✨ BUILDING INTELLIGENCE. CREATING IMPACT.
 
-My interests span Artificial Intelligence, Generative AI, Machine Learning, Python Development, and Full-Stack Engineering.
+🤖 AI Engineer | 🐍 Python Developer |
 
-### What I Do
+</div>🚀 I'm passionate about Artificial Intelligence, software development, and emerging technologies. I enjoy turning innovative ideas into practical applications and building solutions that address real-world challenges.
 
-- Develop Python-based applications.
-- Explore Artificial Intelligence and Machine Learning.
-- Build Generative AI concepts and applications.
-- Develop frontend and backend applications.
-- Work with databases and REST APIs.
-- Explore practical software engineering solutions.
+🧠 My interests include exploring intelligent systems, developing AI-powered applications, solving technical problems, and working with modern technologies.
 
-### Currently Exploring
+---
 
-`Generative AI` · `LLMs` · `Deep Learning` · `NLP` · `AI Applications` · `Modern Software Engineering`
+◈ 💡 AREAS OF INTEREST
+
+<div align="center"><img src="https://img.shields.io/badge/🤖_ARTIFICIAL_INTELLIGENCE-00E5FF?style=flat-square&labelColor=030712"/>
+<img src="https://img.shields.io/badge/🧠_MACHINE_LEARNING-2563EB?style=flat-square&labelColor=030712"/>
+<img src="https://img.shields.io/badge/⚡_GENERATIVE_AI-8B5CF6?style=flat-square&labelColor=030712"/><img src="https://img.shields.io/badge/🐍_PYTHON_DEVELOPMENT-00E5FF?style=flat-square&labelColor=030712"/>
+<img src="https://img.shields.io/badge/🌐_WEB_DEVELOPMENT-2563EB?style=flat-square&labelColor=030712"/>
+<img src="https://img.shields.io/badge/💬_NLP-8B5CF6?style=flat-square&labelColor=030712"/></div>
+</div>
+
+### ◈ 🎯 DEVELOPMENT FOCUS
+
+| DOMAIN | FOCUS |
+|:---|:---|
+| 🤖 Artificial Intelligence | Intelligent applications |
+| ⚡ Generative AI | LLMs and AI-powered solutions |
+| 🐍 Python Development | Application development |
+| 🌐 Web Development | Frontend and backend technologies |
+| 🧩 Problem Solving | Practical programming projects |
+
+<div align="center">
+
+**⚡ LEARN • BUILD • INNOVATE ⚡**
+
+</div>
 
 ---
 
