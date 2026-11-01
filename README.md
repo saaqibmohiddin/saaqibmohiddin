@@ -45,13 +45,13 @@ mindset: Learn | Build | Innovate | Improve
 
 ## ◈ 02 — ABOUT ME
 
-<div align="center">ENGINEERING THE FUTURE WITH AI
+<div align="center">BUILDING INTELLIGENCE. CREATING IMPACT.
 
-Computer Science & Engineering | Artificial Intelligence
+AI Engineer | Python Developer | Full-Stack Developer
 
-</div>I'm a Computer Science and Engineering student specializing in Artificial Intelligence, interested in developing practical software applications and exploring emerging technologies.
+</div>I'm passionate about Artificial Intelligence, software development and emerging technologies. I enjoy building practical applications, exploring intelligent solutions and transforming ideas into functional projects.
 
-I enjoy programming, building projects, solving technical problems and continuously improving my skills.
+My interests include programming, developing AI-powered applications, solving technical challenges and continuously expanding my knowledge of modern technologies.
 
 ---
 
@@ -61,22 +61,18 @@ I enjoy programming, building projects, solving technical problems and continuou
 <img src="https://img.shields.io/badge/MACHINE_LEARNING-2563EB?style=flat-square&labelColor=030712"/>
 <img src="https://img.shields.io/badge/GENERATIVE_AI-8B5CF6?style=flat-square&labelColor=030712"/><img src="https://img.shields.io/badge/PYTHON-00E5FF?style=flat-square&labelColor=030712"/>
 <img src="https://img.shields.io/badge/WEB_DEVELOPMENT-2563EB?style=flat-square&labelColor=030712"/>
-<img src="https://img.shields.io/badge/NLP-8B5CF6?style=flat-square&labelColor=030712"/></div>
-### ◈ DEVELOPMENT FOCUS
+<img src="https://img.shields.io/badge/NLP-8B5CF6?style=flat-square&labelColor=030712"/></div>◈ DEVELOPMENT FOCUS
 
-| DOMAIN | FOCUS |
-|:---|:---|
-| Artificial Intelligence | Intelligent applications |
-| Generative AI | LLMs and AI-powered solutions |
-| Python Development | Application development |
-| Web Development | Frontend and backend technologies |
-| Problem Solving | Practical programming projects |
+DOMAIN| FOCUS
+Artificial Intelligence| Intelligent applications
+Generative AI| LLMs and AI-powered solutions
+Python Development| Application development
+Web Development| Frontend and backend technologies
+Problem Solving| Practical programming projects
 
-<div align="center">
+<div align="center">LEARN • BUILD • INNOVATE
 
-**LEARN • BUILD • INNOVATE**
-
-</div>
+</div>---
 
 
 ---
