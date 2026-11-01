@@ -456,13 +456,16 @@ MOHAMMED SAAQIB MOHIDDIN
 <sub>AI • PYTHON</sub>
 
 </div>NAME: Mohammed Saaqib Mohiddin
+
   STATUS: Active
 
 TECHNICAL SKILLS:
+
   languages: Python, Java, JavaScript, SQL
   frameworks: React, Flask, Django, FastAPI
 
 AREAS OF INTEREST:
+
   - Artificial Intelligence
   - Machine Learning
   - Deep Learning
@@ -470,15 +473,19 @@ AREAS OF INTEREST:
   - Natural Language Processing
 
 PROJECTS:
+
    7 GitHub projects
 
 GITHUB:
+
    https://github.com/saaqibmohiddin
 
 EMAIL:
+
   msaaqib777@gmail.com
 
 MOTTO:
+
   Learn. Build. Innovate. Repeat.
 
 <div align="center"><img src="https://img.shields.io/badge/BUILDING_DIGITAL_SOLUTIONS-00E5FF?style=flat-square&labelColor=030712"/>⚡ THINK • CODE • CREATE ⚡
