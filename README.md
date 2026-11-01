@@ -71,7 +71,6 @@ My interests span Artificial Intelligence, Generative AI, Machine Learning, Pyth
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CYBER_TECH-FF35D3?style=flat-square&labelColor=080817" />
 </p>
 
 <div align="center">
