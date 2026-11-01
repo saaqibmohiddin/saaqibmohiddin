@@ -545,32 +545,37 @@ MOTTO:
 
 ---
 
-## ◈ 14 – CURRENT FOCUS & LEARNING ROADMAP
+## ◈ 14 — CURRENT FOCUS & LEARNING ROADMAP
 
-<div align="center">
+<div align="center"><img src="https://img.shields.io/badge/DEVELOPMENT_ROADMAP-00E5FF?style=for-the-badge&labelColor=030712"/>🚀 LEARNING TODAY. BUILDING TOMORROW.
 
-### 🚀 WHAT I'M FOCUSING ON
+Focused on Artificial Intelligence, intelligent applications and modern software development.
 
-| Technology | Focus |
-|:---|:---|
-| Python | Advanced Python |
-| Artificial Intelligence | AI Applications |
-| Machine Learning | ML Models |
-| Generative AI | LLMs & RAG |
-| Deep Learning | Neural Networks |
-| Full Stack Development | React & FastAPI |
+</div>🧠 CURRENTLY EXPLORING
 
-### 🎯 MY NEXT GOALS
+AREA| LEARNING FOCUS
+🤖 Artificial Intelligence| AI-powered applications
+⚡ Generative AI| LLMs, RAG and AI solutions
+🧠 Machine Learning| Algorithms and model development
+🔬 Deep Learning| Neural networks and NLP
+🐍 Python| Advanced Python development
 
-- Build real-world AI applications.
-- Develop advanced GenAI projects.
-- Improve problem-solving skills.
-- Contribute to open-source projects.
-- Explore new AI technologies.
+💻 CURRENT DEVELOPMENT INTERESTS
 
-### 💡 LEARN. BUILD. GROW.
+- 🌐 Building modern full-stack applications.
+- 🤖 Exploring practical AI integrations.
+- ⚙️ Developing Python-based solutions.
+- 🧩 Improving software design and problem-solving.
 
-</div>
+🎯 FUTURE GOALS
+
+- 🚀 Build impactful real-world AI applications.
+- 🧠 Develop advanced Generative AI projects.
+- 🌍 Contribute to meaningful open-source projects.
+- 📚 Continuously explore emerging technologies.
+
+<div align="center"><img src="https://img.shields.io/badge/FOCUS-INNOVATION_&_CONTINUOUS_GROWTH-00E5FF?style=flat-square&labelColor=030712"/></div>
+
 
 ## ◈ 15 — CONNECT WITH ME
 
