@@ -43,36 +43,32 @@ mindset: Learn | Build | Innovate | Improve
 
 
 
-## ◈ 02 — ABOUT ME
+◈ 02 — ABOUT ME
 
-<div align="center">BUILDING INTELLIGENT SOLUTIONS THROUGH TECHNOLOGY
+<div align="center">AI • SOFTWARE • INNOVATION
 
 Computer Science & Engineering | Artificial Intelligence
 
-</div>I'm a Computer Science and Engineering student specializing in Artificial Intelligence, passionate about software development and emerging AI technologies.
+</div>I'm a Computer Science and Engineering student specializing in Artificial Intelligence. I'm interested in developing practical software applications and exploring modern AI technologies.
 
-I focus on building practical applications, strengthening my programming skills, and applying technical knowledge to real-world problems.
+My focus is on programming, building projects, solving problems and continuously improving my technical skills.
 
 ◈ CORE INTERESTS
 
-<div align="center"><img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-00E5FF?style=for-the-badge&labelColor=030712"/>
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-2563EB?style=for-the-badge&labelColor=030712"/>
-<img src="https://img.shields.io/badge/GENERATIVE_AI-8B5CF6?style=for-the-badge&labelColor=030712"/><img src="https://img.shields.io/badge/PYTHON-00E5FF?style=for-the-badge&labelColor=030712"/>
-<img src="https://img.shields.io/badge/WEB_DEVELOPMENT-2563EB?style=for-the-badge&labelColor=030712"/>
-<img src="https://img.shields.io/badge/NATURAL_LANGUAGE_PROCESSING-8B5CF6?style=for-the-badge&labelColor=030712"/></div>◈ WHAT I DO
+<div align="center"><img src="https://img.shields.io/badge/AI-00E5FF?style=flat-square&labelColor=030712"/>
+<img src="https://img.shields.io/badge/GENERATIVE_AI-2563EB?style=flat-square&labelColor=030712"/>
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-8B5CF6?style=flat-square&labelColor=030712"/><img src="https://img.shields.io/badge/PYTHON-00E5FF?style=flat-square&labelColor=030712"/>
+<img src="https://img.shields.io/badge/WEB_DEVELOPMENT-2563EB?style=flat-square&labelColor=030712"/>
+<img src="https://img.shields.io/badge/NLP-8B5CF6?style=flat-square&labelColor=030712"/></div>◈ WHAT I DO
 
-- Application Development — Build practical Python and web applications.
-- AI Exploration — Learn and experiment with AI, ML and Generative AI.
-- Problem Solving — Develop logical thinking through hands-on coding.
-- Continuous Learning — Explore modern tools, frameworks and technologies.
+- Application Development — Build Python and web applications.
+- AI Development — Explore AI, ML and Generative AI.
+- Problem Solving — Apply programming to practical challenges.
+- Continuous Learning — Learn modern tools and technologies.
 
----
+<div align="center">THINK • BUILD • INNOVATE
 
-<div align="center">THINK • DEVELOP • INNOVATE
-
-Turning knowledge into practical solutions.
-
-</div>---
+</div>
 
 
 ---
