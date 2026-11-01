@@ -64,56 +64,58 @@ My interests span Artificial Intelligence, Generative AI, Machine Learning, Pyth
 
 ---
 
+
+
 ## ◈ 03 — EDUCATION & ACADEMIC PROFILE
 
-<h2 align="center">
-  <img src="https://img.shields.io/badge/03-EDUCATION_%26_ACADEMIC_PROFILE-00E5FF?style=for-the-badge&labelColor=080817" />
-</h2>
-
-<p align="center">
-</p>
-
 <div align="center">
+
 <table width="100%">
 <tr>
 <td align="center">
+
 <h2>🎓 BACHELOR OF TECHNOLOGY</h2>
+
 <h3>COMPUTER SCIENCE AND ENGINEERING</h3>
-<img src="https://img.shields.io/badge/SPECIALIZATION-ARTIFICIAL_INTELLIGENCE-FF35D3?style=for-the-badge&labelColor=080817" />
+
+<img src="https://img.shields.io/badge/SPECIALIZATION-ARTIFICIAL_INTELLIGENCE-00E5FF?style=for-the-badge&labelColor=030712" />
+
 </td>
 </tr>
 </table>
-</div>
 
 <table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <h3>◈ COLLEGE</h3>
-      <strong>Audisankara College of Engineering and Technology</strong>
-    </td>
-    <td width="50%" align="center">
-      <h3>◈ UNIVERSITY</h3>
-      <strong>JNTU Anantapur</strong>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>◈ LOCATION</h3>
-      <strong>Gudur, Andhra Pradesh, India</strong>
-    </td>
-    <td width="50%" align="center">
-      <h3>◈ DURATION</h3>
-      <strong>2023 – 2027</strong>
-    </td>
-  </tr>
+<tr>
+<td width="50%" align="center">
+<h3>◈ COLLEGE</h3>
+<strong>Audisankara College of Engineering and Technology</strong>
+</td>
+<td width="50%" align="center">
+<h3>◈ UNIVERSITY</h3>
+<strong>JNTU Anantapur</strong>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<h3>◈ LOCATION</h3>
+<strong>Gudur, Andhra Pradesh, India</strong>
+</td>
+<td width="50%" align="center">
+<h3>◈ DURATION</h3>
+<strong>2023 – 2027</strong>
+</td>
+</tr>
 </table>
 
-<p>
-  <img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL_INTELLIGENCE-00E5FF?style=flat-square&labelColor=080817" />
-  <img src="https://img.shields.io/badge/DOMAIN-COMPUTER_SCIENCE-FF35D3?style=flat-square&labelColor=080817" />
+<p align="center">
+<img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL_INTELLIGENCE-00E5FF?style=flat-square&labelColor=030712" />
+<img src="https://img.shields.io/badge/DOMAIN-COMPUTER_SCIENCE-2563EB?style=flat-square&labelColor=030712" />
 </p>
 
 </div>
+
+---
+
 
 ---
 
