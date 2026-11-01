@@ -314,11 +314,18 @@ Skills: Data Extraction, Data Analysis, AI-powered Financial Chatbot Development
 
 Completion Date: September 4, 2026
 
-Verification: "View IBM Certificate" (https://www.credly.com/go/89VY6esa)
+Skills:
+
+- Artificial Intelligence Fundamentals
+- Understanding AI Concepts and Applications
+- Machine Learning Fundamentals
+- Generative AI Awareness
+- Responsible and Ethical AI
+- AI in Real-World Applications
 
 </div>
 
-## ◈ 07 — GITHUB ANALYTICS COMMAND CENTER
+## ◈ 08 — GITHUB ANALYTICS COMMAND CENTER
 
 <div align="center">
 
@@ -344,7 +351,7 @@ Verification: "View IBM Certificate" (https://www.credly.com/go/89VY6esa)
 
 ---
 
-## ◈ 08 — CONTRIBUTION ACTIVITY
+## ◈ 09 — CONTRIBUTION ACTIVITY
 
 <div align="center">
 
@@ -397,7 +404,7 @@ Verification: "View IBM Certificate" (https://www.credly.com/go/89VY6esa)
 
 ---
 
-## ◈ 09 — DEVELOPER COMMAND CENTER
+## ◈ 10 — DEVELOPER COMMAND CENTER
 
 ```text
 ┌──────────────────────────────────────────┐
@@ -437,7 +444,7 @@ Learn. Build. Innovate. Repeat.
 <img src="https://raw.githubusercontent.com/saaqibmohiddin/saaqibmohiddin/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub Contribution Graph"/>
 </div>
 
-## ◈ 10 — AI DEVELOPER INTELLIGENCE HUB
+## ◈ 11 — AI DEVELOPER INTELLIGENCE HUB
 
 <div align="center">
 
@@ -464,7 +471,7 @@ Learn. Build. Innovate. Repeat.
 
 ---
 
-## ◈ 11 — REPOSITORY SPOTLIGHT
+## ◈ 12 — REPOSITORY SPOTLIGHT
 
 <div align="center">
 
@@ -490,7 +497,7 @@ Learn. Build. Innovate. Repeat.
 
 ---
 
-## ◈ 12 — LATEST BLOG POSTS
+## ◈ 13 — LATEST BLOG POSTS
 
 <!-- BLOG-POST-LIST:START -->
 Blog automation will populate this section when an RSS feed is configured.
@@ -498,7 +505,7 @@ Blog automation will populate this section when an RSS feed is configured.
 
 ---
 
-## ◈ 13 — DEVELOPER JOURNEY
+## ◈ 14 — DEVELOPER JOURNEY
 
 - [Public Repositories](https://github.com/saaqibmohiddin?tab=repositories)
 - [Project Releases](https://github.com/saaqibmohiddin?tab=repositories)
@@ -507,7 +514,7 @@ Blog automation will populate this section when an RSS feed is configured.
 
 ---
 
-## ◈ 14 — ACHIEVEMENT WALL
+## ◈ 15 — ACHIEVEMENT WALL
 
 <div align="center">
 
@@ -519,7 +526,7 @@ Blog automation will populate this section when an RSS feed is configured.
 
 ---
 
-## ◈ 15 — AI PROJECT ASSISTANT
+## ◈ 16 — AI PROJECT ASSISTANT
 
 | Resource | Destination |
 |---|---|
@@ -531,13 +538,13 @@ Blog automation will populate this section when an RSS feed is configured.
 ---
 ---
 
-## ◈ 16 — GITHUB STATISTICS DASHBOARD
+## ◈ 17 — GITHUB STATISTICS DASHBOARD
 
 <div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=saaqibmohiddin&show_icons=true&theme=tokyonight&hide_border=true" /><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaqibmohiddin&layout=compact&theme=tokyonight&hide_border=true" /><img width="70%" src="https://streak-stats.demolab.com?user=saaqibmohiddin&theme=tokyonight&hide_border=true" /></div>---
 
 ---
 
-## ◈ 17 – CURRENT FOCUS & LEARNING ROADMAP
+## ◈ 18 – CURRENT FOCUS & LEARNING ROADMAP
 
 <div align="center">
 
@@ -564,7 +571,7 @@ Blog automation will populate this section when an RSS feed is configured.
 
 </div>
 
-## ◈ 18 — CONNECT WITH ME
+## ◈ 19 — CONNECT WITH ME
 
 <div align="center">
 
