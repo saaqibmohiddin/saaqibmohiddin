@@ -539,13 +539,9 @@ MOTTO:
 ---
 
 
-## ◈ 13 — GITHUB STATISTICS DASHBOARD
-
-<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=saaqibmohiddin&show_icons=true&theme=tokyonight&hide_border=true" /><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaqibmohiddin&layout=compact&theme=tokyonight&hide_border=true" /><img width="70%" src="https://streak-stats.demolab.com?user=saaqibmohiddin&theme=tokyonight&hide_border=true" /></div>---
-
 ---
 
-## ◈ 14 — CURRENT FOCUS & FUTURE GOALS
+## ◈ 13 — CURRENT FOCUS & FUTURE GOALS
 
 🚀 WHAT I'M LEARNING
 
@@ -570,7 +566,7 @@ MOTTO:
 - Keep learning new technologies.
 
 
-## ◈ 15 — CONNECT WITH ME
+## ◈ 14 — CONNECT WITH ME
 
 <div align="center">
 
