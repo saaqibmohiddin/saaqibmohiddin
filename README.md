@@ -520,12 +520,12 @@ MOTTO:
 
 ---
 
-## ◈ 12 — REPOSITORY SPOTLIGHT
+
 
 
 <hr>
 
-<h2 align="center">◇ 12 — REPOSITORY SPOTLIGHT</h2>
+<h2 align="center">◈  12 — REPOSITORY SPOTLIGHT</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-712CF9?style=for-the-badge&logo=github&logoColor=white" />
