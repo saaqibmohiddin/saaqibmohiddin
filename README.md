@@ -524,23 +524,13 @@ MOTTO:
 
 <div align="center">
 
-<a href="https://github.com/saaqibmohiddin/Inventory-Management">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=saaqibmohiddin&repo=Inventory-Management&bg_color=030712&title_color=00E5FF&icon_color=2563EB&text_color=DCE6F1&hide_border=true" />
+<a href="https://github.com/saaqibmohiddin" target="_blank">
 
-<a href="https://github.com/saaqibmohiddin/AI-Learning-Path-Generator">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=saaqibmohiddin&repo=AI-Learning-Path-Generator&bg_color=030712&title_color=00E5FF&icon_color=2563EB&text_color=DCE6F1&hide_border=true" />
+**🌐 https://github.com/saaqibmohiddin**
 
-<a href="https://github.com/saaqibmohiddin/Smart-Hospital-Queue">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=saaqibmohiddin&repo=Smart-Hospital-Queue&bg_color=030712&title_color=00E5FF&icon_color=2563EB&text_color=DCE6F1&hide_border=true" />
-
-<a href="https://github.com/saaqibmohiddin/AI-Language-Translator">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=saaqibmohiddin&repo=AI-Language-Translator&bg_color=030712&title_color=00E5FF&icon_color=2563EB&text_color=DCE6F1&hide_border=true" />
-
-[Explore All Public Repositories →](https://github.com/saaqibmohiddin?tab=repositories)
+</a>
 
 </div>
-
----
 
 
 ---
