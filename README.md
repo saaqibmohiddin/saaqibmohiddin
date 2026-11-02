@@ -462,7 +462,10 @@ STATUS: Active
 TECHNICAL SKILLS:
 
   languages: Python, Java, JavaScript, SQL
+
+
   frameworks: React, Flask, Django, FastAPI
+
 
 AREAS OF INTEREST:
 
