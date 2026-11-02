@@ -451,7 +451,6 @@ Skills:
 ## ◈ 10 — DEVELOPER COMMAND CENTER
 
 <div align="center">
-MOHAMMED SAAQIB MOHIDDIN
 
 <sub>AI • PYTHON</sub>
 
