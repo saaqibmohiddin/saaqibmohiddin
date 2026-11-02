@@ -522,15 +522,43 @@ MOTTO:
 
 ## ◈ 12 — REPOSITORY SPOTLIGHT
 
-<div align="center">
 
-<a href="https://github.com/saaqibmohiddin" target="_blank">
+<hr>
 
-**🌐 https://github.com/saaqibmohiddin**
+<h2 align="center">◇ 12 — REPOSITORY SPOTLIGHT</h2>
 
-</a>
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-712CF9?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-</div>
+<p align="center">
+  <b>Building. Learning. Innovating.</b>
+</p>
+
+<p align="center">
+  Explore my GitHub profile to discover my projects, source code,
+  technical implementations, and continuous development journey
+  in Artificial Intelligence and Software Engineering.
+</p>
+
+<p align="center">
+  <a href="https://github.com/saaqibmohiddin">
+    <img src="https://img.shields.io/badge/VISIT_MY_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/saaqibmohiddin">
+    <strong>🌐 https://github.com/saaqibmohiddin</strong>
+  </a>
+</p>
+
+<p align="center">
+  <i>Turning ideas into projects through code and innovation.</i>
+</p>
+
+<hr>
+
 
 
 ---
