@@ -325,7 +325,6 @@ Exploring • Building • Developing
 - 🚀 Live Demo (https://saaqibmohiddin.github.io/CineShield-AI/)
 - 💻 Source Code (https://github.com/saaqibmohiddin/CineShield-AI)
 
-
 </details><div align="center">⚡ CREATE • BUILD • INNOVATE ⚡
 
 </div>
