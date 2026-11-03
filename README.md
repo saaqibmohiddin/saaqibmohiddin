@@ -60,7 +60,6 @@ mindset: Learn | Build | Innovate | Improve
 <img src="https://img.shields.io/badge/⚡_GENERATIVE_AI-8B5CF6?style=flat-square&labelColor=030712"/><img src="https://img.shields.io/badge/🐍_PYTHON_DEVELOPMENT-00E5FF?style=flat-square&labelColor=030712"/>
 <img src="https://img.shields.io/badge/🌐_WEB_DEVELOPMENT-2563EB?style=flat-square&labelColor=030712"/>
 <img src="https://img.shields.io/badge/💬_NLP-8B5CF6?style=flat-square&labelColor=030712"/></div>
-</div>
 
 ### ◈ 🎯 DEVELOPMENT FOCUS
 
@@ -260,8 +259,11 @@ Gudur, Andhra Pradesh, India
 
 Exploring • Building • Developing
 
-</div><details>
+</div>
+
+<details>
 <summary><b>📦 INVENTORY MANAGEMENT SYSTEM</b></summary>Inventory management application.
+
 
 🔗 PROJECT LINKS
 
@@ -316,8 +318,9 @@ Exploring • Building • Developing
 - 🚀 Live Demo (https://saaqibmohiddin.github.io/Python-ChatBot/)
 - 💻 Source Code (https://github.com/saaqibmohiddin/Python-ChatBot)
 
+</details>
 
-</div><details>
+<details>
 <summary><b>🛡️🎬 CINESHIELD-AI</b></summary>CineShield-AI application.
 
 🔗 PROJECT LINKS
