@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:030712,45:0B1B3A,100:00E5FF&text=SAAQIB%20MOHIDDIN&fontSize=48&fontColor=DCE6F1&fontAlignY=38&desc=AI%20%7C%20GENERATIVE%20AI%20%7C%20CYBER%20INTELLIGENCE%20%7C%20PYTHON&descSize=14&descAlignY=58&animation=fadeIn" width="100%" alt="Project Aegis AI Developer Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:030712,45:0B1B3A,100:00E5FF&text=SAAQIB%20MOHIDDIN&fontSize=48&fontColor=DCE6F1&fontAlignY=38&desc=AI%20%7C%20GENERATIVE%20AI%20%7C%20%20%20%7C%20PYTHON&descSize=14&descAlignY=58&animation=fadeIn" width="100%" alt="Project Aegis AI Developer Banner"/>
 
 <a href="https://github.com/saaqibmohiddin">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Developer;Python+Developer;Generative+AI+Enthusiast;Full-Stack+Developer;Software+Developer" width="100%" alt="Developer introduction"/>
