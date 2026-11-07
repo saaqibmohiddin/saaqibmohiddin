@@ -253,223 +253,307 @@ Gudur, Andhra Pradesh, India
 
 ---
 
+
 ## ◈ 06 — FEATURED PROJECTS
-
-<br/>
-
-<!-- INTERACTIVE PROJECT SHOWCASE -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PROJECT-SHOWCASE-00E5FF?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/FEATURED-PROJECTS-00E5FF?style=for-the-badge&labelColor=030712"/>
 
-<p><b>⚡ EXPLORE MY DEVELOPMENT PROJECTS ⚡</b></p>
+<br/><br/>
 
-<p>Building intelligent applications and practical software solutions.</p>
+### ⚡ Explore My Development Projects
+
+<sub>INTELLIGENT APPLICATIONS • SOFTWARE ENGINEERING • INNOVATION</sub>
+
+<br/>
+
+Building practical applications and intelligent solutions through technology.
+
+<br/>
+
+<img src="https://img.shields.io/badge/8_PROJECTS-00E5FF?style=flat-square&labelColor=061A2B"/>
+<img src="https://img.shields.io/badge/AI_&_SOFTWARE-2563EB?style=flat-square&labelColor=061A2B"/>
+<img src="https://img.shields.io/badge/PROJECT_GALLERY-8B5CF6?style=flat-square&labelColor=061A2B"/>
 
 </div>
 
----
+<br/>
 
-<details>
-<summary><b>📦 INVENTORY MANAGEMENT SYSTEM</b> | Python & Application Development</summary>
+<!-- PROJECT GALLERY - ROW 1 -->
 
-**Project Overview**
+<table width="100%">
+<tr>
 
-Inventory management application.
+<td width="33%" valign="top">
+
+<div align="center">
+
+### 📦
+
+### Inventory Management
+
+<img src="https://img.shields.io/badge/PYTHON-00E5FF?style=flat-square&labelColor=030712"/>
+
+</div>
+
+Inventory management application designed to organize and manage inventory operations.
 
 <div align="center">
 
 <a href="https://saaqibmohiddin.github.io/Inventory-Management/">
-<img src="https://img.shields.io/badge/LIVE-DEMO-00E5FF?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/LIVE_DEMO-00E5FF?style=for-the-badge&labelColor=030712"/>
 </a>
 
 <a href="https://github.com/saaqibmohiddin/Inventory-Management">
-<img src="https://img.shields.io/badge/SOURCE-CODE-2563EB?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/SOURCE_CODE-2563EB?style=for-the-badge&labelColor=030712"/>
 </a>
 
 </div>
 
-</details>
+</td>
 
----
+<td width="33%" valign="top">
 
-<details>
-<summary><b>🤖 AI LEARNING PATH GENERATOR</b> | Artificial Intelligence</summary>
+<div align="center">
 
-**Project Overview**
+### 🤖
 
-AI-oriented learning path application.
+### AI Learning Path Generator
+
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-00E5FF?style=flat-square&labelColor=030712"/>
+
+</div>
+
+AI-oriented application designed to generate personalized learning paths.
 
 <div align="center">
 
 <a href="https://saaqibmohiddin.github.io/AI-Learning-Path-Generator/">
-<img src="https://img.shields.io/badge/LIVE-DEMO-00E5FF?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/LIVE_DEMO-00E5FF?style=for-the-badge&labelColor=030712"/>
 </a>
 
 <a href="https://github.com/saaqibmohiddin/AI-Learning-Path-Generator">
-<img src="https://img.shields.io/badge/SOURCE-CODE-2563EB?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/SOURCE_CODE-2563EB?style=for-the-badge&labelColor=030712"/>
 </a>
 
 </div>
 
-</details>
+</td>
 
----
+<td width="33%" valign="top">
 
-<details>
-<summary><b>🏥 SMART HOSPITAL QUEUE</b> | Healthcare Application</summary>
+<div align="center">
 
-**Project Overview**
+### 🏥
 
-Hospital queue management application.
+### Smart Hospital Queue
+
+<img src="https://img.shields.io/badge/HEALTHCARE-00E5FF?style=flat-square&labelColor=030712"/>
+
+</div>
+
+Hospital queue management application designed to organize patient queues.
 
 <div align="center">
 
 <a href="https://saaqibmohiddin.github.io/Smart-Hospital-Queue/">
-<img src="https://img.shields.io/badge/LIVE-DEMO-00E5FF?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/LIVE_DEMO-00E5FF?style=for-the-badge&labelColor=030712"/>
 </a>
 
 <a href="https://github.com/saaqibmohiddin/Smart-Hospital-Queue">
-<img src="https://img.shields.io/badge/SOURCE-CODE-2563EB?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/SOURCE_CODE-2563EB?style=for-the-badge&labelColor=030712"/>
 </a>
 
 </div>
 
-</details>
+</td>
 
----
+</tr>
+</table>
 
-<details>
-<summary><b>🌐 AI LANGUAGE TRANSLATOR</b> | Artificial Intelligence & NLP</summary>
+<br/>
 
-**Project Overview**
+<!-- PROJECT GALLERY - ROW 2 -->
+
+<table width="100%">
+<tr>
+
+<td width="33%" valign="top">
+
+<div align="center">
+
+### 🌐
+
+### AI Language Translator
+
+<img src="https://img.shields.io/badge/NLP_&_AI-00E5FF?style=flat-square&labelColor=030712"/>
+
+</div>
 
 AI-oriented language translation application.
 
 <div align="center">
 
 <a href="https://saaqibmohiddin.github.io/AI-Language-Translator/">
-<img src="https://img.shields.io/badge/LIVE-DEMO-00E5FF?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/LIVE_DEMO-00E5FF?style=for-the-badge&labelColor=030712"/>
 </a>
 
 <a href="https://github.com/saaqibmohiddin/AI-Language-Translator">
-<img src="https://img.shields.io/badge/SOURCE-CODE-2563EB?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/SOURCE_CODE-2563EB?style=for-the-badge&labelColor=030712"/>
 </a>
 
 </div>
 
-</details>
+</td>
 
----
+<td width="33%" valign="top">
 
-<details>
-<summary><b>🏦 BANKING MANAGEMENT SYSTEM</b> | Software Development</summary>
+<div align="center">
 
-**Project Overview**
+### 🏦
 
-Banking management application.
+### Banking Management System
+
+<img src="https://img.shields.io/badge/SOFTWARE_DEVELOPMENT-00E5FF?style=flat-square&labelColor=030712"/>
+
+</div>
+
+Banking management application for organizing banking operations.
 
 <div align="center">
 
 <a href="https://saaqibmohiddin.github.io/Banking-Management-System/">
-<img src="https://img.shields.io/badge/LIVE-DEMO-00E5FF?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/LIVE_DEMO-00E5FF?style=for-the-badge&labelColor=030712"/>
 </a>
 
 <a href="https://github.com/saaqibmohiddin/Banking-Management-System">
-<img src="https://img.shields.io/badge/SOURCE-CODE-2563EB?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/SOURCE_CODE-2563EB?style=for-the-badge&labelColor=030712"/>
 </a>
 
 </div>
 
-</details>
+</td>
 
----
+<td width="33%" valign="top">
 
-<details>
-<summary><b>🎓 STUDENT MANAGEMENT SYSTEM</b> | Application Development</summary>
+<div align="center">
 
-**Project Overview**
+### 🎓
 
-Student management application.
+### Student Management System
+
+<img src="https://img.shields.io/badge/APPLICATION_DEVELOPMENT-00E5FF?style=flat-square&labelColor=030712"/>
+
+</div>
+
+Student management application for organizing student information.
 
 <div align="center">
 
 <a href="https://saaqibmohiddin.github.io/Student-Management-System/">
-<img src="https://img.shields.io/badge/LIVE-DEMO-00E5FF?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/LIVE_DEMO-00E5FF?style=for-the-badge&labelColor=030712"/>
 </a>
 
 <a href="https://github.com/saaqibmohiddin/Student-Management-System">
-<img src="https://img.shields.io/badge/SOURCE-CODE-2563EB?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/SOURCE_CODE-2563EB?style=for-the-badge&labelColor=030712"/>
 </a>
 
 </div>
 
-</details>
+</td>
 
----
+</tr>
+</table>
 
-<details>
-<summary><b>💬 PYTHON CHATBOT</b> | Python & Artificial Intelligence</summary>
+<br/>
 
-**Project Overview**
+<!-- PROJECT GALLERY - ROW 3 -->
 
-Python-based chatbot project.
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 💬
+
+### Python Chatbot
+
+<img src="https://img.shields.io/badge/PYTHON_&_AI-00E5FF?style=flat-square&labelColor=030712"/>
+
+</div>
+
+Python-based chatbot project exploring conversational application development.
 
 <div align="center">
 
 <a href="https://saaqibmohiddin.github.io/Python-ChatBot/">
-<img src="https://img.shields.io/badge/LIVE-DEMO-00E5FF?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/LIVE_DEMO-00E5FF?style=for-the-badge&labelColor=030712"/>
 </a>
 
 <a href="https://github.com/saaqibmohiddin/Python-ChatBot">
-<img src="https://img.shields.io/badge/SOURCE-CODE-2563EB?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/SOURCE_CODE-2563EB?style=for-the-badge&labelColor=030712"/>
 </a>
 
 </div>
 
-</details>
+</td>
 
----
+<td width="50%" valign="top">
 
-<details>
-<summary><b>🛡️ CINESHIELD-AI</b> | Artificial Intelligence</summary>
+<div align="center">
 
-**Project Overview**
+### 🛡️
 
-CineShield-AI application.
+### CineShield-AI
+
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-00E5FF?style=flat-square&labelColor=030712"/>
+
+</div>
+
+CineShield-AI application focused on intelligent software solutions.
 
 <div align="center">
 
 <a href="https://saaqibmohiddin.github.io/CineShield-AI/">
-<img src="https://img.shields.io/badge/LIVE-DEMO-00E5FF?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/LIVE_DEMO-00E5FF?style=for-the-badge&labelColor=030712"/>
 </a>
 
 <a href="https://github.com/saaqibmohiddin/CineShield-AI">
-<img src="https://img.shields.io/badge/SOURCE-CODE-2563EB?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/SOURCE_CODE-2563EB?style=for-the-badge&labelColor=030712"/>
 </a>
 
 </div>
 
-</details>
+</td>
 
----
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/8_PROJECTS-00E5FF?style=for-the-badge&labelColor=030712"/>
-
-<img src="https://img.shields.io/badge/BUILDING-2563EB?style=for-the-badge&labelColor=030712"/>
-
-<img src="https://img.shields.io/badge/INNOVATING-8B5CF6?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━-00E5FF?style=flat-square&labelColor=030712"/>
 
 <br/><br/>
 
-**⚡ IDEAS INTO APPLICATIONS • CODE INTO SOLUTIONS ⚡**
+### ⚡ IDEAS INTO APPLICATIONS
+
+<img src="https://img.shields.io/badge/LEARN-00E5FF?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/BUILD-2563EB?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/INNOVATE-8B5CF6?style=for-the-badge&labelColor=030712"/>
+
+<br/><br/>
+
+**CONTINUOUS LEARNING • CREATIVE THINKING • REAL-WORLD SOLUTIONS**
 
 </div>
 
-<!-- END INTERACTIVE PROJECT SHOWCASE -->
+<!-- END FEATURED PROJECTS -->
+
 
 ---
 
