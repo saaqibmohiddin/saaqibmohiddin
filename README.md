@@ -581,6 +581,7 @@ Skills:
 </div>
 
 
+
 <!-- =============== 08 GITHUB PERFORMANCE DASHBOARD =============== -->
 
 ## ◈ 08 — GITHUB PERFORMANCE DASHBOARD
@@ -589,68 +590,37 @@ Skills:
 
 <br/>
 
-<img src="https://img.shields.io/badge/◈_GITHUB_PERFORMANCE-00D9FF?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/GITHUB_PERFORMANCE-00D9FF?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=030712"/>
 
 <br/><br/>
 
-<!-- CONTRIBUTION & STREAK STATISTICS -->
+<!-- GITHUB STREAK -->
 
-<img src="https://streak-stats.demolab.com?user=saaqibmohiddin&theme=dark&hide_border=true&background=030712&ring=00D9FF&fire=2563EB&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=94A3B8&currStreakNum=00D9FF&sideNums=2563EB&stroke=30363D" width="100%" alt="GitHub Contributions and Streak"/>
-
-<br/><br/>
-
-<!-- ACCOUNT OVERVIEW -->
-
-<h2>◈ ACCOUNT OVERVIEW</h2>
-
-<br/>
-
-<img src="https://img.shields.io/badge/PUBLIC_REPOSITORIES-08-00D9FF?style=for-the-badge&labelColor=030712"/>
-
-<img src="https://img.shields.io/badge/FOLLOWERS-04-2563EB?style=for-the-badge&labelColor=030712"/>
+<img src="https://streak-stats.demolab.com?user=saaqibmohiddin&theme=dark&hide_border=true&background=030712&ring=00D9FF&fire=2563EB&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=94A3B8&currStreakNum=00D9FF&sideNums=2563EB&stroke=30363D" width="100%" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/TOTAL_STARS-09-00D9FF?style=for-the-badge&labelColor=030712"/>
+<!-- GITHUB STATISTICS -->
+
+<h2>◈ GITHUB STATISTICS</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=saaqibmohiddin&show_icons=true&include_all_commits=true&hide_border=true&bg_color=030712&title_color=00D9FF&icon_color=2563EB&text_color=FFFFFF&ring_color=00D9FF" width="100%" alt="GitHub Statistics"/>
 
 <br/><br/>
 
-<!-- DEVELOPMENT EXPERTISE -->
+<!-- MOST USED LANGUAGES -->
 
-<h2>◈ DEVELOPMENT EXPERTISE</h2>
+<h2>◈ MOST USED LANGUAGES</h2>
 
-<br/>
-
-<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-030712?style=for-the-badge&logo=robot&logoColor=00D9FF&labelColor=030712"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaqibmohiddin&layout=compact&langs_count=8&hide_border=true&bg_color=030712&title_color=00D9FF&text_color=FFFFFF&border_color=2563EB" width="100%" alt="Most Used Languages"/>
 
 <br/><br/>
-
-<img src="https://img.shields.io/badge/PYTHON-030712?style=for-the-badge&logo=python&logoColor=00D9FF"/>
-
-<img src="https://img.shields.io/badge/GENERATIVE_AI-030712?style=for-the-badge&logo=openai&logoColor=00D9FF"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-030712?style=for-the-badge&logo=scikitlearn&logoColor=00D9FF"/>
-
-<br/><br/>
-
-<!-- GITHUB PROFILE -->
-
-<a href="https://github.com/saaqibmohiddin">
-<img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-00D9FF?style=for-the-badge&logo=github&logoColor=030712"/>
-</a>
-
-<br/><br/>
-
-<h3>⚡ CODE • BUILD • INNOVATE • REPEAT ⚡</h3>
 
 </div>
 
 ---
 
 <!-- =============== END SECTION 08 =============== -->
-
 
 
 ---
