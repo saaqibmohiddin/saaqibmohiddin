@@ -393,13 +393,18 @@ Skills:
 
 <div align="center">
 
-<img width="70%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaqibmohiddin&layout=donut-vertical&langs_count=8&hide_border=true&bg_color=030712&title_color=00E5FF&text_color=DCE6F1"/>
+<img
+width="100%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaqibmohiddin&layout=compact&langs_count=6&hide_border=true&bg_color=030712&title_color=00E5FF&text_color=DCE6F1"
+alt="Most Used Programming Languages"
+/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/PYTHON-00E5FF?style=for-the-badge&logo=python&logoColor=030712"/>
+
 <img src="https://img.shields.io/badge/JAVA-2563EB?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/JAVASCRIPT-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white"/>
 
 </div>
