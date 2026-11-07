@@ -373,14 +373,21 @@ Skills:
 
 </div>
 
-## ◈ 08 — GITHUB ANALYTICS COMMAND CENTER
+## ◈ 08 — GITHUB PERFORMANCE DASHBOARD
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/GITHUB-PERFORMANCE_DASHBOARD-00E5FF?style=for-the-badge&labelColor=030712"/>
 
-### Contribution Streak
+<br/><br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=saaqibmohiddin&hide_border=true&background=030712&ring=00E5FF&fire=2563EB&currStreakLabel=00E5FF&sideLabels=DCE6F1&dates=94A3B8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saaqibmohiddin&show_icons=true&hide_border=true&bg_color=030712&title_color=00E5FF&text_color=DCE6F1&icon_color=2563EB&border_color=1E3A5F"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaqibmohiddin&layout=compact&hide_border=true&bg_color=030712&title_color=00E5FF&text_color=DCE6F1&border_color=1E3A5F&langs_count=8"/>
+
+<br/><br/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=saaqibmohiddin&theme=transparent&hide_border=true&ring=00E5FF&fire=2563EB&currStreakLabel=00E5FF&sideLabels=DCE6F1&dates=94A3B8"/>
 
 </div>
 
