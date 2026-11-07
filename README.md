@@ -389,56 +389,41 @@ Skills:
 
 <br/>
 
-### 💻 PROGRAMMING LANGUAGE INTELLIGENCE
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/DEVELOPER_TECHNOLOGY_STACK-00E5FF?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/DEVELOPER_TECH_STACK-00E5FF?style=for-the-badge&labelColor=030712"/>
 
 <br/><br/>
 
-### ⚡ PROGRAMMING LANGUAGES
+<h3>⚡ PROGRAMMING LANGUAGES</h3>
 
 <img src="https://img.shields.io/badge/PYTHON-00E5FF?style=for-the-badge&logo=python&logoColor=030712"/>
-
 <img src="https://img.shields.io/badge/JAVA-2563EB?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/JAVASCRIPT-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white"/>
 
-<br/><br/>
+<h3>🌐 FRONTEND DEVELOPMENT</h3>
 
-### 🌐 FRONTEND TECHNOLOGIES
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/REACT-00E5FF?style=flat-square&logo=react&logoColor=030712"/>
+<img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<h3>⚙️ BACKEND DEVELOPMENT</h3>
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/DJANGO-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/FLASK-030712?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/FASTAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/REACT-00E5FF?style=for-the-badge&logo=react&logoColor=030712"/>
+<h3>🗄️ DATABASE TECHNOLOGIES</h3>
 
-<img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-
-<br/><br/>
-
-### ⚙️ BACKEND & DATABASE
-
-<img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/FLASK-030712?style=for-the-badge&logo=flask&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLITE-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/LEARN-030712?style=flat-square&labelColor=00E5FF"/>
-
 <img src="https://img.shields.io/badge/BUILD-030712?style=flat-square&labelColor=2563EB"/>
-
 <img src="https://img.shields.io/badge/INNOVATE-030712?style=flat-square&labelColor=8B5CF6"/>
 
 </div>
