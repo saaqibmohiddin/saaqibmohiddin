@@ -582,49 +582,49 @@ Skills:
 
 
 
-<!-- ================= SECTION 08 ================= -->
+<!-- ========== 08 GITHUB PERFORMANCE DASHBOARD ========== -->
 
 ## ◈ 08 — GITHUB PERFORMANCE DASHBOARD
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/◈_GITHUB_PERFORMANCE-15191C?style=for-the-badge&labelColor=15191C&color=00D9FF"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=saaqibmohiddin&theme=dark&hide_border=true&background=15191C&ring=00D9FF&fire=2563EB&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=94A3B8&currStreakNum=00D9FF&sideNums=2563EB&stroke=30363D" width="100%" alt="GitHub Contribution Streak"/>
+
+<br/><br/>
+
+### ◈ ACCOUNT OVERVIEW
+
 <br/>
 
-<img src="https://img.shields.io/badge/GITHUB_PERFORMANCE-15191C?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=15191C"/>
+<img src="https://img.shields.io/badge/PUBLIC_REPOSITORIES-08-00D9FF?style=for-the-badge&labelColor=15191C"/>
+
+<img src="https://img.shields.io/badge/FOLLOWERS-04-2563EB?style=for-the-badge&labelColor=15191C"/>
+
+<img src="https://img.shields.io/badge/TOTAL_STARS-09-00D9FF?style=for-the-badge&labelColor=15191C"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=saaqibmohiddin&theme=dark&hide_border=true&background=15191C&ring=00D9FF&fire=2563EB&currStreakLabel=00D9FF&sideLabels=DCE6F1&dates=94A3B8&stroke=30363D" width="100%" alt="GitHub Streak Dashboard"/>
-
-<br/><br/>
-
-### ◈ GITHUB ACCOUNT STATISTICS
+### ◈ DEVELOPMENT EXPERTISE
 
 <br/>
-
-<img src="https://img.shields.io/github/repos/saaqibmohiddin?style=for-the-badge&logo=github&label=PUBLIC%20REPOSITORIES&color=00D9FF&labelColor=15191C"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/github/followers/saaqibmohiddin?style=for-the-badge&logo=github&label=FOLLOWERS&color=2563EB&labelColor=15191C"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/github/stars/saaqibmohiddin?style=for-the-badge&logo=github&label=TOTAL%20STARS&color=00D9FF&labelColor=15191C&affiliations=OWNER"/>
-
-<br/><br/>
-
-### ◈ DEVELOPMENT FOCUS
 
 <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-15191C?style=for-the-badge&logo=probot&logoColor=00D9FF"/>
 
-<img src="https://img.shields.io/badge/PYTHON_DEVELOPMENT-15191C?style=for-the-badge&logo=python&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/PYTHON-15191C?style=for-the-badge&logo=python&logoColor=00D9FF"/>
 
 <img src="https://img.shields.io/badge/GENERATIVE_AI-15191C?style=for-the-badge&logo=openai&logoColor=00D9FF"/>
 
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-15191C?style=for-the-badge&logo=scikitlearn&logoColor=00D9FF"/>
+
 <br/><br/>
 
-<img src="https://img.shields.io/badge/08_REPOSITORIES-00D9FF?style=for-the-badge&labelColor=15191C"/>
+<a href="https://github.com/saaqibmohiddin">
+<img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-00D9FF?style=for-the-badge&logo=github&logoColor=15191C"/>
+</a>
 
 <br/><br/>
 
@@ -634,7 +634,7 @@ Skills:
 
 ---
 
-<!-- ================= END SECTION 08 ================= -->
+<!-- ========== END SECTION 08 ========== -->
 
 
 ---
