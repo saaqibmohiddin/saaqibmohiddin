@@ -375,14 +375,10 @@ Skills:
 
 ## ◈ 08 — GITHUB PERFORMANCE DASHBOARD
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/GITHUB-PERFORMANCE_DASHBOARD-00E5FF?style=for-the-badge&labelColor=030712"/>
-
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=saaqibmohiddin&theme=transparent&hide_border=true&ring=00E5FF&fire=2563EB&currStreakLabel=00E5FF&sideLabels=DCE6F1&dates=94A3B8"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=saaqibmohiddin&theme=transparent&hide_border=true&ring=00E5FF&fire=2563EB&currStreakLabel=00E5FF&sideLabels=DCE6F1&dates=94A3B8"/>
 
 </div>
 
