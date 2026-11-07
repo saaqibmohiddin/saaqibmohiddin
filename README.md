@@ -611,13 +611,12 @@ Skills:
 <h2>◈ MOST USED LANGUAGES</h2>
 
 <img
-src="assets/most-used-languages.svg"
-width="100%"
-alt="Most Used Languages Across All 8 Repositories"
+  src="assets/most-used-languages.svg"
+  width="100%"
+  alt="Most Used Languages Across All 8 Repositories"
 />
 
 </div>
-
 
 
 ---
