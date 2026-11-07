@@ -588,7 +588,6 @@ Skills:
 
 <br/>
 
-<img src="https://img.shields.io/badge/GITHUB_PERFORMANCE-00D9FF?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=030712"/>
 
 <br/><br/>
 
@@ -600,7 +599,7 @@ Skills:
 
 <!-- GITHUB STATISTICS -->
 
-<h2>◈ GITHUB STATISTICS</h2>
+<h2></h2>
 
 <img src="https://github-stats-extended.vercel.app/api?username=saaqibmohiddin&custom_title=GITHUB%20STATISTICS&hide_rank=true&show_icons=true&include_all_commits=true&hide_border=true&bg_color=030712&title_color=00D9FF&icon_color=2563EB&text_color=FFFFFF" width="100%" alt="GitHub Statistics"/>
 
@@ -608,7 +607,7 @@ Skills:
 
 <div align="center">
 
-<h2>◈ MOST USED LANGUAGES</h2>
+<h2></h2>
 
 <img
   src="assets/most-used-languages.svg"
