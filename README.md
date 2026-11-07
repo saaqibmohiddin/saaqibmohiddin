@@ -419,9 +419,6 @@ Skills:
 
 <br/>
 
-<img src="https://img.shields.io/badge/LEARN-030712?style=flat-square&labelColor=00E5FF"/>
-<img src="https://img.shields.io/badge/BUILD-030712?style=flat-square&labelColor=2563EB"/>
-<img src="https://img.shields.io/badge/INNOVATE-030712?style=flat-square&labelColor=8B5CF6"/>
 
 </div>
 
