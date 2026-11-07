@@ -602,7 +602,7 @@ Skills:
 
 <h2>◈ GITHUB STATISTICS</h2>
 
-<img src="https://github-stats-extended.vercel.app/api?username=saaqibmohiddin&show_icons=true&include_all_commits=true&hide_border=true&bg_color=030712&title_color=00D9FF&icon_color=2563EB&text_color=FFFFFF&ring_color=00D9FF" width="100%" alt="GitHub Statistics"/>
+<img src="https://github-stats-extended.vercel.app/api?username=saaqibmohiddin&custom_title=GITHUB%20STATISTICS&hide_rank=true&show_icons=true&include_all_commits=true&hide_border=true&bg_color=030712&title_color=00D9FF&icon_color=2563EB&text_color=FFFFFF" width="100%" alt="GitHub Statistics"/>
 
 <br/><br/>
 
