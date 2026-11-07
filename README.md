@@ -604,7 +604,7 @@ Skills:
 
 <h2>◈ GITHUB STATISTICS</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=saaqibmohiddin&show_icons=true&include_all_commits=true&hide_border=true&bg_color=030712&title_color=00D9FF&icon_color=2563EB&text_color=FFFFFF&ring_color=00D9FF" width="100%" alt="GitHub Statistics"/>
+<img src="https://github-stats-extended.vercel.app/api?username=saaqibmohiddin&show_icons=true&include_all_commits=true&hide_border=true&bg_color=030712&title_color=00D9FF&icon_color=2563EB&text_color=FFFFFF&ring_color=00D9FF" width="100%" alt="GitHub Statistics"/>
 
 <br/><br/>
 
@@ -612,7 +612,7 @@ Skills:
 
 <h2>◈ MOST USED LANGUAGES</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaqibmohiddin&layout=compact&langs_count=8&hide_border=true&bg_color=030712&title_color=00D9FF&text_color=FFFFFF&border_color=2563EB" width="100%" alt="Most Used Languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=saaqibmohiddin&layout=compact&langs_count=8&hide_border=true&bg_color=030712&title_color=00D9FF&text_color=FFFFFF" width="100%" alt="Most Used Languages"/>
 
 <br/><br/>
 
@@ -621,6 +621,7 @@ Skills:
 ---
 
 <!-- =============== END SECTION 08 =============== -->
+
 
 
 ---
