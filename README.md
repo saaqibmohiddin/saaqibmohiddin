@@ -255,80 +255,32 @@ Gudur, Andhra Pradesh, India
 
 ## ◈ 06 — FEATURED PROJECTS
 
-<div align="center"><img src="https://img.shields.io/badge/⚡ IDEAS INTO APPLICATIONS-00E5FF?style=for-the-badge&labelColor=030712"/>
+<br/>
 
-Exploring • Building • Developing
+### 🚀 INTERACTIVE PROJECT SHOWCASE
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROJECT_GALLERY-00E5FF?style=for-the-badge&labelColor=030712"/>
+
+<p>Explore my applications and development projects.</p>
 
 </div>
 
-<details>
-<summary><b>📦 INVENTORY MANAGEMENT SYSTEM</b></summary>Inventory management application.
+| PROJECT | DESCRIPTION | EXPLORE |
+|:---|:---|:---|
+| 📦 Inventory Management | Inventory management application | [Live Demo](https://saaqibmohiddin.github.io/Inventory-Management/) · [Source](https://github.com/saaqibmohiddin/Inventory-Management) |
+| 🤖 AI Learning Path Generator | AI-oriented learning path application | [Live Demo](https://saaqibmohiddin.github.io/AI-Learning-Path-Generator/) · [Source](https://github.com/saaqibmohiddin/AI-Learning-Path-Generator) |
+| 🏥 Smart Hospital Queue | Hospital queue management application | [Live Demo](https://saaqibmohiddin.github.io/Smart-Hospital-Queue/) · [Source](https://github.com/saaqibmohiddin/Smart-Hospital-Queue) |
+| 🌐 AI Language Translator | Language translation application | [Live Demo](https://saaqibmohiddin.github.io/AI-Language-Translator/) · [Source](https://github.com/saaqibmohiddin/AI-Language-Translator) |
+| 🏦 Banking Management | Banking management application | [Live Demo](https://saaqibmohiddin.github.io/Banking-Management-System/) · [Source](https://github.com/saaqibmohiddin/Banking-Management-System) |
+| 🎓 Student Management | Student management application | [Live Demo](https://saaqibmohiddin.github.io/Student-Management-System/) · [Source](https://github.com/saaqibmohiddin/Student-Management-System) |
+| 💬 Python Chatbot | Python-based chatbot project | [Live Demo](https://saaqibmohiddin.github.io/Python-ChatBot/) · [Source](https://github.com/saaqibmohiddin/Python-ChatBot) |
+| 🛡️ CineShield-AI | CineShield-AI application | [Live Demo](https://saaqibmohiddin.github.io/CineShield-AI/) · [Source](https://github.com/saaqibmohiddin/CineShield-AI) |
 
+<div align="center">
 
-🔗 PROJECT LINKS
-
-- 🚀 Live Demo (https://saaqibmohiddin.github.io/Inventory-Management/)
-- 💻 Source Code (https://github.com/saaqibmohiddin/Inventory-Management)
-
-</details><details>
-<summary><b>🤖 AI LEARNING PATH GENERATOR</b></summary>AI-oriented learning path application.
-
-🔗 PROJECT LINKS
-
-- 🚀 Live Demo (https://saaqibmohiddin.github.io/AI-Learning-Path-Generator/)
-- 💻 Source Code (https://github.com/saaqibmohiddin/AI-Learning-Path-Generator)
-
-</details><details>
-<summary><b>🏥 SMART HOSPITAL QUEUE</b></summary>Hospital queue management application.
-
-🔗 PROJECT LINKS
-
-- 🚀 Live Demo (https://saaqibmohiddin.github.io/Smart-Hospital-Queue/)
-- 💻 Source Code (https://github.com/saaqibmohiddin/Smart-Hospital-Queue)
-
-</details><details>
-<summary><b>🌐 AI LANGUAGE TRANSLATOR</b></summary>AI-oriented language translation application.
-
-🔗 PROJECT LINKS
-
-- 🚀 Live Demo (https://saaqibmohiddin.github.io/AI-Language-Translator/)
-- 💻 Source Code (https://github.com/saaqibmohiddin/AI-Language-Translator)
-
-</details><details>
-<summary><b>🏦 BANKING MANAGEMENT SYSTEM</b></summary>Banking management application.
-
-🔗 PROJECT LINKS
-
-- 🚀 Live Demo (https://saaqibmohiddin.github.io/Banking-Management-System/)
-- 💻 Source Code (https://github.com/saaqibmohiddin/Banking-Management-System)
-
-</details><details>
-<summary><b>🎓 STUDENT MANAGEMENT SYSTEM</b></summary>Student management application.
-
-🔗 PROJECT LINKS
-
-- 🚀 Live Demo (https://saaqibmohiddin.github.io/Student-Management-System/)
-- 💻 Source Code (https://github.com/saaqibmohiddin/Student-Management-System)
-
-</details><details>
-<summary><b>💬 PYTHON CHATBOT</b></summary>Python-based chatbot project.
-
-🔗 PROJECT LINKS
-
-- 🚀 Live Demo (https://saaqibmohiddin.github.io/Python-ChatBot/)
-- 💻 Source Code (https://github.com/saaqibmohiddin/Python-ChatBot)
-
-</details>
-
-<details>
-<summary><b>🛡️🎬 CINESHIELD-AI</b></summary>CineShield-AI application.
-
-🔗 PROJECT LINKS
-
-- 🚀 Live Demo (https://saaqibmohiddin.github.io/CineShield-AI/)
-- 💻 Source Code (https://github.com/saaqibmohiddin/CineShield-AI)
-
-</details><div align="center">⚡ CREATE • BUILD • INNOVATE ⚡
+<img src="https://img.shields.io/badge/EXPLORE-00E5FF?style=for-the-badge&labelColor=030712"/>
 
 </div>
 
