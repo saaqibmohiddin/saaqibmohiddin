@@ -580,16 +580,52 @@ Skills:
 
 </div>
 
+
 ## ◈ 08 — GITHUB PERFORMANCE DASHBOARD
 
+<div align="center">
 
+<br/>
+
+<img src="https://img.shields.io/badge/GITHUB_PERFORMANCE-030712?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=030712" />
 
 <br/><br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=saaqibmohiddin&theme=transparent&hide_border=true&ring=00E5FF&fire=2563EB&currStreakLabel=00E5FF&sideLabels=DCE6F1&dates=94A3B8"/>
+<img src="https://streak-stats.demolab.com?user=saaqibmohiddin&theme=dark&hide_border=true&background=15191C&ring=00D9FF&fire=2563EB&currStreakLabel=00D9FF&sideLabels=DCE6F1&dates=94A3B8&stroke=30363D" width="100%" alt="GitHub Streak Statistics"/>
+
+<br/><br/>
+
+<table width="100%">
+<tr>
+<td align="center" width="50%">
+
+**<img src="https://img.shields.io/badge/BLUE-2563EB?style=flat-square"/>**
+
+<img src="https://github-readme-stats.vercel.app/api?username=saaqibmohiddin&show_icons=true&hide_border=true&bg_color=15191C&title_color=00D9FF&icon_color=2563EB&text_color=DCE6F1&include_all_commits=true" width="100%" alt="GitHub Statistics"/>
+
+</td>
+<td align="center" width="50%">
+
+**<img src="https://img.shields.io/badge/CYAN-00D9FF?style=flat-square"/>**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaqibmohiddin&layout=compact&hide_border=true&bg_color=15191C&title_color=00D9FF&text_color=DCE6F1" width="100%" alt="Most Used Languages"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/08_REPOSITORIES-00D9FF?style=for-the-badge&labelColor=15191C"/>
+<img src="https://img.shields.io/badge/AI_&_SOFTWARE-2563EB?style=for-the-badge&labelColor=15191C"/>
+
+<br/><br/>
+
+**⚡ CODE • BUILD • INNOVATE • REPEAT ⚡**
 
 </div>
 
+---
 
 ---
 
