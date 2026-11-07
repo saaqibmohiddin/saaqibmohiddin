@@ -606,15 +606,17 @@ Skills:
 
 <br/><br/>
 
+
 <!-- MOST USED LANGUAGES -->
 
 <h2>◈ MOST USED LANGUAGES</h2>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=saaqibmohiddin&layout=compact&langs_count=8&hide_border=true&bg_color=030712&title_color=00D9FF&text_color=FFFFFF" width="100%" alt="Most Used Languages"/>
+<div align="center">
 
-<br/><br/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=saaqibmohiddin&layout=compact&langs_count=10&card_width=500&hide_border=true&bg_color=030712&title_color=00D9FF&text_color=FFFFFF&border_color=2563EB" width="100%" alt="Most Used Programming Languages"/>
 
 </div>
+
 
 
 
