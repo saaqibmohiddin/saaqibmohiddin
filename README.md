@@ -606,25 +606,17 @@ Skills:
 
 <br/><br/>
 
-<!-- MOST USED LANGUAGES DASHBOARD -->
-
 <div align="center">
 
 <h2>◈ MOST USED LANGUAGES</h2>
 
 <img
-  src="assets/most-used-languages.svg"
-  width="100%"
-  alt="Most Used Languages Across All 8 Projects"
+src="assets/most-used-languages.svg"
+width="100%"
+alt="Most Used Languages Across All 8 Repositories"
 />
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/8-PUBLIC_REPOSITORIES-00D9FF?style=for-the-badge&labelColor=030712"/>
-
 </div>
-
-<!-- END MOST USED LANGUAGES DASHBOARD -->
 
 
 
