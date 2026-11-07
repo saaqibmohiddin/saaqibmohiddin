@@ -379,8 +379,6 @@ Skills:
 
 <img src="https://img.shields.io/badge/GITHUB-PERFORMANCE_DASHBOARD-00E5FF?style=for-the-badge&labelColor=030712"/>
 
-<br/><br/>
-
 
 <br/><br/>
 
