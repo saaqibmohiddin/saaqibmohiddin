@@ -1,12 +1,11 @@
-
 import json
+import os
 import urllib.request
-import urllib.error
-from html import escape
+from pathlib import Path
 
 USERNAME = "saaqibmohiddin"
 
-REPOSITORIES = [
+REPOS = [
     "CineShield-AI",
     "Inventory-Management",
     "Smart-Hospital-Queue",
@@ -17,193 +16,135 @@ REPOSITORIES = [
     "AI-Language-Translator",
 ]
 
-OUTPUT_FILE = "assets/most-used-languages.svg"
+COLORS = {
+    "Python": "#3776AB",
+    "JavaScript": "#F7DF1E",
+    "HTML": "#E34F26",
+    "CSS": "#1572B6",
+    "Java": "#ED8B00",
+    "TypeScript": "#3178C6",
+    "Jupyter Notebook": "#F37626",
+    "C": "#A8B9CC",
+    "C++": "#00599C",
+    "Shell": "#89E051",
+    "PHP": "#777BB4",
+    "Go": "#00ADD8",
+    "Ruby": "#CC342D",
+}
 
-COLORS = [
-    "#2685FF",
-    "#FF7043",
-    "#F7DF1E",
-    "#985EFF",
-    "#00D9FF",
-    "#35C9A5",
-    "#E879F9",
-    "#F59E0B",
-    "#A3B8CC",
-    "#EF4444",
+def get_languages(repo):
+    url = (
+        f"https://api.github.com/repos/"
+        f"{USERNAME}/{repo}/languages"
+    )
+
+    headers = {
+        "User-Agent": "GitHub-Language-Dashboard"
+    }
+
+    token = os.getenv("GH_TOKEN")
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+
+    request = urllib.request.Request(
+        url, headers=headers
+    )
+
+    with urllib.request.urlopen(request) as response:
+        return json.loads(response.read())
+
+totals = {}
+
+for repo in REPOS:
+    try:
+        languages = get_languages(repo)
+
+        for language, size in languages.items():
+            totals[language] = (
+                totals.get(language, 0) + size
+            )
+
+        print(f"Updated: {repo}")
+
+    except Exception as error:
+        print(f"Error in {repo}: {error}")
+
+total_bytes = sum(totals.values())
+
+if not total_bytes:
+    raise RuntimeError("No language data found.")
+
+languages = sorted(
+    totals.items(),
+    key=lambda item: item[1],
+    reverse=True
+)
+
+width = 1000
+row_height = 72
+height = 180 + len(languages) * row_height
+
+svg = [
+    f'<svg xmlns="http://www.w3.org/2000/svg" '
+    f'width="{width}" height="{height}" '
+    f'viewBox="0 0 {width} {height}">',
+    """
+    <defs>
+      <linearGradient id="bg">
+        <stop offset="0%" stop-color="#030712"/>
+        <stop offset="100%" stop-color="#071827"/>
+      </linearGradient>
+      <linearGradient id="border">
+        <stop offset="0%" stop-color="#00D9FF"/>
+        <stop offset="100%" stop-color="#2563EB"/>
+      </linearGradient>
+    </defs>
+    """,
+    f'<rect width="100%" height="100%" rx="28" fill="url(#bg)"/>',
+    f'<rect x="4" y="4" width="992" height="{height-8}" '
+    f'rx="24" fill="none" stroke="url(#border)" stroke-width="4"/>',
+    '<text x="50" y="75" fill="#00D9FF" '
+    'font-size="38" font-weight="bold">'
+    'MOST USED PROGRAMMING LANGUAGES</text>',
+    '<text x="50" y="125" fill="#94A3B8" '
+    'font-size="20">Across 8 public GitHub repositories</text>'
 ]
 
+y = 195
 
-def github_request(url):
-    request = urllib.request.Request(
-        url,
-        headers={
-            "Accept": "application/vnd.github+json",
-            "User-Agent": "GitHub-Language-Dashboard"
-        }
+for language, size in languages:
+    percentage = size / total_bytes * 100
+    color = COLORS.get(language, "#94A3B8")
+    bar_width = percentage * 7.0
+
+    svg.append(
+        f'<text x="55" y="{y}" fill="#FFFFFF" '
+        f'font-size="25" font-weight="bold">'
+        f'{language}</text>'
     )
 
-    with urllib.request.urlopen(request, timeout=30) as response:
-        return json.loads(response.read().decode("utf-8"))
-
-
-def collect_languages():
-    totals = {}
-
-    for repo in REPOSITORIES:
-        url = (
-            f"https://api.github.com/repos/"
-            f"{USERNAME}/{repo}/languages"
-        )
-
-        try:
-            languages = github_request(url)
-
-            print(f"Checking: {repo}")
-
-            for language, byte_count in languages.items():
-                totals[language] = (
-                    totals.get(language, 0) + byte_count
-                )
-
-        except urllib.error.HTTPError as error:
-            print(f"Could not access {repo}: HTTP {error.code}")
-            raise
-
-        except Exception as error:
-            print(f"Error checking {repo}: {error}")
-            raise
-
-    return totals
-
-
-def create_svg(language_totals):
-    total_bytes = sum(language_totals.values())
-
-    if total_bytes == 0:
-        raise ValueError("No language data found.")
-
-    languages = sorted(
-        language_totals.items(),
-        key=lambda item: item[1],
-        reverse=True
+    svg.append(
+        f'<rect x="300" y="{y-25}" width="550" '
+        f'height="22" rx="11" fill="#263445"/>'
     )
 
-    width = 1000
-    row_height = 67
-    start_y = 205
-    height = max(350, start_y + len(languages) * row_height + 85)
+    svg.append(
+        f'<rect x="300" y="{y-25}" width="{bar_width:.2f}" '
+        f'height="22" rx="11" fill="{color}"/>'
+    )
 
-    parts = []
+    svg.append(
+        f'<text x="930" y="{y}" fill="#FFFFFF" '
+        f'font-size="23" text-anchor="end">'
+        f'{percentage:.2f}%</text>'
+    )
 
-    parts.append(f'''
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="{width}" height="{height}"
-     viewBox="0 0 {width} {height}">
+    y += row_height
 
-<defs>
-  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0%" stop-color="#0B1930"/>
-    <stop offset="100%" stop-color="#030712"/>
-  </linearGradient>
+svg.append("</svg>")
 
-  <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0%" stop-color="#00D9FF"/>
-    <stop offset="100%" stop-color="#2563EB"/>
-  </linearGradient>
-</defs>
+output = Path("assets/most-used-languages.svg")
+output.parent.mkdir(parents=True, exist_ok=True)
+output.write_text("\n".join(svg), encoding="utf-8")
 
-<rect width="1000" height="{height}" rx="24"
-      fill="url(#background)"/>
-
-<rect x="4" y="4" width="992" height="{height-8}" rx="21"
-      fill="none" stroke="url(#border)" stroke-width="3"/>
-
-<text x="500" y="65" text-anchor="middle"
-      fill="#00D9FF" font-size="35"
-      font-weight="bold" font-family="Arial">
-  MOST USED LANGUAGES
-</text>
-
-<text x="500" y="105" text-anchor="middle"
-      fill="#94A3B8" font-size="17" font-family="Arial">
-  LANGUAGE DISTRIBUTION ACROSS 8 PUBLIC PROJECTS
-</text>
-
-<line x1="55" y1="130" x2="945" y2="130"
-      stroke="#2563EB" stroke-width="2"/>
-
-<text x="60" y="175" fill="#FFFFFF"
-      font-size="17" font-family="Arial">
-  LANGUAGE
-</text>
-
-<text x="940" y="175" text-anchor="end"
-      fill="#FFFFFF" font-size="17" font-family="Arial">
-  PERCENTAGE
-</text>
-''')
-
-    for index, (language, byte_count) in enumerate(languages):
-        percentage = byte_count / total_bytes * 100
-        y = start_y + index * row_height
-        color = COLORS[index % len(COLORS)]
-
-        label = escape(language)
-        percent_text = f"{percentage:.2f}%"
-
-        bar_width = percentage / 100 * 540
-
-        parts.append(f'''
-<text x="60" y="{y}"
-      fill="#FFFFFF" font-size="21"
-      font-weight="bold" font-family="Arial">
-  {label}
-</text>
-
-<rect x="275" y="{y-22}" width="540" height="19"
-      rx="9" fill="#263445"/>
-
-<rect x="275" y="{y-22}" width="{bar_width:.2f}" height="19"
-      rx="9" fill="{color}"/>
-
-<text x="940" y="{y-5}" text-anchor="end"
-      fill="#FFFFFF" font-size="20"
-      font-weight="bold" font-family="Arial">
-  {percent_text}
-</text>
-''')
-
-    parts.append(f'''
-<line x1="55" y1="{height-55}" x2="945" y2="{height-55}"
-      stroke="#2563EB" stroke-width="2"/>
-
-<text x="500" y="{height-25}" text-anchor="middle"
-      fill="#94A3B8" font-size="14" font-family="Arial">
-  GITHUB LINGUIST • BYTE-WEIGHTED • {len(languages)} LANGUAGES
-</text>
-
-</svg>
-''')
-
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as file:
-        file.write("\n".join(parts))
-
-    print("\nLanguage statistics generated successfully!")
-
-    for language, byte_count in languages:
-        percentage = byte_count / total_bytes * 100
-        print(f"{language}: {percentage:.2f}%")
-
-    print(f"\nSaved to: {OUTPUT_FILE}")
-
-
-def main():
-    print("GitHub Language Dashboard")
-    print("=" * 35)
-
-    language_data = collect_languages()
-    create_svg(language_data)
-
-
-if __name__ == "__main__":
-    main()
+print("Language dashboard generated successfully!")
