@@ -382,47 +382,9 @@ Skills:
 
 <br/><br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=saaqibmohiddin&theme=transparent&hide_border=true&ring=00E5FF&fire=2563EB&currStreakLabel=00E5FF&sideLabels=DCE6F1&dates=94A3B8"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=saaqibmohiddin&theme=transparent&hide_border=true&ring=00E5FF&fire=2563EB&currStreakLabel=00E5FF&sideLabels=DCE6F1&dates=94A3B8"/>
 
 </div>
-
-<!-- DEVELOPER TECHNOLOGY DASHBOARD -->
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/TECHNOLOGY-ECOSYSTEM-00E5FF?style=for-the-badge&labelColor=030712"/>
-
-<p><strong>⚡ PROGRAMMING LANGUAGES</strong></p>
-
-<img src="https://img.shields.io/badge/PYTHON-00E5FF?style=for-the-badge&logo=python&logoColor=030712"/>
-<img src="https://img.shields.io/badge/JAVA-2563EB?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVASCRIPT-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white"/>
-
-<p><strong>🌐 FRONTEND DEVELOPMENT</strong></p>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/REACT-00E5FF?style=flat-square&logo=react&logoColor=030712"/>
-<img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-
-<p><strong>⚙️ BACKEND DEVELOPMENT</strong></p>
-
-<img src="https://img.shields.io/badge/DJANGO-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/FLASK-030712?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/FASTAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-
-<p><strong>🗄️ DATABASE TECHNOLOGIES</strong></p>
-
-<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLITE-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-
-<br/>
-
-
-</div>
-
-<!-- END DEVELOPER TECHNOLOGY DASHBOARD -->
 
 
 ---
