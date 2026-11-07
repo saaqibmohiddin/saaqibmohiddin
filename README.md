@@ -257,32 +257,219 @@ Gudur, Andhra Pradesh, India
 
 <br/>
 
-### 🚀 INTERACTIVE PROJECT SHOWCASE
+<!-- INTERACTIVE PROJECT SHOWCASE -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PROJECT_GALLERY-00E5FF?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/PROJECT-SHOWCASE-00E5FF?style=for-the-badge&labelColor=030712"/>
 
-<p>Explore my applications and development projects.</p>
+<p><b>⚡ EXPLORE MY DEVELOPMENT PROJECTS ⚡</b></p>
+
+<p>Building intelligent applications and practical software solutions.</p>
 
 </div>
 
-| PROJECT | DESCRIPTION | EXPLORE |
-|:---|:---|:---|
-| 📦 Inventory Management | Inventory management application | [Live Demo](https://saaqibmohiddin.github.io/Inventory-Management/) · [Source](https://github.com/saaqibmohiddin/Inventory-Management) |
-| 🤖 AI Learning Path Generator | AI-oriented learning path application | [Live Demo](https://saaqibmohiddin.github.io/AI-Learning-Path-Generator/) · [Source](https://github.com/saaqibmohiddin/AI-Learning-Path-Generator) |
-| 🏥 Smart Hospital Queue | Hospital queue management application | [Live Demo](https://saaqibmohiddin.github.io/Smart-Hospital-Queue/) · [Source](https://github.com/saaqibmohiddin/Smart-Hospital-Queue) |
-| 🌐 AI Language Translator | Language translation application | [Live Demo](https://saaqibmohiddin.github.io/AI-Language-Translator/) · [Source](https://github.com/saaqibmohiddin/AI-Language-Translator) |
-| 🏦 Banking Management | Banking management application | [Live Demo](https://saaqibmohiddin.github.io/Banking-Management-System/) · [Source](https://github.com/saaqibmohiddin/Banking-Management-System) |
-| 🎓 Student Management | Student management application | [Live Demo](https://saaqibmohiddin.github.io/Student-Management-System/) · [Source](https://github.com/saaqibmohiddin/Student-Management-System) |
-| 💬 Python Chatbot | Python-based chatbot project | [Live Demo](https://saaqibmohiddin.github.io/Python-ChatBot/) · [Source](https://github.com/saaqibmohiddin/Python-ChatBot) |
-| 🛡️ CineShield-AI | CineShield-AI application | [Live Demo](https://saaqibmohiddin.github.io/CineShield-AI/) · [Source](https://github.com/saaqibmohiddin/CineShield-AI) |
+---
+
+<details>
+<summary><b>📦 INVENTORY MANAGEMENT SYSTEM</b> | Python & Application Development</summary>
+
+**Project Overview**
+
+Inventory management application.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/EXPLORE-00E5FF?style=for-the-badge&labelColor=030712"/>
+<a href="https://saaqibmohiddin.github.io/Inventory-Management/">
+<img src="https://img.shields.io/badge/LIVE-DEMO-00E5FF?style=for-the-badge&labelColor=030712"/>
+</a>
+
+<a href="https://github.com/saaqibmohiddin/Inventory-Management">
+<img src="https://img.shields.io/badge/SOURCE-CODE-2563EB?style=for-the-badge&labelColor=030712"/>
+</a>
 
 </div>
+
+</details>
+
+---
+
+<details>
+<summary><b>🤖 AI LEARNING PATH GENERATOR</b> | Artificial Intelligence</summary>
+
+**Project Overview**
+
+AI-oriented learning path application.
+
+<div align="center">
+
+<a href="https://saaqibmohiddin.github.io/AI-Learning-Path-Generator/">
+<img src="https://img.shields.io/badge/LIVE-DEMO-00E5FF?style=for-the-badge&labelColor=030712"/>
+</a>
+
+<a href="https://github.com/saaqibmohiddin/AI-Learning-Path-Generator">
+<img src="https://img.shields.io/badge/SOURCE-CODE-2563EB?style=for-the-badge&labelColor=030712"/>
+</a>
+
+</div>
+
+</details>
+
+---
+
+<details>
+<summary><b>🏥 SMART HOSPITAL QUEUE</b> | Healthcare Application</summary>
+
+**Project Overview**
+
+Hospital queue management application.
+
+<div align="center">
+
+<a href="https://saaqibmohiddin.github.io/Smart-Hospital-Queue/">
+<img src="https://img.shields.io/badge/LIVE-DEMO-00E5FF?style=for-the-badge&labelColor=030712"/>
+</a>
+
+<a href="https://github.com/saaqibmohiddin/Smart-Hospital-Queue">
+<img src="https://img.shields.io/badge/SOURCE-CODE-2563EB?style=for-the-badge&labelColor=030712"/>
+</a>
+
+</div>
+
+</details>
+
+---
+
+<details>
+<summary><b>🌐 AI LANGUAGE TRANSLATOR</b> | Artificial Intelligence & NLP</summary>
+
+**Project Overview**
+
+AI-oriented language translation application.
+
+<div align="center">
+
+<a href="https://saaqibmohiddin.github.io/AI-Language-Translator/">
+<img src="https://img.shields.io/badge/LIVE-DEMO-00E5FF?style=for-the-badge&labelColor=030712"/>
+</a>
+
+<a href="https://github.com/saaqibmohiddin/AI-Language-Translator">
+<img src="https://img.shields.io/badge/SOURCE-CODE-2563EB?style=for-the-badge&labelColor=030712"/>
+</a>
+
+</div>
+
+</details>
+
+---
+
+<details>
+<summary><b>🏦 BANKING MANAGEMENT SYSTEM</b> | Software Development</summary>
+
+**Project Overview**
+
+Banking management application.
+
+<div align="center">
+
+<a href="https://saaqibmohiddin.github.io/Banking-Management-System/">
+<img src="https://img.shields.io/badge/LIVE-DEMO-00E5FF?style=for-the-badge&labelColor=030712"/>
+</a>
+
+<a href="https://github.com/saaqibmohiddin/Banking-Management-System">
+<img src="https://img.shields.io/badge/SOURCE-CODE-2563EB?style=for-the-badge&labelColor=030712"/>
+</a>
+
+</div>
+
+</details>
+
+---
+
+<details>
+<summary><b>🎓 STUDENT MANAGEMENT SYSTEM</b> | Application Development</summary>
+
+**Project Overview**
+
+Student management application.
+
+<div align="center">
+
+<a href="https://saaqibmohiddin.github.io/Student-Management-System/">
+<img src="https://img.shields.io/badge/LIVE-DEMO-00E5FF?style=for-the-badge&labelColor=030712"/>
+</a>
+
+<a href="https://github.com/saaqibmohiddin/Student-Management-System">
+<img src="https://img.shields.io/badge/SOURCE-CODE-2563EB?style=for-the-badge&labelColor=030712"/>
+</a>
+
+</div>
+
+</details>
+
+---
+
+<details>
+<summary><b>💬 PYTHON CHATBOT</b> | Python & Artificial Intelligence</summary>
+
+**Project Overview**
+
+Python-based chatbot project.
+
+<div align="center">
+
+<a href="https://saaqibmohiddin.github.io/Python-ChatBot/">
+<img src="https://img.shields.io/badge/LIVE-DEMO-00E5FF?style=for-the-badge&labelColor=030712"/>
+</a>
+
+<a href="https://github.com/saaqibmohiddin/Python-ChatBot">
+<img src="https://img.shields.io/badge/SOURCE-CODE-2563EB?style=for-the-badge&labelColor=030712"/>
+</a>
+
+</div>
+
+</details>
+
+---
+
+<details>
+<summary><b>🛡️ CINESHIELD-AI</b> | Artificial Intelligence</summary>
+
+**Project Overview**
+
+CineShield-AI application.
+
+<div align="center">
+
+<a href="https://saaqibmohiddin.github.io/CineShield-AI/">
+<img src="https://img.shields.io/badge/LIVE-DEMO-00E5FF?style=for-the-badge&labelColor=030712"/>
+</a>
+
+<a href="https://github.com/saaqibmohiddin/CineShield-AI">
+<img src="https://img.shields.io/badge/SOURCE-CODE-2563EB?style=for-the-badge&labelColor=030712"/>
+</a>
+
+</div>
+
+</details>
+
+---
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/8_PROJECTS-00E5FF?style=for-the-badge&labelColor=030712"/>
+
+<img src="https://img.shields.io/badge/BUILDING-2563EB?style=for-the-badge&labelColor=030712"/>
+
+<img src="https://img.shields.io/badge/INNOVATING-8B5CF6?style=for-the-badge&labelColor=030712"/>
+
+<br/><br/>
+
+**⚡ IDEAS INTO APPLICATIONS • CODE INTO SOLUTIONS ⚡**
+
+</div>
+
+<!-- END INTERACTIVE PROJECT SHOWCASE -->
 
 ---
 
