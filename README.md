@@ -381,9 +381,6 @@ Skills:
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saaqibmohiddin&show_icons=true&hide_border=true&bg_color=030712&title_color=00E5FF&text_color=DCE6F1&icon_color=2563EB&border_color=1E3A5F"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaqibmohiddin&layout=compact&hide_border=true&bg_color=030712&title_color=00E5FF&text_color=DCE6F1&border_color=1E3A5F&langs_count=8"/>
 
 <br/><br/>
 
