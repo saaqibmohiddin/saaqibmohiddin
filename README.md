@@ -606,21 +606,25 @@ Skills:
 
 <br/><br/>
 
-
 <!-- =============== MOST USED LANGUAGES =============== -->
 
 <h2 align="center">◈ MOST USED LANGUAGES</h2>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaqibmohiddin&layout=compact&langs_count=10&card_width=600&hide_border=true&bg_color=030712&title_color=00D9FF&text_color=FFFFFF&border_color=00D9FF"
-    width="100%"
-    alt="Most Used Languages"
-  />
-</p>
+<hr/>
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaqibmohiddin&layout=compact&langs_count=20&size_weight=1&count_weight=0&theme=transparent&hide_border=true&bg_color=030712&title_color=00D9FF&text_color=FFFFFF&card_width=900"
+  width="100%"
+  alt="Most Used Programming Languages Across GitHub Repositories"
+/>
+
+</div>
+
+---
 
 <!-- =============== END MOST USED LANGUAGES =============== -->
-
 
 
 
