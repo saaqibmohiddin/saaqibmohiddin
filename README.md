@@ -582,8 +582,6 @@ Skills:
 
 
 
-<!-- =============== 08 GITHUB PERFORMANCE DASHBOARD =============== -->
-
 ## ◈ 08 — GITHUB PERFORMANCE DASHBOARD
 
 <div align="center">
@@ -617,10 +615,6 @@ Skills:
 <br/><br/>
 
 </div>
-
----
-
-<!-- =============== END SECTION 08 =============== -->
 
 
 
