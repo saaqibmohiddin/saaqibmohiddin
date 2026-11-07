@@ -258,8 +258,6 @@ Gudur, Andhra Pradesh, India
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/FEATURED-PROJECTS-00E5FF?style=for-the-badge&labelColor=030712"/>
-
 <br/><br/>
 
 ### ⚡ Explore My Development Projects
@@ -535,20 +533,6 @@ CineShield-AI application focused on intelligent software solutions.
 <br/>
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━-00E5FF?style=flat-square&labelColor=030712"/>
-
-<br/><br/>
-
-### ⚡ IDEAS INTO APPLICATIONS
-
-<img src="https://img.shields.io/badge/LEARN-00E5FF?style=for-the-badge&labelColor=030712"/>
-<img src="https://img.shields.io/badge/BUILD-2563EB?style=for-the-badge&labelColor=030712"/>
-<img src="https://img.shields.io/badge/INNOVATE-8B5CF6?style=for-the-badge&labelColor=030712"/>
-
-<br/><br/>
-
-**CONTINUOUS LEARNING • CREATIVE THINKING • REAL-WORLD SOLUTIONS**
 
 </div>
 
