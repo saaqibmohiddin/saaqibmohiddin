@@ -581,60 +581,76 @@ Skills:
 </div>
 
 
-
-<!-- ========== 08 GITHUB PERFORMANCE DASHBOARD ========== -->
+<!-- =============== 08 GITHUB PERFORMANCE DASHBOARD =============== -->
 
 ## ◈ 08 — GITHUB PERFORMANCE DASHBOARD
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/◈_GITHUB_PERFORMANCE-15191C?style=for-the-badge&labelColor=15191C&color=00D9FF"/>
+<br/>
+
+<img src="https://img.shields.io/badge/◈_GITHUB_PERFORMANCE-00D9FF?style=for-the-badge&labelColor=030712"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=saaqibmohiddin&theme=dark&hide_border=true&background=15191C&ring=00D9FF&fire=2563EB&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=94A3B8&currStreakNum=00D9FF&sideNums=2563EB&stroke=30363D" width="100%" alt="GitHub Contribution Streak"/>
+<!-- CONTRIBUTION & STREAK STATISTICS -->
+
+<img src="https://streak-stats.demolab.com?user=saaqibmohiddin&theme=dark&hide_border=true&background=030712&ring=00D9FF&fire=2563EB&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=94A3B8&currStreakNum=00D9FF&sideNums=2563EB&stroke=30363D" width="100%" alt="GitHub Contributions and Streak"/>
 
 <br/><br/>
 
-### ◈ ACCOUNT OVERVIEW
+<!-- ACCOUNT OVERVIEW -->
+
+<h2>◈ ACCOUNT OVERVIEW</h2>
 
 <br/>
 
-<img src="https://img.shields.io/badge/PUBLIC_REPOSITORIES-08-00D9FF?style=for-the-badge&labelColor=15191C"/>
+<img src="https://img.shields.io/badge/PUBLIC_REPOSITORIES-08-00D9FF?style=for-the-badge&labelColor=030712"/>
 
-<img src="https://img.shields.io/badge/FOLLOWERS-04-2563EB?style=for-the-badge&labelColor=15191C"/>
-
-<img src="https://img.shields.io/badge/TOTAL_STARS-09-00D9FF?style=for-the-badge&labelColor=15191C"/>
+<img src="https://img.shields.io/badge/FOLLOWERS-04-2563EB?style=for-the-badge&labelColor=030712"/>
 
 <br/><br/>
 
-### ◈ DEVELOPMENT EXPERTISE
+<img src="https://img.shields.io/badge/TOTAL_STARS-09-00D9FF?style=for-the-badge&labelColor=030712"/>
+
+<br/><br/>
+
+<!-- DEVELOPMENT EXPERTISE -->
+
+<h2>◈ DEVELOPMENT EXPERTISE</h2>
 
 <br/>
 
-<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-15191C?style=for-the-badge&logo=probot&logoColor=00D9FF"/>
-
-<img src="https://img.shields.io/badge/PYTHON-15191C?style=for-the-badge&logo=python&logoColor=00D9FF"/>
-
-<img src="https://img.shields.io/badge/GENERATIVE_AI-15191C?style=for-the-badge&logo=openai&logoColor=00D9FF"/>
-
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-15191C?style=for-the-badge&logo=scikitlearn&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-030712?style=for-the-badge&logo=robot&logoColor=00D9FF&labelColor=030712"/>
 
 <br/><br/>
+
+<img src="https://img.shields.io/badge/PYTHON-030712?style=for-the-badge&logo=python&logoColor=00D9FF"/>
+
+<img src="https://img.shields.io/badge/GENERATIVE_AI-030712?style=for-the-badge&logo=openai&logoColor=00D9FF"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-030712?style=for-the-badge&logo=scikitlearn&logoColor=00D9FF"/>
+
+<br/><br/>
+
+<!-- GITHUB PROFILE -->
 
 <a href="https://github.com/saaqibmohiddin">
-<img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-00D9FF?style=for-the-badge&logo=github&logoColor=15191C"/>
+<img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-00D9FF?style=for-the-badge&logo=github&logoColor=030712"/>
 </a>
 
 <br/><br/>
 
-**⚡ CODE • BUILD • INNOVATE • REPEAT ⚡**
+<h3>⚡ CODE • BUILD • INNOVATE • REPEAT ⚡</h3>
 
 </div>
 
 ---
 
-<!-- ========== END SECTION 08 ========== -->
+<!-- =============== END SECTION 08 =============== -->
+
 
 
 ---
