@@ -1,0 +1,44 @@
+name: Update Most Used Languages
+
+on:
+  push:
+    branches:
+      - main
+
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-languages:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Profile Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate Language Dashboard
+        run: python scripts/generate_languages.py
+
+      - name: Commit Updated Dashboard
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/most-used-languages.svg
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Update language dashboard"
+            git push
+          else
+            echo "No changes detected"
+          fi
